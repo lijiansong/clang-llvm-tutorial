@@ -1,0 +1,17 @@
+digraph "CFG for 'foo' function" {
+	label="CFG for 'foo' function";
+
+	Node0x7192960 [shape=record,label="{entry:\l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !10, metadata\l... !11), !dbg !12\l  call void @llvm.dbg.value(metadata i32 %b, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  call void @llvm.dbg.value(metadata i32 100, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  %tobool = icmp ne i32 %a, 0, !dbg !19\l  br i1 %tobool, label %if.then, label %if.else, !dbg !21\l|{<s0>T|<s1>F}}"];
+	Node0x7192960:s0 -> Node0x71aa7e0;
+	Node0x7192960:s1 -> Node0x71aa890;
+	Node0x71aa7e0 [shape=record,label="{if.then:                                          \l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %if.end, !dbg !22\l}"];
+	Node0x71aa7e0 -> Node0x71aa9d0;
+	Node0x71aa890 [shape=record,label="{if.else:                                          \l  call void @llvm.dbg.value(metadata i32 10, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %if.end\l}"];
+	Node0x71aa890 -> Node0x71aa9d0;
+	Node0x71aa9d0 [shape=record,label="{if.end:                                           \l  %x.0 = phi i32 [ 0, %if.then ], [ 10, %if.else ]\l  %tobool1 = icmp ne i32 %b, 0, !dbg !24\l  br i1 %tobool1, label %if.then2, label %if.end3, !dbg !26\l|{<s0>T|<s1>F}}"];
+	Node0x71aa9d0:s0 -> Node0x71ab8c0;
+	Node0x71aa9d0:s1 -> Node0x71ab980;
+	Node0x71ab8c0 [shape=record,label="{if.then2:                                         \l  %add = add nsw i32 %x.0, 1, !dbg !27\l  call void @llvm.dbg.value(metadata i32 %add, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  br label %if.end3, !dbg !29\l}"];
+	Node0x71ab8c0 -> Node0x71ab980;
+	Node0x71ab980 [shape=record,label="{if.end3:                                          \l  %y.0 = phi i32 [ %add, %if.then2 ], [ 100, %if.end ]\l  ret i32 %y.0, !dbg !30\l}"];
+}

@@ -1,0 +1,19 @@
+digraph "CFG for 'foo' function" {
+	label="CFG for 'foo' function";
+
+	Node0x6ad9980 [shape=record,label="{entry:\l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !10, metadata\l... !11), !dbg !12\l  call void @llvm.dbg.value(metadata i32 10, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  br label %for.cond, !dbg !15\l}"];
+	Node0x6ad9980 -> Node0x6ade260;
+	Node0x6ade260 [shape=record,label="{for.cond:                                         \l  %x.0 = phi i32 [ 10, %entry ], [ %x.1, %if.end ]\l  %cmp = icmp sgt i32 %x.0, 0, !dbg !16\l  br i1 %cmp, label %for.body, label %for.end, !dbg !20\l|{<s0>T|<s1>F}}"];
+	Node0x6ade260:s0 -> Node0x6ade8f0;
+	Node0x6ade260:s1 -> Node0x6ade9b0;
+	Node0x6ade8f0 [shape=record,label="{for.body:                                         \l  %tobool = icmp ne i32 %a, 0, !dbg !21\l  br i1 %tobool, label %if.then, label %if.else, !dbg !24\l|{<s0>T|<s1>F}}"];
+	Node0x6ade8f0:s0 -> Node0x6af1800;
+	Node0x6ade8f0:s1 -> Node0x6af18b0;
+	Node0x6af1800 [shape=record,label="{if.then:                                          \l  %add = add nsw i32 %x.0, 1, !dbg !25\l  call void @llvm.dbg.value(metadata i32 %add, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  br label %if.end, !dbg !26\l}"];
+	Node0x6af1800 -> Node0x6ade540;
+	Node0x6af18b0 [shape=record,label="{if.else:                                          \l  %sub = sub nsw i32 %x.0, 1, !dbg !27\l  call void @llvm.dbg.value(metadata i32 %sub, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  br label %if.end\l}"];
+	Node0x6af18b0 -> Node0x6ade540;
+	Node0x6ade540 [shape=record,label="{if.end:                                           \l  %x.1 = phi i32 [ %add, %if.then ], [ %sub, %if.else ]\l  br label %for.cond, !dbg !28, !llvm.loop !30\l}"];
+	Node0x6ade540 -> Node0x6ade260;
+	Node0x6ade9b0 [shape=record,label="{for.end:                                          \l  ret i32 %x.0, !dbg !31\l}"];
+}

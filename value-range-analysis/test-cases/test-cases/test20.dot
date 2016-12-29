@@ -1,0 +1,13 @@
+digraph "CFG for 'foo' function" {
+	label="CFG for 'foo' function";
+
+	Node0x727f5d0 [shape=record,label="{entry:\l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !10, metadata\l... !11), !dbg !12\l  call void @llvm.dbg.value(metadata i32 10, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  %cmp = icmp slt i32 %a, 10, !dbg !15\l  br i1 %cmp, label %land.lhs.true, label %if.end, !dbg !17\l|{<s0>T|<s1>F}}"];
+	Node0x727f5d0:s0 -> Node0x7284080;
+	Node0x727f5d0:s1 -> Node0x7284140;
+	Node0x7284080 [shape=record,label="{land.lhs.true:                                    \l  %cmp1 = icmp sgt i32 %a, 0, !dbg !18\l  br i1 %cmp1, label %if.then, label %if.end, !dbg !20\l|{<s0>T|<s1>F}}"];
+	Node0x7284080:s0 -> Node0x72845f0;
+	Node0x7284080:s1 -> Node0x7284140;
+	Node0x72845f0 [shape=record,label="{if.then:                                          \l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  br label %if.end, !dbg !21\l}"];
+	Node0x72845f0 -> Node0x7284140;
+	Node0x7284140 [shape=record,label="{if.end:                                           \l  %x.0 = phi i32 [ %a, %if.then ], [ 10, %land.lhs.true ], [ 10, %entry ]\l  ret i32 %x.0, !dbg !23\l}"];
+}

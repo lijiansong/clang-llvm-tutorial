@@ -1,0 +1,31 @@
+TranslationUnitDecl 0xa413a10 <<invalid sloc>> <invalid sloc>
+|-TypedefDecl 0xa413f58 <<invalid sloc>> <invalid sloc> implicit __int128_t '__int128'
+| `-BuiltinType 0xa413c80 '__int128'
+|-TypedefDecl 0xa413fb8 <<invalid sloc>> <invalid sloc> implicit __uint128_t 'unsigned __int128'
+| `-BuiltinType 0xa413ca0 'unsigned __int128'
+|-TypedefDecl 0xa414288 <<invalid sloc>> <invalid sloc> implicit __NSConstantString 'struct __NSConstantString_tag'
+| `-RecordType 0xa414090 'struct __NSConstantString_tag'
+|   `-Record 0xa414008 '__NSConstantString_tag'
+|-TypedefDecl 0xa414318 <<invalid sloc>> <invalid sloc> implicit __builtin_ms_va_list 'char *'
+| `-PointerType 0xa4142e0 'char *'
+|   `-BuiltinType 0xa413aa0 'char'
+|-TypedefDecl 0xa4145d8 <<invalid sloc>> <invalid sloc> implicit __builtin_va_list 'struct __va_list_tag [1]'
+| `-ConstantArrayType 0xa414580 'struct __va_list_tag [1]' 1 
+|   `-RecordType 0xa4143f0 'struct __va_list_tag'
+|     `-Record 0xa414368 '__va_list_tag'
+|-FunctionDecl 0xa414678 <test1.c:1:1, col:16> col:12 GET 'int ()' extern
+|-FunctionDecl 0xa469500 <line:2:1, col:23> col:13 MALLOC 'long (int)' extern
+| `-ParmVarDecl 0xa469440 <col:20> col:23 'int'
+|-FunctionDecl 0xa469680 <line:3:1, col:22> col:13 FREE 'void (long)' extern
+| `-ParmVarDecl 0xa4695c0 <col:18> col:22 'long'
+|-FunctionDecl 0xa469800 <line:4:1, col:22> col:13 used PRINT 'void (int)' extern
+| `-ParmVarDecl 0xa469740 <col:19> col:22 'int'
+|-VarDecl 0xa4698c0 <line:6:1, col:7> col:5 used b 'int' cinit
+| `-IntegerLiteral 0xa469920 <col:7> 'int' 10
+`-FunctionDecl 0xa469960 <line:7:1, line:9:1> line:7:5 main 'int ()'
+  `-CompoundStmt 0xa469ae8 <col:12, line:9:1>
+    `-CallExpr 0xa469aa0 <line:8:4, col:11> 'void'
+      |-ImplicitCastExpr 0xa469a88 <col:4> 'void (*)(int)' <FunctionToPointerDecay>
+      | `-DeclRefExpr 0xa469a08 <col:4> 'void (int)' Function 0xa469800 'PRINT' 'void (int)'
+      `-ImplicitCastExpr 0xa469ad0 <col:10> 'int' <LValueToRValue>
+        `-DeclRefExpr 0xa469a30 <col:10> 'int' lvalue Var 0xa4698c0 'b' 'int'

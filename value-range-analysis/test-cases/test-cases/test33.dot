@@ -1,0 +1,12 @@
+digraph "CFG for 'foo' function" {
+	label="CFG for 'foo' function";
+
+	Node0x6eb1800 [shape=record,label="{entry:\l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !10, metadata\l... !11), !dbg !12\l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %for.cond, !dbg !17\l}"];
+	Node0x6eb1800 -> Node0x6eb6470;
+	Node0x6eb6470 [shape=record,label="{for.cond:                                         \l  %x.0 = phi i32 [ 0, %entry ], [ %add, %for.body ]\l  %y.0 = phi i32 [ 0, %entry ], [ %add1, %for.body ]\l  %cmp = icmp slt i32 %x.0, 10, !dbg !18\l  br i1 %cmp, label %for.body, label %for.end, !dbg !22\l|{<s0>T|<s1>F}}"];
+	Node0x6eb6470:s0 -> Node0x6eb6750;
+	Node0x6eb6470:s1 -> Node0x6ec96a0;
+	Node0x6eb6750 [shape=record,label="{for.body:                                         \l  %add = add nsw i32 %x.0, 1, !dbg !23\l  call void @llvm.dbg.value(metadata i32 %add, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  %add1 = add nsw i32 %y.0, 1, !dbg !25\l  call void @llvm.dbg.value(metadata i32 %add1, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %for.cond, !dbg !26, !llvm.loop !28\l}"];
+	Node0x6eb6750 -> Node0x6eb6470;
+	Node0x6ec96a0 [shape=record,label="{for.end:                                          \l  ret i32 %y.0, !dbg !29\l}"];
+}

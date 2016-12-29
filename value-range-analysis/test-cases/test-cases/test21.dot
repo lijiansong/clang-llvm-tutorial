@@ -1,0 +1,17 @@
+digraph "CFG for 'foo' function" {
+	label="CFG for 'foo' function";
+
+	Node0x7235a90 [shape=record,label="{entry:\l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !10, metadata\l... !11), !dbg !12\l  call void @llvm.dbg.value(metadata i32 %b, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  call void @llvm.dbg.value(metadata i32 100, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  call void @llvm.dbg.value(metadata i32 100, i64 0, metadata !19, metadata\l... !11), !dbg !20\l  %tobool = icmp ne i32 %a, 0, !dbg !21\l  br i1 %tobool, label %if.then, label %if.else, !dbg !23\l|{<s0>T|<s1>F}}"];
+	Node0x7235a90:s0 -> Node0x724dcb0;
+	Node0x7235a90:s1 -> Node0x724dd60;
+	Node0x724dcb0 [shape=record,label="{if.then:                                          \l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %if.end, !dbg !24\l}"];
+	Node0x724dcb0 -> Node0x724dea0;
+	Node0x724dd60 [shape=record,label="{if.else:                                          \l  call void @llvm.dbg.value(metadata i32 10, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %if.end\l}"];
+	Node0x724dd60 -> Node0x724dea0;
+	Node0x724dea0 [shape=record,label="{if.end:                                           \l  %x.0 = phi i32 [ 0, %if.then ], [ 10, %if.else ]\l  %add = add nsw i32 %x.0, 1, !dbg !26\l  call void @llvm.dbg.value(metadata i32 %add, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  %cmp = icmp slt i32 %add, %x.0, !dbg !27\l  br i1 %cmp, label %if.then1, label %if.end2, !dbg !29\l|{<s0>T|<s1>F}}"];
+	Node0x724dea0:s0 -> Node0x724f790;
+	Node0x724dea0:s1 -> Node0x724f850;
+	Node0x724f790 [shape=record,label="{if.then1:                                         \l  call void @llvm.dbg.value(metadata i32 %x.0, i64 0, metadata !19, metadata\l... !11), !dbg !20\l  br label %if.end2, !dbg !30\l}"];
+	Node0x724f790 -> Node0x724f850;
+	Node0x724f850 [shape=record,label="{if.end2:                                          \l  %z.0 = phi i32 [ %x.0, %if.then1 ], [ 100, %if.end ]\l  ret i32 %z.0, !dbg !32\l}"];
+}

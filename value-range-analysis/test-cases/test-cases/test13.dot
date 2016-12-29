@@ -1,0 +1,19 @@
+digraph "CFG for 'foo' function" {
+	label="CFG for 'foo' function";
+
+	Node0x61fdd10 [shape=record,label="{entry:\l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !10, metadata\l... !11), !dbg !12\l  call void @llvm.dbg.value(metadata i32 %b, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  call void @llvm.dbg.value(metadata i32 100, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  call void @llvm.dbg.value(metadata i32 100, i64 0, metadata !19, metadata\l... !11), !dbg !20\l  %tobool = icmp ne i32 %a, 0, !dbg !21\l  br i1 %tobool, label %if.then, label %if.else, !dbg !23\l|{<s0>T|<s1>F}}"];
+	Node0x61fdd10:s0 -> Node0x6215f20;
+	Node0x61fdd10:s1 -> Node0x6215fd0;
+	Node0x6215f20 [shape=record,label="{if.then:                                          \l  call void @llvm.dbg.value(metadata i32 0, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %if.end, !dbg !24\l}"];
+	Node0x6215f20 -> Node0x6216110;
+	Node0x6215fd0 [shape=record,label="{if.else:                                          \l  call void @llvm.dbg.value(metadata i32 10, i64 0, metadata !15, metadata\l... !11), !dbg !16\l  br label %if.end\l}"];
+	Node0x6215fd0 -> Node0x6216110;
+	Node0x6216110 [shape=record,label="{if.end:                                           \l  %x.0 = phi i32 [ 0, %if.then ], [ 10, %if.else ]\l  %tobool1 = icmp ne i32 %b, 0, !dbg !26\l  br i1 %tobool1, label %if.then2, label %if.else3, !dbg !28\l|{<s0>T|<s1>F}}"];
+	Node0x6216110:s0 -> Node0x6217000;
+	Node0x6216110:s1 -> Node0x62170c0;
+	Node0x6217000 [shape=record,label="{if.then2:                                         \l  %add = add nsw i32 %x.0, 1, !dbg !29\l  call void @llvm.dbg.value(metadata i32 %add, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  br label %if.end4, !dbg !31\l}"];
+	Node0x6217000 -> Node0x6217d80;
+	Node0x62170c0 [shape=record,label="{if.else3:                                         \l  %sub = sub nsw i32 %x.0, 1, !dbg !32\l  call void @llvm.dbg.value(metadata i32 %sub, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  %mul = mul nsw i32 %sub, %x.0, !dbg !34\l  call void @llvm.dbg.value(metadata i32 %mul, i64 0, metadata !19, metadata\l... !11), !dbg !20\l  br label %if.end4\l}"];
+	Node0x62170c0 -> Node0x6217d80;
+	Node0x6217d80 [shape=record,label="{if.end4:                                          \l  %z.0 = phi i32 [ 100, %if.then2 ], [ %mul, %if.else3 ]\l  %mul5 = mul nsw i32 %z.0, %x.0, !dbg !35\l  call void @llvm.dbg.value(metadata i32 %mul5, i64 0, metadata !17, metadata\l... !11), !dbg !18\l  ret i32 %mul5, !dbg !36\l}"];
+}

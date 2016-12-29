@@ -1,0 +1,10 @@
+digraph "CFG for 'foo' function" {
+	label="CFG for 'foo' function";
+
+	Node0x60cc440 [shape=record,label="{entry:\l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !10, metadata\l... !11), !dbg !12\l  call void @llvm.dbg.value(metadata i32 10, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  %cmp = icmp slt i32 %a, 10, !dbg !15\l  br i1 %cmp, label %if.then, label %if.end, !dbg !17\l|{<s0>T|<s1>F}}"];
+	Node0x60cc440:s0 -> Node0x60d0ef0;
+	Node0x60cc440:s1 -> Node0x60d0fa0;
+	Node0x60d0ef0 [shape=record,label="{if.then:                                          \l  call void @llvm.dbg.value(metadata i32 %a, i64 0, metadata !13, metadata\l... !11), !dbg !14\l  br label %if.end, !dbg !18\l}"];
+	Node0x60d0ef0 -> Node0x60d0fa0;
+	Node0x60d0fa0 [shape=record,label="{if.end:                                           \l  %x.0 = phi i32 [ %a, %if.then ], [ 10, %entry ]\l  ret i32 %x.0, !dbg !20\l}"];
+}
