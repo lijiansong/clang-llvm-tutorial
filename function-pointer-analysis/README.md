@@ -1,4 +1,4 @@
-##FuncPtrPass
+## Function Pointer Pass
 
 Toy code about use-def chains based on the LLVM IR and bitcode. Output the function call info in the bitcode file, e.g.
 - Direct function calls. Print the function name and line no.
