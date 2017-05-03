@@ -1,4 +1,4 @@
-##AST Interpreter
+## AST Interpreter
 
 Toy code, an AST interpreter, based on Calng & LLVM, that only support integer type.
 It supports basic modules and array, e.g. ifstmt, whilestmt, function call, malloc and array.
