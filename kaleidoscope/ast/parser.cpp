@@ -1,3 +1,4 @@
+// g++ -std=c++11
 #include <cctype>
 #include <cstdio>
 #include <cstdlib>
