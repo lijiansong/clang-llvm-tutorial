@@ -409,7 +409,7 @@ static void HandleTopLevelExpression() {
 /// top ::= definition | external | expression | ';'
 static void MainLoop() {
   while (true) {
-    fprintf(stderr, "ready> ");
+    fprintf(stderr, "kaleidoscope>> ");
     switch (CurTok) {
     case tok_eof:
       return;
@@ -430,7 +430,7 @@ static void MainLoop() {
 }
 
 //===----------------------------------------------------------------------===//
-// Main driver code.
+// Main driver
 //===----------------------------------------------------------------------===//
 
 int main() {
@@ -442,10 +442,9 @@ int main() {
   BinopPrecedence['*'] = 40; // highest.
 
   // Prime the first token.
-  fprintf(stderr, "ready> ");
+  fprintf(stderr, "kaleidoscope>> ");
   getNextToken();
 
-  // Run the main "interpreter loop" now.
   MainLoop();
 
   return 0;
