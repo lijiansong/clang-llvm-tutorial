@@ -5,3 +5,4 @@
 - CMU, linker basic concepts, see this [PAGE](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/11-linking.pdf)
 - NYU，Compiler Construction， G22.2130.01，checkout this [PAGE](http://cs.nyu.edu/courses/fall04/G22.2130-001/)
 - Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)
+- Uppsala University Department of Information Technology, [Advanced Compiler Design](http://user.it.uu.se/~kostis/Teaching/KT2-06/)
