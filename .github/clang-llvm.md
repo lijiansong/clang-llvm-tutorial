@@ -6,3 +6,4 @@
 - NYU，Compiler Construction， G22.2130.01，checkout this [PAGE](http://cs.nyu.edu/courses/fall04/G22.2130-001/)
 - Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)
 - Uppsala University Department of Information Technology, [Advanced Compiler Design](http://user.it.uu.se/~kostis/Teaching/KT2-06/)
+- for `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
