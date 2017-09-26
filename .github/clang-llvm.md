@@ -8,3 +8,4 @@
 - Uppsala University Department of Information Technology, [Advanced Compiler Design](http://user.it.uu.se/~kostis/Teaching/KT2-06/)
 - for `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - UCSD, CSE 231: Advanced Compilers, checkout this [PAGE](https://cseweb.ucsd.edu/classes/sp14/cse231-a/index.html)
+- A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
