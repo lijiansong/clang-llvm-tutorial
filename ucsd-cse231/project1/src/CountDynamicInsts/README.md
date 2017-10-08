@@ -4,5 +4,5 @@ For more detail about this assignment, checkout this [page](https://cseweb.ucsd.
 ### Build
 ```
 $ make
-$ ./count-static-insts your_bc_file
+$ ./count-dynamic-insts your_bc_file
 ```
