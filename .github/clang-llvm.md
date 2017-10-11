@@ -14,3 +14,4 @@
 - A short tutorial for latex, see this [page](http://www.mohu.org/info/lshort-cn.pdf) & a tiny book about `awk` checkout this [page](http://awk.readthedocs.io/en/latest/index.html)
 - A nice book about open-source project, <Producing Open Source Software: How to Run a Successful Free Software Project>, checkout this [page](https://producingoss.com)
 - some free tech book website, checkout this [page](http://www.freetechbooks.com/)
+- A nice website about open-source, checkout this [page](http://www.open-open.com/)
