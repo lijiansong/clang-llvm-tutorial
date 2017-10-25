@@ -15,3 +15,4 @@
 - A nice book about open-source project, <Producing Open Source Software: How to Run a Successful Free Software Project>, checkout this [page](https://producingoss.com)
 - some free tech book website, checkout this [page](http://www.freetechbooks.com/)
 - A nice website about open-source, checkout this [page](http://www.open-open.com/)
+- For gnu project website, you can checkout this [page](https://sourceware.org/), e.g., gnu `as` assembler in the binutils, see this [page](https://sourceware.org/binutils/docs-2.29/as/index.html)
