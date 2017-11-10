@@ -16,3 +16,4 @@
 - some free tech book website, checkout this [page](http://www.freetechbooks.com/)
 - A nice website about open-source, checkout this [page](http://www.open-open.com/)
 - For gnu project website, you can checkout this [page](https://sourceware.org/), e.g., gnu `as` assembler in the binutils, see this [page](https://sourceware.org/binutils/docs-2.29/as/index.html)
+- For github upload size limit soulution, you can checkout this [page](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
