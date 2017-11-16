@@ -16,8 +16,5 @@
 - some free tech book website, checkout this [page](http://www.freetechbooks.com/)
 - A nice website about open-source, checkout this [page](http://www.open-open.com/)
 - For gnu project website, you can checkout this [page](https://sourceware.org/), e.g., gnu `as` assembler in the binutils, see this [page](https://sourceware.org/binutils/docs-2.29/as/index.html)
-<<<<<<< HEAD
 - For github upload size limit soulution, you can checkout this [page](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
-=======
-- Compiler profiling, basics see [here](http://www.embecosm.com/appnotes/ean6/html/ch07s03s03.html) and LLVM profiling see [here](http://llvm.org/pubs/2010-04-NeustifterProfiling.pdf)
->>>>>>> c0435ee2843ad0f9ddcc63e6f86a69288a2fdfe1
+-:+1: Compiler profiling, basics see [here](http://www.embecosm.com/appnotes/ean6/html/ch07s03s03.html) and LLVM profiling see [here](http://llvm.org/pubs/2010-04-NeustifterProfiling.pdf)
