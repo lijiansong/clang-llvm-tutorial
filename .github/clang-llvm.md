@@ -22,5 +22,5 @@
 - Linux `profiling and optimization` see Princeton's [slides](https://www.cs.princeton.edu/picasso/mats/mats_S07/Lucifredi_Lecture_Feb07.pdf)
 - LLVM metadata expansion IR, chkectout LLVM blog page, [Extensible Metadata in LLVM IR](http://blog.llvm.org/2010/04/extensible-metadata-in-llvm-ir.html) and LLVM official langref [page](http://llvm.org/docs/LangRef.html), github page [TypeMetadata.rst](https://github.com/llvm-mirror/llvm/blob/master/docs/TypeMetadata.rst), csdn [blog](http://blog.csdn.net/dreammeard/article/details/19493599)
 - CUDA NVPTX backend info of `kernel` keyword, see this [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
-- tmux tips, checkout this [blog](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
+- tmux tips, checkout this [blog](http://blog.csdn.net/simple_the_best/article/details/51360778)
   
