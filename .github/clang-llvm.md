@@ -23,5 +23,5 @@
 - LLVM metadata expansion IR, chkectout LLVM blog page, [Extensible Metadata in LLVM IR](http://blog.llvm.org/2010/04/extensible-metadata-in-llvm-ir.html) and LLVM official langref [page](http://llvm.org/docs/LangRef.html), github page [TypeMetadata.rst](https://github.com/llvm-mirror/llvm/blob/master/docs/TypeMetadata.rst), csdn [blog](http://blog.csdn.net/dreammeard/article/details/19493599)
 - CUDA NVPTX backend info of `kernel` keyword, see this [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
 - tmux tips, checkout this [blog](http://blog.csdn.net/simple_the_best/article/details/51360778)
-- clang attribute metadata see [here](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang)
+- clang attribute metadata see [how to change clang](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang), while for CUDA NVPTX backend info of `kernel` keyword, see NVPTXUage [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
   
