@@ -16,7 +16,6 @@
 - some free tech book website, checkout this [page](http://www.freetechbooks.com/)
 - A nice website about open-source, checkout this [page](http://www.open-open.com/)
 - For gnu project website, you can checkout this [page](https://sourceware.org/), e.g., gnu `as` assembler in the binutils, see this [page](https://sourceware.org/binutils/docs-2.29/as/index.html)
-<<<<<<< HEAD
 - For github upload size limit soulution, you can checkout this [page](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
 - :+1: Compiler profiling, basics see [here](http://www.embecosm.com/appnotes/ean6/html/ch07s03s03.html) and LLVM profiling see [here](http://llvm.org/pubs/2010-04-NeustifterProfiling.pdf)
 - Linux `profiling and optimization` see Princeton's [slides](https://www.cs.princeton.edu/picasso/mats/mats_S07/Lucifredi_Lecture_Feb07.pdf)
@@ -24,4 +23,4 @@
 - CUDA NVPTX backend info of `kernel` keyword, see this [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
 - tmux tips, checkout this [blog](http://blog.csdn.net/simple_the_best/article/details/51360778)
 - clang attribute metadata see [how to change clang](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang), while for CUDA NVPTX backend info of `kernel` keyword, see NVPTXUage [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
-  
+- [rsync resume after being interrupted](https://unix.stackexchange.com/questions/48298/can-rsync-resume-after-being-interrupted)
