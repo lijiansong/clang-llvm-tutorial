@@ -23,4 +23,4 @@
 - CUDA NVPTX backend info of `kernel` keyword, see this [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
 - tmux tips, checkout this [blog](http://blog.csdn.net/simple_the_best/article/details/51360778)
 - clang attribute metadata see [how to change clang](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang), while for CUDA NVPTX backend info of `kernel` keyword, see NVPTXUage [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
-- [rsync resume after being interrupted](https://unix.stackexchange.com/questions/48298/can-rsync-resume-after-being-interrupted)
+- [rsync resume after being interrupted](https://unix.stackexchange.com/questions/48298/can-rsync-resume-after-being-interrupted) and [broken pipe](https://askubuntu.com/questions/127369/how-to-prevent-write-failed-broken-pipe-on-ssh-connection)
