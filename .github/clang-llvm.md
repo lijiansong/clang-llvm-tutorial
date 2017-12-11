@@ -25,4 +25,4 @@
 - clang attribute metadata see [how to change clang](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang), while for CUDA NVPTX backend info of `kernel` keyword, see NVPTXUage [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
 - [rsync resume after being interrupted](https://unix.stackexchange.com/questions/48298/can-rsync-resume-after-being-interrupted) and [broken pipe](https://askubuntu.com/questions/127369/how-to-prevent-write-failed-broken-pipe-on-ssh-connection)
 - spend some time reading the src of clang & llvm
-- Linux remote desktop software, see [here](https://www.nomachine.com/DT07M00078)
+- Linux remote desktop software, see [here](https://www.nomachine.com/DT07M00078) and its remote desktop environment, checkout this [page](https://www.nomachine.com/AR07K00676)
