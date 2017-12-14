@@ -28,4 +28,4 @@
 - Linux remote desktop software, see [here](https://www.nomachine.com/DT07M00078) and its remote desktop environment, checkout this [page](https://www.nomachine.com/AR07K00676)
 - how to generate `ManPage` on linux-like system, checkout this [page](http://www.linuxjournal.com/content/creating-custom-man-pages)
 - dynamic generate or insert `globalvar` or `VarDecl` for current module, checkout these stackoverflow pages: [1](https://stackoverflow.com/questions/23328832/llvm-initialize-an-integer-global-variable-with-value-0) & [2](https://stackoverflow.com/questions/23330018/llvm-global-integer-array-zeroinitializer) 
-  
+- Clang QualType => Type, see [here](https://reviews.llvm.org/D35180)
