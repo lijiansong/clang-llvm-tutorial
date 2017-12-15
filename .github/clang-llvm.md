@@ -29,3 +29,4 @@
 - how to generate `ManPage` on linux-like system, checkout this [page](http://www.linuxjournal.com/content/creating-custom-man-pages)
 - dynamic generate or insert `globalvar` or `VarDecl` for current module, checkout these stackoverflow pages: [1](https://stackoverflow.com/questions/23328832/llvm-initialize-an-integer-global-variable-with-value-0) & [2](https://stackoverflow.com/questions/23330018/llvm-global-integer-array-zeroinitializer) 
 - Clang QualType => Type, see [here](https://reviews.llvm.org/D35180)
+- llvm back-end Instruction Selection DAG, see [here](http://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf)
