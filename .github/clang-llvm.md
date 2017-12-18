@@ -31,3 +31,5 @@
 - Clang QualType => Type, see [here](https://reviews.llvm.org/D35180)
 - llvm back-end Instruction Selection DAG, see [here](http://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf)
 - LLVM `Global Instruction Selection` see its doc [page](https://www.llvm.org/docs/GlobalISel.html) and this slide [page](http://llvm.org/devmtg/2015-10/slides/Colombet-GlobalInstructionSelection.pdf)
+- [Compiler Validations](http://processors.wiki.ti.com/index.php/Compiler_Validation)  
+  
