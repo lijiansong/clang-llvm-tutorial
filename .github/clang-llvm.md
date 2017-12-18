@@ -27,9 +27,11 @@
 - spend some time reading the src of clang & llvm
 - Linux remote desktop software, see [here](https://www.nomachine.com/DT07M00078) and its remote desktop environment, checkout this [page](https://www.nomachine.com/AR07K00676)
 - how to generate `ManPage` on linux-like system, checkout this [page](http://www.linuxjournal.com/content/creating-custom-man-pages)
+- [Create a working compiler with the LLVM framework](https://www.ibm.com/developerworks/library/os-createcompilerllvm2/index.html)
 - dynamic generate or insert `globalvar` or `VarDecl` for current module, checkout these stackoverflow pages: [1](https://stackoverflow.com/questions/23328832/llvm-initialize-an-integer-global-variable-with-value-0) & [2](https://stackoverflow.com/questions/23330018/llvm-global-integer-array-zeroinitializer) 
 - Clang QualType => Type, see [here](https://reviews.llvm.org/D35180)
 - llvm back-end Instruction Selection DAG, see [here](http://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf)
 - LLVM `Global Instruction Selection` see its doc [page](https://www.llvm.org/docs/GlobalISel.html) and this slide [page](http://llvm.org/devmtg/2015-10/slides/Colombet-GlobalInstructionSelection.pdf)
-- [Compiler Validations](http://processors.wiki.ti.com/index.php/Compiler_Validation)  
+- [Compiler Validations](http://processors.wiki.ti.com/index.php/Compiler_Validation), and for super-test its tutorial see [here](https://marketplace.windriver.com/index.php?packages&on=details&id=69&cat=17)
+- LLVM Emit an extra section with meta-information, see its [mail-list](http://llvm.1065342.n5.nabble.com/Emitting-an-extra-section-with-meta-information-td51523.html); Emit Clang version information into .comment section, see [here](https://reviews.llvm.org/D1720) [MCStreamer](http://llvm.org/doxygen/classllvm_1_1MCStreamer.html) and [MCELFStreamer](http://www.llvm.org/doxygen/classllvm_1_1MCELFStreamer.html)
   
