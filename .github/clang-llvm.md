@@ -23,6 +23,7 @@
 - CUDA NVPTX backend info of `kernel` keyword, see this [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
 - tmux tips, checkout this [blog](http://blog.csdn.net/simple_the_best/article/details/51360778)
 - clang attribute metadata see [how to change clang](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang), while for CUDA NVPTX backend info of `kernel` keyword, see NVPTXUage [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
+
 - [rsync resume after being interrupted](https://unix.stackexchange.com/questions/48298/can-rsync-resume-after-being-interrupted) and [broken pipe](https://askubuntu.com/questions/127369/how-to-prevent-write-failed-broken-pipe-on-ssh-connection)
 - spend some time reading the src of clang & llvm
 - Linux remote desktop software, see [here](https://www.nomachine.com/DT07M00078) and its remote desktop environment, checkout this [page](https://www.nomachine.com/AR07K00676)
@@ -36,5 +37,5 @@
 - LLVM Emit an extra section with meta-information, see its [mail-list](http://llvm.1065342.n5.nabble.com/Emitting-an-extra-section-with-meta-information-td51523.html); Emit Clang version information into .comment section, see [here](https://reviews.llvm.org/D1720), class [MCStreamer](http://llvm.org/doxygen/classllvm_1_1MCStreamer.html) and [MCELFStreamer](http://www.llvm.org/doxygen/classllvm_1_1MCELFStreamer.html) and this page for [MCSection](https://www.llvm.org.cn/docs/CodeGenerator.html#the-mcsection-class) class.
 - some backend implement can ref to [AMDGPU](https://github.com/llvm-mirror/llvm/tree/master/lib/Target/AMDGPU)
 - difference between scratch pad and cache memory, see quora [page](https://www.quora.com/What-is-the-difference-between-scratchpad-and-cache-memories) and this [paper](https://es.cs.uni-kl.de/publications/data/Lang15.pdf)
-
+- for llvm target global address, ref to [Purpose of MSP430Wrapper](https://groups.google.com/forum/#!topic/llvm-dev/DqICbGd0y_Y)
 
