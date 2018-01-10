@@ -39,4 +39,5 @@
 - difference between scratch pad and cache memory, see quora [page](https://www.quora.com/What-is-the-difference-between-scratchpad-and-cache-memories) and this [paper](https://es.cs.uni-kl.de/publications/data/Lang15.pdf)
 - for llvm target global address, ref to [Purpose of MSP430Wrapper](https://groups.google.com/forum/#!topic/llvm-dev/DqICbGd0y_Y)
 - PTX code generator, see this [M](http://compilers.cs.uni-saarland.de/publications/theses/rhodin_bsc.pdf)
+- clang set alignment of local variable, checkout this [mail-list](http://clang-developers.42468.n3.nabble.com/alignment-of-local-variables-td2743966.html), e.g. `int a[N+1] __attribute__ ((__aligned__(16)));`
 
