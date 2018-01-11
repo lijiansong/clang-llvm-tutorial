@@ -40,4 +40,6 @@
 - for llvm target global address, ref to [Purpose of MSP430Wrapper](https://groups.google.com/forum/#!topic/llvm-dev/DqICbGd0y_Y)
 - PTX code generator, see this [M](http://compilers.cs.uni-saarland.de/publications/theses/rhodin_bsc.pdf)
 - clang set alignment of local variable, checkout this [mail-list](http://clang-developers.42468.n3.nabble.com/alignment-of-local-variables-td2743966.html), e.g. `int a[N+1] __attribute__ ((__aligned__(16)));`
+- common vector optimization, see this TACC course [page](https://portal.tacc.utexas.edu/documents/13601/1041435/06-Serial_and_Vector_Optimization.pdf/4eef1e1c-7592-4ac4-8608-1f0662553a88) and intel's dev blog <https://software.intel.com/en-us/articles/vectorization-writing-cc-code-in-vector-format>
+- HCC compiler, see this intro page <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0069r0.pdf> and its gpuopen page <https://gpuopen.com/compute-product/hcc-heterogeneous-compute-compiler/>
 
