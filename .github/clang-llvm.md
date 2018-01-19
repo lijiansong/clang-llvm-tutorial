@@ -43,5 +43,6 @@
 - common vector optimization, see this TACC course [page](https://portal.tacc.utexas.edu/documents/13601/1041435/06-Serial_and_Vector_Optimization.pdf/4eef1e1c-7592-4ac4-8608-1f0662553a88) and intel's dev blog <https://software.intel.com/en-us/articles/vectorization-writing-cc-code-in-vector-format>
 - HCC compiler, see this intro page <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0069r0.pdf> and its gpuopen page <https://gpuopen.com/compute-product/hcc-heterogeneous-compute-compiler/>
 - :thumbsdown: When you really don't know where does the data alignment at the stack come from, you can simply set it at `CodeGen` module of Clang, almost everything can be done here， though this rule may harm `modularity` of clang, but it's really useful.
+- Compiler name mangling, see this [page](https://en.wikipedia.org/wiki/Name_mangling)
 
 
