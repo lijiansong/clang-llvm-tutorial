@@ -45,4 +45,5 @@
 - :thumbsdown: When you really don't know where does the data alignment at the stack come from, you can simply set it at `CodeGen` module of Clang, almost everything can be done here， though this rule may harm `modularity` of clang, but it's really useful.
 - Compiler name mangling, see this [page](https://en.wikipedia.org/wiki/Name_mangling)
 - Extend llvm & clang, checkout this [page](http://llvm.org/docs/ExtendingLLVM.html)
+- LLVM Backends `MBlaze` (Micro Blaze), see this [page](http://legup.eecg.utoronto.ca/doxygen/dir_15f75cd5e020f3c6b1d0a91d94880675.html), it is an extention of [C51](http://www.keil.com/support/man/docs/is51/)
 
