@@ -49,3 +49,6 @@
 - More details about llvm MC Layer: <http://www.llvm.org/devmtg/2010-11/Dunbar-MC.pdf>
 - These slides maybe useful, checkout this github repo: <https://github.com/azru0512/slide>
 - nice github repo: <https://github.com/embecosm> & llvm `Integrated Assembler` see this [page](http://www.embecosm.com/resources/appnotes/#EAN10)
+- CppCon github repo: <https://github.com/CppCon> 
+- Clang OpenMP, checkout this [slide](https://llvm-hpc2-workshop.github.io/slides/Wong.pdf)
+
