@@ -51,4 +51,4 @@
 - nice github repo: <https://github.com/embecosm> & llvm `Integrated Assembler` see this [page](http://www.embecosm.com/resources/appnotes/#EAN10)
 - CppCon github repo: <https://github.com/CppCon> 
 - Clang OpenMP, checkout this [slide](https://llvm-hpc2-workshop.github.io/slides/Wong.pdf)
-
+- vimrc, set whichwrap for left and right cursor, see this [page](http://vim.wikia.com/wiki/Automatically_wrap_left_and_right)
