@@ -52,3 +52,4 @@
 - CppCon github repo: <https://github.com/CppCon> 
 - Clang OpenMP, checkout this [slide](https://llvm-hpc2-workshop.github.io/slides/Wong.pdf)
 - vimrc, set whichwrap for left and right cursor, see this [page](http://vim.wikia.com/wiki/Automatically_wrap_left_and_right)
+- IEEE 754, Half-precision floating point library, see this sourceforge page <http://half.sourceforge.net/index.html>
