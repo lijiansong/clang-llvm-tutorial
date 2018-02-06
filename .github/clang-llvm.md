@@ -55,3 +55,4 @@
 - IEEE 754, Half-precision floating point library, see this sourceforge page <http://half.sourceforge.net/index.html>
 - Extend LLVM see this official page: <https://llvm.org/docs/ExtendingLLVM.html> and this page: <http://web.cs.ucla.edu/classes/spring08/cs259/llvm-2.2/docs/ExtendingLLVM.html>, this [mail list](http://clang-developers.42468.n3.nabble.com/Adding-new-data-type-td763908.html)
 - Clang has already supported half type, see this [page](https://clang.llvm.org/docs/LanguageExtensions.html#half-precision-floating-point) and review list: <https://reviews.llvm.org/D9781> and OpenCL half [support](http://clang-developers.42468.n3.nabble.com/Re-LLVMdev-PATCH-OpenCL-half-support-td2565689.html)
+- OpenCL support half precision floating point type literal, checkout this review changes: <https://reviews.llvm.org/D16865>
