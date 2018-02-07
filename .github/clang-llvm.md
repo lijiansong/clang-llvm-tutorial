@@ -57,3 +57,4 @@
 - Clang has already supported half type, see this [page](https://clang.llvm.org/docs/LanguageExtensions.html#half-precision-floating-point) and review list: <https://reviews.llvm.org/D9781> and OpenCL half [support](http://clang-developers.42468.n3.nabble.com/Re-LLVMdev-PATCH-OpenCL-half-support-td2565689.html)
 - OpenCL support half precision floating point type literal, checkout this review changes: <https://reviews.llvm.org/D16865>
 - Sharp tools make good work. LLVM vim plugin see its offical github repo: <https://github.com/llvm-mirror/llvm/tree/master/utils/vim> and this github repo: <https://github.com/Superbil/llvm.vim>, and this llvm-devmtg slide: <https://llvm.org/devmtg/2016-01/slides/ModernCplusplusDevelopment.pdf>
+- Book Reading <Engineering A Compiler>, checkout Rice University, COMP 512: Advanced Compiler Construction, course page: <https://www.clear.rice.edu/comp512/>
