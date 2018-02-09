@@ -48,7 +48,7 @@
 - LLVM Backends `MBlaze` (Micro Blaze), see this [page](http://legup.eecg.utoronto.ca/doxygen/dir_15f75cd5e020f3c6b1d0a91d94880675.html), it is an extention of [C51](http://www.keil.com/support/man/docs/is51/)
 - More details about llvm MC Layer: <http://www.llvm.org/devmtg/2010-11/Dunbar-MC.pdf>
 - These slides maybe useful, checkout this github repo: <https://github.com/azru0512/slide>
-- nice github repo: <https://github.com/embecosm> & llvm `Integrated Assembler` see this [page](http://www.embecosm.com/resources/appnotes/#EAN10)
+- nice github repo: <https://github.com/embecosm> & llvm `Integrated Assembler` see this page:<http://www.embecosm.com/resources/appnotes/#EAN10>
 - CppCon github repo: <https://github.com/CppCon> 
 - Clang OpenMP, checkout this [slide](https://llvm-hpc2-workshop.github.io/slides/Wong.pdf)
 - vimrc, set whichwrap for left and right cursor, see this [page](http://vim.wikia.com/wiki/Automatically_wrap_left_and_right)
