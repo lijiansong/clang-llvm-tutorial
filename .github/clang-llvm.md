@@ -58,4 +58,5 @@
 - OpenCL support half precision floating point type literal, checkout this review changes: <https://reviews.llvm.org/D16865>
 - Sharp tools make good work. LLVM vim plugin see its offical github repo: <https://github.com/llvm-mirror/llvm/tree/master/utils/vim> and this github repo: <https://github.com/Superbil/llvm.vim>, and this llvm-devmtg slide: <https://llvm.org/devmtg/2016-01/slides/ModernCplusplusDevelopment.pdf>
 - Book Reading <Engineering A Compiler>, checkout Rice University, COMP 512: Advanced Compiler Construction, course page: <https://www.clear.rice.edu/comp512/>
-- [ ] TODO: Spare some effort in hacking into the source code of Clang & LLVM from the perspective of `designing pattern`
+- [ ] TODO: Spare some effort in hacking into the source code of Clang & LLVM from the perspective of `designing pattern`.
+- GNU function attributes: <https://gcc.gnu.org/onlinedocs/gcc-5.3.0/gcc/Function-Attributes.html>
