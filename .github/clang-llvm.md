@@ -62,3 +62,4 @@
 - GNU function attributes: <https://gcc.gnu.org/onlinedocs/gcc-5.3.0/gcc/Function-Attributes.html>
 - Lessons to learn from the CLang/LLVM codebase: <http://cppdepend.com/blog/?p=92>
 - Clang Rocks! <https://www.codeproject.com/Articles/475254/ClangplusRocks>
+- For Mac OS git auto completion, checkout git repo page: <https://github.com/git/git/blob/master/contrib/completion/git-completion.bash#L19-L23>
