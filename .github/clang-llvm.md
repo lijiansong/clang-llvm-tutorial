@@ -64,3 +64,6 @@
 - Clang Rocks! <https://www.codeproject.com/Articles/475254/ClangplusRocks>
 - Mechanism of template meta-programming, see wiki page: <https://en.wikipedia.org/wiki/Template_metaprogramming> 
 - Pattern matching in programming languages, e.g. Haskell, Scalar and etc, checkout wiki page:<https://en.wikipedia.org/wiki/Pattern_matchin>
+- For Mac OS git auto completion, checkout git repo page: <https://github.com/git/git/blob/master/contrib/completion/git-completion.bash#L19-L23>
+- Cpp Traits: <https://accu.org/index.php/journals/442> & <https://www.ibm.com/developerworks/community/blogs/12bb75c9-dfec-42f5-8b55-b669cc56ad76/entry/c_11%25e6%25a0%2587%25e5%2587%2586%25e5%25ba%2593%25e4%25b9%258btype_traits%25e7%25ae%2580%25e4%25bb%258b?lang=en> & <http://www.bogotobogo.com/cplusplus/template_specialization_traits.php> & type traits: <http://www.drdobbs.com/cpp/c-type-traits/184404270>
+- Haskell, interesting programming language: <https://www.haskell.org> and nice book: <http://readfree.me/book/25803388/>
