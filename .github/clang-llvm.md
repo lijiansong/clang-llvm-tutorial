@@ -62,3 +62,5 @@
 - GNU function attributes: <https://gcc.gnu.org/onlinedocs/gcc-5.3.0/gcc/Function-Attributes.html>
 - Lessons to learn from the CLang/LLVM codebase: <http://cppdepend.com/blog/?p=92>
 - Clang Rocks! <https://www.codeproject.com/Articles/475254/ClangplusRocks>
+- Mechanism of template meta-programming, see wiki page: <https://en.wikipedia.org/wiki/Template_metaprogramming> 
+- Pattern matching in programming languages, e.g. Haskell, Scalar and etc, checkout wiki page:<https://en.wikipedia.org/wiki/Pattern_matchin>
