@@ -69,3 +69,4 @@
 - Haskell, interesting programming language: <https://www.haskell.org> and nice book: <http://readfree.me/book/25803388/>
 - Cpp lvalue & rvalue, checkout this page: <https://accu.org/index.php/journals/227>
 - Lazy evaluation: <https://en.wikipedia.org/wiki/Lazy_evaluation>
+- Clang toolchain: <https://clang.llvm.org/docs/Toolchain.html>
