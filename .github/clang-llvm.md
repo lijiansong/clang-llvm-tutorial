@@ -70,3 +70,4 @@
 - Cpp lvalue & rvalue, checkout this page: <https://accu.org/index.php/journals/227>
 - Lazy evaluation: <https://en.wikipedia.org/wiki/Lazy_evaluation>
 - Clang toolchain: <https://clang.llvm.org/docs/Toolchain.html>
+- Type Based Alias Analysis, see this page: <http://the-ravi-programming-language.readthedocs.io/en/latest/llvm-tbaa.html> and this page: <https://llvm.org/docs/AliasAnalysis.html> & <https://llvm.org/docs/LangRef.html#tbaa-metadata>
