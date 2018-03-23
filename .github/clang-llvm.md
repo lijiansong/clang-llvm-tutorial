@@ -71,3 +71,4 @@
 - Lazy evaluation: <https://en.wikipedia.org/wiki/Lazy_evaluation>
 - Clang toolchain: <https://clang.llvm.org/docs/Toolchain.html>
 - Type Based Alias Analysis, see this page: <http://the-ravi-programming-language.readthedocs.io/en/latest/llvm-tbaa.html> and this page: <https://llvm.org/docs/AliasAnalysis.html> & <https://llvm.org/docs/LangRef.html#tbaa-metadata>
+- Intel MPX, see: Intel MPX Explained <https://intel-mpx.github.io/> & <https://en.wikipedia.org/wiki/Intel_MPX> 
