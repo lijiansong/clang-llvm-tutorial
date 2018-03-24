@@ -398,8 +398,8 @@ static cl::opt<std::string> InputFilename(cl::Positional,
                                           cl::init(""));
 
 int main(int argc, char **argv) {
-  LLVMContext &Context = getGlobalContext();
-  // static LLVMContext Context;
+  //LLVMContext &Context = getGlobalContext();
+  static LLVMContext Context;
   SMDiagnostic Err;
   // Parse the command line to read the Inputfilename
   cl::ParseCommandLineOptions(
