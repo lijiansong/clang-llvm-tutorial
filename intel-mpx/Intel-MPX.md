@@ -6,3 +6,6 @@
 - Microsoft MPX test case: <https://github.com/Microsoft/clang/blob/master/test/Driver/x86-target-features.c>
 - Intel MPX explained, experiments: <https://intel-mpx.github.io/methodology/>
 - Clang dev mail list for `-fmpx`: <http://clang-developers.42468.n3.nabble.com/GCC-s-fmpx-in-clang-td4041584.html>
+- Google Address Sanitizer: <https://github.com/google/sanitizers>
+- LLVM mpx example see here: <https://github.com/llvm-mirror/llvm/blob/master/test/MC/X86/mpx-encodings.s>
+- Clang mpx example see here: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/ms-inline-asm.c#L664>
