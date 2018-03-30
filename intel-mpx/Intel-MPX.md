@@ -12,3 +12,4 @@
 - code review, X86-MPX: Implemented encoding for MPX instructions: <http://lists.llvm.org/pipermail/llvm-commits/Week-of-Mon-20150608/280779.html>
 - Simple readme about MPX see this paper's background: <http://www.eecg.toronto.edu/~lie/papers/whuang_lmp_acsac2016>
 - Until now, for clang and llvm-6.0 release version, only the MPX (Intel Memory Protection eXtensions) feature bit and bound registers are now supported on the X86 backend. See [r238916](https://reviews.llvm.org/rL238916)
+- MPX experiments in gcc, see google's address sanitizer wiki page: <https://github.com/google/sanitizers/wiki/AddressSanitizerIntelMemoryProtectionExtensions>
