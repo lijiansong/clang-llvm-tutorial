@@ -75,3 +75,5 @@
 - Intel MPX support in llvm, see this page: <https://groups.google.com/forum/#!topic/llvm-dev/UHmfBWZlbc4> and softbonud see this github repo: <https://github.com/santoshn/softboundcets-34>
 - LLVM MPX feature see this commit: <https://reviews.llvm.org/rL238916> and this news: <http://llvmweekly.org/issue/75>
 - Nice repo: <https://github.com/MattPD/cpplinks>
+- LLVM module info: <https://blog.regehr.org/archives/1453>
+- LLVM Debug Info: <http://llvm.org/devmtg/2014-10/Slides/Christopher-DebugInfoTutorial.pdf>
