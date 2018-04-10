@@ -77,3 +77,4 @@
 - Nice repo: <https://github.com/MattPD/cpplinks>
 - LLVM module info: <https://blog.regehr.org/archives/1453>
 - LLVM Debug Info: <http://llvm.org/devmtg/2014-10/Slides/Christopher-DebugInfoTutorial.pdf>
+- New tricks to register a pass: <https://www.cs.cornell.edu/~asampson/blog/llvm.html>
