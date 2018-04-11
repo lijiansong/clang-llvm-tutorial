@@ -78,3 +78,11 @@
 - LLVM module info: <https://blog.regehr.org/archives/1453>
 - LLVM Debug Info: <http://llvm.org/devmtg/2014-10/Slides/Christopher-DebugInfoTutorial.pdf>
 - New tricks to register a pass: <https://www.cs.cornell.edu/~asampson/blog/llvm.html>
+- Tricks to speed up compilation time, see stackoverflow [page](https://stackoverflow.com/questions/373142/what-techniques-can-be-used-to-speed-up-c-compilation-times?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- Compiler cache: <https://ccache.samba.org/> and gold linker is faster: <https://en.wikipedia.org/wiki/Gold_(linker)>
+- Faster c++ build: <http://www.bitsnbites.eu/faster-c-builds/>
+- The Care and Feeding of Pre-Compiled Headers: <http://gamesfromwithin.com/the-care-and-feeding-of-pre-compiled-headers>
+- Compiler benchmark GCC and Clang on C++ library (ETL): <https://baptiste-wicht.com/posts/2017/08/compiler-benchmark-gcc-clang-cpp-library-etl.html>
+- An Introduction to Accelerating Your Build with Clang: <https://blogs.s-osg.org/an-introduction-to-accelerating-your-build-with-clang/>
+- Physical Structure and C++ – Part 2: Build Times, <http://gamesfromwithin.com/physical-structure-and-c-part-2-build-times>
+- Improving compile times of C++ code: <http://www.zverovich.net/2017/12/09/improving-compile-times.html> and <http://voices.canonical.com/jussi.pakkanen/2012/10/01/building-cc-what-really-happens-and-why-does-it-take-so-long/>
