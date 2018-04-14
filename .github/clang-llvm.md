@@ -86,3 +86,4 @@
 - An Introduction to Accelerating Your Build with Clang: <https://blogs.s-osg.org/an-introduction-to-accelerating-your-build-with-clang/>
 - Physical Structure and C++ – Part 2: Build Times, <http://gamesfromwithin.com/physical-structure-and-c-part-2-build-times>
 - Improving compile times of C++ code: <http://www.zverovich.net/2017/12/09/improving-compile-times.html> and <http://voices.canonical.com/jussi.pakkanen/2012/10/01/building-cc-what-really-happens-and-why-does-it-take-so-long/>
+- Google tc-malloc: <http://goog-perftools.sourceforge.net/doc/tcmalloc.html>
