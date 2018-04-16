@@ -88,3 +88,4 @@
 - Improving compile times of C++ code: <http://www.zverovich.net/2017/12/09/improving-compile-times.html> and <http://voices.canonical.com/jussi.pakkanen/2012/10/01/building-cc-what-really-happens-and-why-does-it-take-so-long/>
 - Google tc-malloc: <http://goog-perftools.sourceforge.net/doc/tcmalloc.html>
 - small memory software tricks: <http://smallmemory.com/> and pdf see [here](https://www.researchgate.net/publication/220694739_Small_memory_software_patterns_for_systems_with_limited_memory) or [here](https://gamehacking.org/faqs/Small_Memory_Software.pdf)
+- opt info about fmtlib/fmt, see here: <http://www.zverovich.net/2017/12/09/improving-compile-times.html>
