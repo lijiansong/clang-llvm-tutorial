@@ -78,7 +78,7 @@
 - LLVM module info: <https://blog.regehr.org/archives/1453>
 - LLVM Debug Info: <http://llvm.org/devmtg/2014-10/Slides/Christopher-DebugInfoTutorial.pdf>
 - New tricks to register a pass: <https://www.cs.cornell.edu/~asampson/blog/llvm.html>
-- Tricks to speed up compilation time, see stackoverflow [page](https://stackoverflow.com/questions/373142/what-techniques-can-be-used-to-speed-up-c-compilation-times?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- Tricks to speed up compilation time, see stackoverflow [page](https://stackoverflow.com/questions/373142/what-techniques-can-be-used-to-speed-up-c-compilation-times?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa) and this [blog](http://voices.canonical.com/jussi.pakkanen/2012/04/25/scream-if-you-want-to-go-faster-with-c/)
 - Compiler cache: <https://ccache.samba.org/> and gold linker is faster: <https://en.wikipedia.org/wiki/Gold_(linker)>
 - Faster c++ build: <http://www.bitsnbites.eu/faster-c-builds/>
 - The Care and Feeding of Pre-Compiled Headers: <http://gamesfromwithin.com/the-care-and-feeding-of-pre-compiled-headers>
@@ -89,3 +89,7 @@
 - Google tc-malloc: <http://goog-perftools.sourceforge.net/doc/tcmalloc.html>
 - small memory software tricks: <http://smallmemory.com/> and pdf see [here](https://www.researchgate.net/publication/220694739_Small_memory_software_patterns_for_systems_with_limited_memory) or [here](https://gamehacking.org/faqs/Small_Memory_Software.pdf)
 - opt info about fmtlib/fmt, see here: <http://www.zverovich.net/2017/12/09/improving-compile-times.html>
+- opt for headers only library see this page: <https://vittorioromeo.info/index/blog/2016_cpp_library_configuration_api.html>
+- pimpl(pointer to implementation) in c++ to reduce compile-time dependencies, also decouple interface from the implementation, see here: <http://en.cppreference.com/w/cpp/language/pimpl> and extern template in c++0x: <https://en.wikipedia.org/wiki/C%2B%2B11#Extern_template>
+- google's ninja build system: <https://ninja-build.org/manual.html>
+- Clang PCH Internals: <https://clang.llvm.org/docs/PCHInternals.html>
