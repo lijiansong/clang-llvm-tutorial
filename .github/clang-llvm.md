@@ -93,3 +93,4 @@
 - pimpl(pointer to implementation) in c++ to reduce compile-time dependencies, also decouple interface from the implementation, see here: <http://en.cppreference.com/w/cpp/language/pimpl> and extern template in c++0x: <https://en.wikipedia.org/wiki/C%2B%2B11#Extern_template>
 - google's ninja build system: <https://ninja-build.org/manual.html>
 - Clang PCH Internals: <https://clang.llvm.org/docs/PCHInternals.html>
+- Clang c++0x support status: <http://clang.llvm.org/cxx_status.html>
