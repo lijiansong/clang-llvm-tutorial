@@ -93,4 +93,7 @@
 - pimpl(pointer to implementation) in c++ to reduce compile-time dependencies, also decouple interface from the implementation, see here: <http://en.cppreference.com/w/cpp/language/pimpl> and extern template in c++0x: <https://en.wikipedia.org/wiki/C%2B%2B11#Extern_template>
 - google's ninja build system: <https://ninja-build.org/manual.html>
 - Clang PCH Internals: <https://clang.llvm.org/docs/PCHInternals.html>
+- Generic Offload File Bundler Tool: <http://clang-developers.42468.n3.nabble.com/RFC-OpenMP-CUDA-Generic-Offload-File-Bundler-Tool-td4050147.html> and [example](https://chromium.googlesource.com/external/github.com/llvm-mirror/clang/+/refs/heads/master/test/Driver/openmp-offload-gpu.c)
+- OpenMP offloading support, checkout this slide: <https://llvm-hpc3-workshop.github.io/slides/Bertolli.pdf> and paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf>
 - Clang c++0x support status: <http://clang.llvm.org/cxx_status.html>
+- Offload action usage, see clang driver: <https://github.com/llvm-mirror/clang/blob/master/lib/Driver/Driver.cpp#L3557-L3578>
