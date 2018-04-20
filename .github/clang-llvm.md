@@ -97,3 +97,4 @@
 - OpenMP offloading support, checkout this slide: <https://llvm-hpc3-workshop.github.io/slides/Bertolli.pdf> and paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf>
 - Clang c++0x support status: <http://clang.llvm.org/cxx_status.html>
 - Offload action usage, see clang driver: <https://github.com/llvm-mirror/clang/blob/master/lib/Driver/Driver.cpp#L3557-L3578>
+- Scaling up Superoptimization, see this paper: <https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf>
