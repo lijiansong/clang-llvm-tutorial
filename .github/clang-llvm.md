@@ -10,6 +10,8 @@
 - for `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - UCSD, CSE 231: Advanced Compilers, checkout this [PAGE](https://cseweb.ucsd.edu/classes/sp14/cse231-a/index.html)
 - CMU, 15-411: Compiler Design, see this [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
+- Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
+- Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - A short tutorial for latex, see this [page](http://www.mohu.org/info/lshort-cn.pdf) & a tiny book about `awk` checkout this [page](http://awk.readthedocs.io/en/latest/index.html)
