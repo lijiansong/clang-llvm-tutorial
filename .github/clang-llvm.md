@@ -100,3 +100,4 @@
 - Clang c++0x support status: <http://clang.llvm.org/cxx_status.html>
 - Offload action usage, see clang driver: <https://github.com/llvm-mirror/clang/blob/master/lib/Driver/Driver.cpp#L3557-L3578>
 - Scaling up Superoptimization, see this paper: <https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf>
+- compile clang with gold linker: <https://stackoverflow.com/questions/40536508/is-it-possible-to-compile-link-clang-llvm-using-the-gold-linker?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa>
