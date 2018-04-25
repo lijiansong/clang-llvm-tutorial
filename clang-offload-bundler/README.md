@@ -31,6 +31,9 @@ c) and d) we override the current action with the host/device dependence
 if the current toolchain is host/device and set the offload dependences
 info with the jobs obtained from the device/host dependence(s).
 
+## Examples
+TBD.
+
 ## REF
 - OpenMP offloading support, slide: <https://llvm-hpc3-workshop.github.io/slides/Bertolli.pdf> 
 - OpenMP offloading support, paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf>
