@@ -21,7 +21,7 @@ Implement of use-def chains based on the LLVM IR and bitcode, now it supports di
 The resulting information can be used in optimizations such as `redundancy elimination, dead code elimination, instruction selection, etc`. But can also be used to improve the `safety of programs`, e.g. in the detection of buffer overruns. 
 Techniques for value range analysis typically use `symbolic analysis` extensively. When it comes to the detailed implement, for each basic block, define the following data-flow equation：
 ```
-in[B] = ∪out[A] | A∈ pred(B) && A！=S
+in[B] = ∪ out[A] | A∈ pred(B) && A！=S
 out[B] = in[B]∪gen[B]
 ```
 ### Data Flow Analysis
