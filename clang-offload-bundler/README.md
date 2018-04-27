@@ -1,4 +1,4 @@
-# clang offloading bundler
+# Clang offloading bundler
 
 In clang, the offload action is expected to be used in four different situations:
 
@@ -26,8 +26,8 @@ d) Specify a host dependence to a device action.
 
 ```
 
-For a) and b), we just return the job generated for the dependence. For
-c) and d) we override the current action with the host/device dependence
+For a) and b), clang just returns the job generated for the dependence. For
+c) and d) clang overrides the current action with the host/device dependence
 if the current toolchain is host/device and set the offload dependences
 info with the jobs obtained from the device/host dependence(s).
 
@@ -35,6 +35,8 @@ info with the jobs obtained from the device/host dependence(s).
 We will obtain the following action graph when compiling two source files for host and a CUDA device, namely kernel-call.cu and a.cpp:
 
 ![image](./img/export.png "CUDA offload example")
+
+As is shown from the figure above, if we are generating code for the device or we are in a backend phase, we attempt to generate a fat binary. Clang compiles each arch to `ptx and assemble to cubin`, then feed the `cubin and the ptx` into a device "link" action, which uses `cuda-fatbin` to combine these cubins into one fatbin.  The fatbin is then an input to the host action. During cuda device phase, clang creates an offloading action for backend and assembler action respectively. And an offload action is used to add a host dependence to the device linker actions.
 
 By command `clang kernel-call.cu a.cpp -ccc-print-phases`, we will get following pipelined phases behind clang compiling:
 
@@ -78,12 +80,14 @@ And we can get the following bindings result by typing command `clang kernel-cal
 # "x86_64-apple-darwin17.2.0" - "darwin::Linker", inputs: ["/var/folders/sp/yzrv8j5s4dg6mc4bgzvcc1h80000gn/T/kernel-call-a9bed9.o", "/var/folders/sp/yzrv8j5s4dg6mc4bgzvcc1h80000gn/T/a-cfaee5.o"], output: "a.out"
 
 ```
+Another example is OpenMP, below is the action graph obtained when compiling two source files for host and an OpenMP device:
 
-And the pipeline graph is shown below:
+![image](./img/openmp-offload-example.png "OpenMP offload example")
 
+As we can see, an offload action is used to add a host dependence to the device compile actions and add a device dependence to the host linking action[[2]](#ibm_offload_paper). The host depends on device action in the linking phase, when all the device images have to be embedded in the host image. Besides, when generating code for OpenMP, clang use the host compile phase output as a dependence to the device compile phase so that it can learn what declarations should be emitted.
 
 ## REF
-- OpenMP offloading support, slide: <https://llvm-hpc3-workshop.github.io/slides/Bertolli.pdf> 
-- OpenMP offloading support, paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf>
-- Generic Offload File Bundler Tool: <http://clang-developers.42468.n3.nabble.com/RFC-OpenMP-CUDA-Generic-Offload-File-Bundler-Tool-td4050147.html> and [example](https://chromium.googlesource.com/external/github.com/llvm-mirror/clang/+/refs/heads/master/test/Driver/openmp-offload-gpu.c)
-- Clang Driver Internals: <https://clang.llvm.org/docs/DriverInternals.html>
+- [1] OpenMP offloading support, slide: <https://llvm-hpc3-workshop.github.io/slides/Bertolli.pdf> 
+- [2] <span id="ibm_offload_paper">OpenMP offloading support, paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf> </span>
+- [3] Generic Offload File Bundler Tool: <http://clang-developers.42468.n3.nabble.com/RFC-OpenMP-CUDA-Generic-Offload-File-Bundler-Tool-td4050147.html> and [example](https://chromium.googlesource.com/external/github.com/llvm-mirror/clang/+/refs/heads/master/test/Driver/openmp-offload-gpu.c)
+- [4] Clang Driver Internals: <https://clang.llvm.org/docs/DriverInternals.html>
