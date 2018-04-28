@@ -91,3 +91,6 @@ As we can see, an offload action is used to add a host dependence to the device 
 - [2] <span id="ibm_offload_paper">OpenMP offloading support, paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf> </span>
 - [3] Generic Offload File Bundler Tool: <http://clang-developers.42468.n3.nabble.com/RFC-OpenMP-CUDA-Generic-Offload-File-Bundler-Tool-td4050147.html> and [example](https://chromium.googlesource.com/external/github.com/llvm-mirror/clang/+/refs/heads/master/test/Driver/openmp-offload-gpu.c)
 - [4] Clang Driver Internals: <https://clang.llvm.org/docs/DriverInternals.html>
+- [5] Clang review: <https://reviews.llvm.org/D21852>
+- [6] Calng review: <https://www.mail-archive.com/cfe-commits@lists.llvm.org/msg36757.html>
+- [7] [CUDA][OpenMP] Add a generic offload action builder: <https://reviews.llvm.org/D18172> and revision: <http://llvm.org/viewvc/llvm-project?view=revision&revision=282865>
