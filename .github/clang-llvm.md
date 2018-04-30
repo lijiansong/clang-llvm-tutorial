@@ -103,3 +103,4 @@
 - compile clang with gold linker: <https://stackoverflow.com/questions/40536508/is-it-possible-to-compile-link-clang-llvm-using-the-gold-linker?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa>
 - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/>
 - Term, computation offloading: <https://en.wikipedia.org/wiki/Computation_offloading>
+- cpp has become more pythonic: <http://preshing.com/20141202/cpp-has-become-more-pythonic/>
