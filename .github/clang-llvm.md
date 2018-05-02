@@ -12,6 +12,7 @@
 - CMU, 15-411: Compiler Design, see this [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
 - Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
+- 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - A short tutorial for latex, see this [page](http://www.mohu.org/info/lshort-cn.pdf) & a tiny book about `awk` checkout this [page](http://awk.readthedocs.io/en/latest/index.html)
@@ -104,3 +105,5 @@
 - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/>
 - Term, computation offloading: <https://en.wikipedia.org/wiki/Computation_offloading>
 - cpp has become more pythonic: <http://preshing.com/20141202/cpp-has-become-more-pythonic/>
+- llvm-lit: <https://llvm.org/docs/CommandGuide/lit.html> and this guide: <http://grosser.es/teaching/2011/LLVM/week5-testing-infrastructure.pdf>, LLVM testing infrastructure guide: <https://llvm.org/docs/TestingGuide.html#test-suite-overview>
+- llvm IR info: <http://grosser.es/teaching/2011/LLVM/week4-llvm-ir-II.pdf>
