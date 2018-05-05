@@ -107,6 +107,7 @@
 - Term, computation offloading: <https://en.wikipedia.org/wiki/Computation_offloading>
 - cpp has become more pythonic: <http://preshing.com/20141202/cpp-has-become-more-pythonic/>
 - llvm-lit: <https://llvm.org/docs/CommandGuide/lit.html> and this guide: <http://grosser.es/teaching/2011/LLVM/week5-testing-infrastructure.pdf>, LLVM testing infrastructure guide: <https://llvm.org/docs/TestingGuide.html#test-suite-overview>
+- LLVM testing infrastructure, checkout this slide: <http://laure.gonnord.org/pro/research/ER03_2015/TestsLLVM.pdf>
 - llvm IR info: <http://grosser.es/teaching/2011/LLVM/week4-llvm-ir-II.pdf>
 - CGO17: Optimistic Loop Optimization <http://grosser.es/publications/grosser-2017-Optimistic-Loop-Optimization.pdf>
 - GPGPU13: Split tiling for GPUs: automatic parallelization using trapezoidal tiles, <http://grosser.es/bibliography/grosser2013split.html>
