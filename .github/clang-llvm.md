@@ -108,7 +108,10 @@
 - cpp has become more pythonic: <http://preshing.com/20141202/cpp-has-become-more-pythonic/>
 - llvm-lit: <https://llvm.org/docs/CommandGuide/lit.html> and this guide: <http://grosser.es/teaching/2011/LLVM/week5-testing-infrastructure.pdf>, LLVM testing infrastructure guide: <https://llvm.org/docs/TestingGuide.html#test-suite-overview>
 - LLVM testing infrastructure, checkout this slide: <http://laure.gonnord.org/pro/research/ER03_2015/TestsLLVM.pdf>
+- llvm FileCheck tool, see llvm devmtg: <http://llvm.org/devmtg/2016-11/Slides/Robinson-FilecheckFollies.pdf> and its official page: <https://llvm.org/docs/CommandGuide/FileCheck.html>
+- Powerful tool, clang-tidy(modernize cpp code): <https://clang.llvm.org/extra/clang-tidy/>
 - llvm IR info: <http://grosser.es/teaching/2011/LLVM/week4-llvm-ir-II.pdf>
 - CGO17: Optimistic Loop Optimization <http://grosser.es/publications/grosser-2017-Optimistic-Loop-Optimization.pdf>
 - GPGPU13: Split tiling for GPUs: automatic parallelization using trapezoidal tiles, <http://grosser.es/bibliography/grosser2013split.html>
 - INRIA13: The Promises of Hybrid Hexagonal/Classical Tiling for GPU, <http://grosser.es/bibliography/grosser2013promises.html>
+- CMU CS745, Optimizing Compiler, basics about memory hierarchy optimizations, checkout these two slides:[1](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts-1up.pdf) and [2](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts.pdf)
