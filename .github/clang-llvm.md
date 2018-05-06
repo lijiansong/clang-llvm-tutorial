@@ -13,6 +13,7 @@
 - Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
+- UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - Latex gallery, checkout this page: <https://www.overleaf.com/gallery>
@@ -115,3 +116,4 @@
 - GPGPU13: Split tiling for GPUs: automatic parallelization using trapezoidal tiles, <http://grosser.es/bibliography/grosser2013split.html>
 - INRIA13: The Promises of Hybrid Hexagonal/Classical Tiling for GPU, <http://grosser.es/bibliography/grosser2013promises.html>
 - CMU CS745, Optimizing Compiler, basics about memory hierarchy optimizations, locality analysis and data reuse, checkout these two slides:[1](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts-1up.pdf) and [2](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts.pdf)
+- CPEG 421/621 Compiler Design, Instruction Selection, checkout these two slides: [1](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2a-Instruction_Selection.pdf) and [2](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2b.pdf)
