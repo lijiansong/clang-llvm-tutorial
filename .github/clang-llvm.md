@@ -101,6 +101,7 @@
 - Generic Offload File Bundler Tool: <http://clang-developers.42468.n3.nabble.com/RFC-OpenMP-CUDA-Generic-Offload-File-Bundler-Tool-td4050147.html> and [example](https://chromium.googlesource.com/external/github.com/llvm-mirror/clang/+/refs/heads/master/test/Driver/openmp-offload-gpu.c)
 - OpenMP offloading support, checkout this slide: <https://llvm-hpc3-workshop.github.io/slides/Bertolli.pdf> and paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf>
 - Clang c++0x support status: <http://clang.llvm.org/cxx_status.html>
+- talk: How to Design a Language Integrated CUDA Compiler with LLVM, see [here](https://pdfs.semanticscholar.org/presentation/92d6/8c5f0c85a869df02c3f0bfdddf6c02ae44a2.pdf)
 - Offload action usage, see clang driver: <https://github.com/llvm-mirror/clang/blob/master/lib/Driver/Driver.cpp#L3557-L3578>
 - Scaling up Superoptimization, see this paper: <https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf>
 - compile clang with gold linker: <https://stackoverflow.com/questions/40536508/is-it-possible-to-compile-link-clang-llvm-using-the-gold-linker?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa>
@@ -117,3 +118,4 @@
 - INRIA13: The Promises of Hybrid Hexagonal/Classical Tiling for GPU, <http://grosser.es/bibliography/grosser2013promises.html>
 - CMU CS745, Optimizing Compiler, basics about memory hierarchy optimizations, locality analysis and data reuse, checkout these two slides:[1](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts-1up.pdf) and [2](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts.pdf)
 - CPEG 421/621 Compiler Design, Instruction Selection, checkout these two slides: [1](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2a-Instruction_Selection.pdf) and [2](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2b.pdf)
+- survey on register allocation: <http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf> and how to write an llvm resiter allocator: <https://github.com/nael8r/How-To-Write-An-LLVM-Register-Allocator/blob/master/HowToWriteAnLLVMRegisterAllocator.rst> and llvm devmt: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and graph coloring register allocator example: <https://github.com/joaotavio/llvm-register-allocator>
