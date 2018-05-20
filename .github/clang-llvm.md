@@ -64,7 +64,7 @@
 - OpenCL support half precision floating point type literal, checkout this review changes: <https://reviews.llvm.org/D16865>
 - Sharp tools make good work. LLVM vim plugin see its offical github repo: <https://github.com/llvm-mirror/llvm/tree/master/utils/vim> and this github repo: <https://github.com/Superbil/llvm.vim>, and this llvm-devmtg slide: <https://llvm.org/devmtg/2016-01/slides/ModernCplusplusDevelopment.pdf>
 - Book Reading <Engineering A Compiler>, checkout Rice University, COMP 512: Advanced Compiler Construction, course page: <https://www.clear.rice.edu/comp512/>
-- [ ] TODO: Spare some effort in hacking into the source code of Clang & LLVM from the perspective of `designing pattern`.
+- [x] TODO: Spare some effort in hacking into the source code of Clang & LLVM from the perspective of `designing pattern`.
 - GNU function attributes: <https://gcc.gnu.org/onlinedocs/gcc-5.3.0/gcc/Function-Attributes.html>
 - Lessons to learn from the CLang/LLVM codebase: <http://cppdepend.com/blog/?p=92>
 - Clang Rocks! <https://www.codeproject.com/Articles/475254/ClangplusRocks>
@@ -120,3 +120,5 @@
 - CMU CS745, Optimizing Compiler, basics about memory hierarchy optimizations, locality analysis and data reuse, checkout these two slides:[1](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts-1up.pdf) and [2](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts.pdf)
 - CPEG 421/621 Compiler Design, Instruction Selection, checkout these two slides: [1](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2a-Instruction_Selection.pdf) and [2](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2b.pdf)
 - survey on register allocation: <http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf> and how to write an llvm resiter allocator: <https://github.com/nael8r/How-To-Write-An-LLVM-Register-Allocator/blob/master/HowToWriteAnLLVMRegisterAllocator.rst> and llvm devmt: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and graph coloring register allocator example: <https://github.com/joaotavio/llvm-register-allocator>
+- C++ class member initialize list, checkout these pages: <http://www.learncpp.com/cpp-tutorial/8-5a-constructor-member-initializer-lists/> and <http://en.cppreference.com/w/cpp/language/initializer_list> and <https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr388.htm>
+- [ ] TODO: book reading, <Engineering_a_Compiler>
