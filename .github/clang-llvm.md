@@ -122,3 +122,5 @@
 - survey on register allocation: <http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf> and how to write an llvm resiter allocator: <https://github.com/nael8r/How-To-Write-An-LLVM-Register-Allocator/blob/master/HowToWriteAnLLVMRegisterAllocator.rst> and llvm devmt: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and graph coloring register allocator example: <https://github.com/joaotavio/llvm-register-allocator>
 - C++ class member initialize list, checkout these pages: <http://www.learncpp.com/cpp-tutorial/8-5a-constructor-member-initializer-lists/> and <http://en.cppreference.com/w/cpp/language/initializer_list> and <https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr388.htm>
 - [ ] TODO: book reading, <Engineering_a_Compiler>
+- Scratch Pad Memory research, checkout this page: <https://es.cs.uni-kl.de/publications/data/Roob12.pdf>
+- Memory Coloring: A Compiler Approach for Scratchpad Memory Management, <http://www.cse.unsw.edu.au/~jingling/papers/pact05.pdf>
