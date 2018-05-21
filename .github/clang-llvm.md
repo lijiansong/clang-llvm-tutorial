@@ -124,3 +124,15 @@
 - [ ] TODO: book reading, <Engineering_a_Compiler>
 - Scratch Pad Memory research, checkout this page: <https://es.cs.uni-kl.de/publications/data/Roob12.pdf>
 - Memory Coloring: A Compiler Approach for Scratchpad Memory Management, <http://www.cse.unsw.edu.au/~jingling/papers/pact05.pdf>
+- A Survey of Scratch-Pad Memory Management Techniques for low-power and energy: checkout this page <https://hal.inria.fr/inria-00170210/file/idrissi_zendra_icooolps_2007.pdf>
+- Data Allocation Optimization for Hybrid Scratch Pad Memory With SRAM and Nonvolatile Memory: <http://www.cadathlon.com/refs/p4-system-1.pdf>
+- MGC: Multiple Graph-Coloring for Non-Volatile Memory Based Hybrid
+Scratchpad Memory, <http://aces.snu.ac.kr/interact-16/papers/interact-16-paper-3.pdf>
+- A Memory Optimization Technique for Software Managed Scratchpad Memory in GPUs: <http://mii.ucla.edu/repository/358.pdf>
+- Data Scratchpad Prefetching for Real-time Systems: <https://uwspace.uwaterloo.ca/bitstream/handle/10012/11837/ecrts17-techrep-2.pdf?sequence=1>
+- DRDU: A Data Reuse Analysis Technique for Efficient Scratch-Pad Memory Management: <http://isseweb.com:8080/publications/todaes07.pdf>
+- A Scratchpad Memory Allocation Scheme for Dataflow Models: <https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/EECS-2008-104.pdf>
+- SSDM: Smart Stack Data Management for software managed multicores (SMMs), <http://aviral.lab.asu.edu/bibadmin/uploads/pdf/1363726263.09_STACK_DAC2013.pdf>
+- An Efficient Stack Data Management for Scratchpad Memory Based Multi-core Processors: <http://azte.technologypublisher.com/files/sites/m13-123p-ncs.pdf>
+- Stack Data Management for Limited Local Memory (LLM) Multi-core Processors: <http://aviral.lab.asu.edu/temp/publications/papers/spm-stack2.pdf>
+- 
