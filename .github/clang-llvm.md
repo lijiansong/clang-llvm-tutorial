@@ -136,3 +136,5 @@
   - [ ] Paper Reading, SSDM: Smart Stack Data Management for software managed multicores (SMMs), <http://aviral.lab.asu.edu/bibadmin/uploads/pdf/1363726263.09_STACK_DAC2013.pdf>
   - [ ] Paper Reading, An Efficient Stack Data Management for Scratchpad Memory Based Multi-core Processors: <http://azte.technologypublisher.com/files/sites/m13-123p-ncs.pdf>
   - [ ] Paper Reading, Stack Data Management for Limited Local Memory (LLM) Multi-core Processors: <http://aviral.lab.asu.edu/temp/publications/papers/spm-stack2.pdf>
+
+- cpp11 braced-init-list: <http://devdocs.io/cpp/language/list_initialization> and its compiler detail: <http://www.informit.com/articles/article.aspx?p=1852519> and Stroustrup's report: <http://www.stroustrup.com/N1919-initializer_lists.pdf>
