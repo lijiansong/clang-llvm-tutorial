@@ -138,3 +138,4 @@
   - [ ] Paper Reading, Stack Data Management for Limited Local Memory (LLM) Multi-core Processors: <http://aviral.lab.asu.edu/temp/publications/papers/spm-stack2.pdf>
 
 - cpp11 braced-init-list: <http://devdocs.io/cpp/language/list_initialization> and its compiler detail: <http://www.informit.com/articles/article.aspx?p=1852519> and Stroustrup's report: <http://www.stroustrup.com/N1919-initializer_lists.pdf>
+- llvm array optimization: <http://www.cse.iitd.ernet.in/~dahiya/CompilerOptimization_by_ArrayInterleaving.pdf> and this slide: <https://llvm.org/devmtg/2014-10/Slides/Prashanth-DLO.pdf>
