@@ -143,3 +143,4 @@
 
 - cpp11 braced-init-list: <http://devdocs.io/cpp/language/list_initialization> and its compiler detail: <http://www.informit.com/articles/article.aspx?p=1852519> and Stroustrup's report: <http://www.stroustrup.com/N1919-initializer_lists.pdf>
 - llvm array optimization: <http://www.cse.iitd.ernet.in/~dahiya/CompilerOptimization_by_ArrayInterleaving.pdf> and this slide: <https://llvm.org/devmtg/2014-10/Slides/Prashanth-DLO.pdf>
+- setjmp and longjmp checkout CS360 lecture notes: <http://web.eecs.utk.edu/~huangj/cs360/360/notes/Setjmp/lecture.html> and LLVM's exception handling: <http://llvm.org/docs/ExceptionHandling.html>
