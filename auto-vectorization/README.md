@@ -1,5 +1,9 @@
 # Autovectorization
 
+## TODO
+
+- [ ] Implement some examples.
+
 ## REF
 - LLVM official page: <http://llvm.org/docs/Vectorizers.html>
 - Autovectorization with LLVM: <http://llvm.org/devmtg/2012-04-12/Slides/Hal_Finkel.pdf>

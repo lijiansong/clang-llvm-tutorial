@@ -15,6 +15,7 @@
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
+- utexas, CS 380C: Advanced Topics in Compilers: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/>
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - Latex gallery, checkout this page: <https://www.overleaf.com/gallery>
@@ -24,7 +25,7 @@
 - A nice website about open-source, checkout this [page](http://www.open-open.com/)
 - For gnu project website, you can checkout this [page](https://sourceware.org/), e.g., gnu `as` assembler in the binutils, see this [page](https://sourceware.org/binutils/docs-2.29/as/index.html)
 - For github upload size limit soulution, you can checkout this [page](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
-- :+1: Compiler profiling, basics see [here](http://www.embecosm.com/appnotes/ean6/html/ch07s03s03.html) and LLVM profiling see [here](http://llvm.org/pubs/2010-04-NeustifterProfiling.pdf)
+- Compiler profiling, basics see [here](http://www.embecosm.com/appnotes/ean6/html/ch07s03s03.html) and LLVM profiling see [here](http://llvm.org/pubs/2010-04-NeustifterProfiling.pdf)
 - Linux `profiling and optimization` see Princeton's [slides](https://www.cs.princeton.edu/picasso/mats/mats_S07/Lucifredi_Lecture_Feb07.pdf)
 - LLVM metadata expansion IR, chkectout LLVM blog page, [Extensible Metadata in LLVM IR](http://blog.llvm.org/2010/04/extensible-metadata-in-llvm-ir.html) and LLVM official langref [page](http://llvm.org/docs/LangRef.html), github page [TypeMetadata.rst](https://github.com/llvm-mirror/llvm/blob/master/docs/TypeMetadata.rst), csdn [blog](http://blog.csdn.net/dreammeard/article/details/19493599)
 - LLVM User/Use/Value, checkout here: <https://stackoverflow.com/questions/35370195/llvm-difference-between-uses-and-user-in-instruction-or-value-classes> and official doxygen docs: <http://llvm.org/doxygen/classllvm_1_1Value.html> and <http://llvm.org/docs/ProgrammersManual.html#iterating-over-def-use-use-def-chains>
@@ -125,23 +126,6 @@
 - CPEG 421/621 Compiler Design, Instruction Selection, checkout these two slides: [1](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2a-Instruction_Selection.pdf) and [2](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2b.pdf)
 - survey on register allocation: <http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf> and how to write an llvm resiter allocator: <https://github.com/nael8r/How-To-Write-An-LLVM-Register-Allocator/blob/master/HowToWriteAnLLVMRegisterAllocator.rst> and llvm devmt: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and graph coloring register allocator example: <https://github.com/joaotavio/llvm-register-allocator>
 - C++ class member initialize list, checkout these pages: <http://www.learncpp.com/cpp-tutorial/8-5a-constructor-member-initializer-lists/> and <http://en.cppreference.com/w/cpp/language/initializer_list> and <https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr388.htm>
-- [ ] TODO: book reading, <Engineering_a_Compiler>
-- Scratch Pad Memory Optimization:
-  - Scratch Pad Memory research, checkout this page: <https://es.cs.uni-kl.de/publications/data/Roob12.pdf>
-  - [ ] Paper Reading, Memory Coloring: A Compiler Approach for Scratchpad Memory Management, <http://www.cse.unsw.edu.au/~jingling/papers/pact05.pdf>
-  - [ ] Paper Reading, A Survey of Scratch-Pad Memory Management Techniques for low-power and energy: checkout this page <https://hal.inria.fr/inria-00170210/file/idrissi_zendra_icooolps_2007.pdf>
-  - [ ] Paper Reading, Data Allocation Optimization for Hybrid Scratch Pad Memory With SRAM and Nonvolatile Memory: <http://www.cadathlon.com/refs/p4-system-1.pdf>
-  - [ ] Paper Reading, MGC: Multiple Graph-Coloring for Non-Volatile Memory Based Hybrid
-  Sc[ ] Paper Reading, ratchpad Memory, <http://aces.snu.ac.kr/interact-16/papers/interact-16-paper-3.pdf>
-  - [ ] Paper Reading, A Memory Optimization Technique for Software Managed Scratchpad Memory in GPUs: <http://mii.ucla.edu/repository/358.pdf>
-  - [ ] Paper Reading, Data Scratchpad Prefetching for Real-time Systems: <https://uwspace.uwaterloo.ca/bitstream/handle/10012/11837/ecrts17-techrep-2.pdf?sequence=1>
-  - [ ] Paper Reading, DRDU: A Data Reuse Analysis Technique for Efficient Scratch-Pad Memory Management: <http://isseweb.com:8080/publications/todaes07.pdf>
-  - [ ] Paper Reading, A Scratchpad Memory Allocation Scheme for Dataflow Models: <https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/EECS-2008-104.pdf>
-  - [ ] Paper Reading, SSDM: Smart Stack Data Management for software managed multicores (SMMs), <http://aviral.lab.asu.edu/bibadmin/uploads/pdf/1363726263.09_STACK_DAC2013.pdf>
-  - [ ] Paper Reading, An Efficient Stack Data Management for Scratchpad Memory Based Multi-core Processors: <http://azte.technologypublisher.com/files/sites/m13-123p-ncs.pdf>
-  - [ ] Paper Reading, Stack Data Management for Limited Local Memory (LLM) Multi-core Processors: <http://aviral.lab.asu.edu/temp/publications/papers/spm-stack2.pdf>
-  - [ ] Paper Reading, Compiler-directed scratch pad memory hierarchy design and management, <https://www.cs.york.ac.uk/rts/docs/SIGDA-Compendium-1994-2004/papers/2002/dac02/pdffiles/40_3.pdf> 
-
 - cpp11 braced-init-list: <http://devdocs.io/cpp/language/list_initialization> and its compiler detail: <http://www.informit.com/articles/article.aspx?p=1852519> and Stroustrup's report: <http://www.stroustrup.com/N1919-initializer_lists.pdf>
 - llvm array optimization: <http://www.cse.iitd.ernet.in/~dahiya/CompilerOptimization_by_ArrayInterleaving.pdf> and this slide: <https://llvm.org/devmtg/2014-10/Slides/Prashanth-DLO.pdf>
 - setjmp and longjmp checkout CS360 lecture notes: <http://web.eecs.utk.edu/~huangj/cs360/360/notes/Setjmp/lecture.html> and LLVM's exception handling: <http://llvm.org/docs/ExceptionHandling.html>
