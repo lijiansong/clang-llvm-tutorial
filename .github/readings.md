@@ -1,10 +1,23 @@
 # READings
 - Fast and slow if-statements: branch prediction in modern processors: <http://igoro.com/archive/fast-and-slow-if-statements-branch-prediction-in-modern-processors/>
 - avrlibc `malloc` implementation details, checkout this page: <https://www.cs.ou.edu/~fagg/classes/general/atmel/avr-libc-user-manual-1.7.1.pdf>
+- wikipedia, vector processor: <https://en.wikipedia.org/wiki/Vector_processor>
+- CMU, Computer Architecture: SIMD/Vector/GPU, slide: <https://www.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php%3Fmedia%3Dseth-740-fall13-module5.1-simd-vector-gpu.pdf>
+- Berkeley course slide, CS252, Computer Architecture: Vector Processing, <https://people.eecs.berkeley.edu/~pattrsn/252S98/Lec06-vector.pdf>
+- Stanford, ee382a, Vector Processors, <http://www.csit-sun.pub.ro/~cpop/Sisteme_cu_Microprocesoare_Avansate_SMPA/SMPA_curs_master5AAC/SMPA_curs5/EE382A/L14-vector%20processor.pdf>
+- A Study of Productivity and Performance of Modern Vector Processors: <https://sharepoint.ecampus.rwth-aachen.de/units/rz/HPC/public/Shared%20Documents/BA_Springer_ModernVectorProcessors_2012-03.pdf>
+- Mater thesis, Vector Processing as a Soft-CPU Accelerator: <https://www.ece.ubc.ca/~lemieux/publications/yu-masc2008.pdf>
 - SIMD Optimization Tips:
   - SIMD Assembly Optimization: <https://blog.grijjy.com/2017/07/10/simd-assembly-optimization/>
   - Assembly Optimization Tips: <http://mark.masmcode.com/>
   - PERFORMANCE OPTIMIZATION ON MODERN PROCESSOR ARCHITECTURE THROUGH VECTORIZATION: <https://objectcomputing.com/resources/publications/sett/december-2016-performance-optimization-on-modern-processor-architecture-through-vectorization>
   - SIMD Programming: <https://www.moreno.marzolla.name/teaching/high-performance-computing/2017-2018/L08-SIMD.pdf>
+  - PPoPP 2018, WPMVP 2018 Workshop on Programming Models for SIMD/Vector Processing, <https://ppopp18.sigplan.org/track/WPMVP2018>
+  - A Data Layout Transformation for Vectorizing Compilers: <https://graphics.cg.uni-saarland.de/papers/perard-2018-wpmvp.pdf>
+  - A Compiler Approach for Exploiting Partial SIMD Parallelism, <https://dl.acm.org/citation.cfm?id=2886101>
+  - Optimizations of the Whole Function Vectorization Based on SIMD Characteristics: <https://www.researchgate.net/publication/320230290_Optimizations_of_the_Whole_Function_Vectorization_Based_on_SIMD_Characteristics>
+  - Look-ahead SLP: auto-vectorization in the presence of commutative operations: <https://www.researchgate.net/publication/323507137_Look-ahead_SLP_auto-vectorization_in_the_presence_of_commutative_operations>
+  - Automatic Parallelization of Programming Languages: Past, Present and Future, <https://www.microsoft.com/en-us/research/wp-content/uploads/2010/05/IWMSE-keynote.pdf>
+  - The Tao of Parallelism in Algorithms: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/papers/p12-pingali.pdf>
 - Hack the virtual memory: <https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/>
 - A tiny x86 boot-loader: <http://joebergeron.io/posts/post_two.html>
