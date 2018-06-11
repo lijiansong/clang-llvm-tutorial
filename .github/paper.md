@@ -19,5 +19,8 @@
 
 - READING: Memory Management of Manycore Systems, <http://www.diva-portal.org/smash/get/diva2:578377/fulltext01.pdf>
 - A functional language and compiler for the Arduino micro-controller: <https://pdfs.semanticscholar.org/24d3/c5232ccb08269d3f0ab3410cd8967f20c457.pdf>
-- avrlibc malloc implementation details, checkout this page: <https://www.cs.ou.edu/~fagg/classes/general/atmel/avr-libc-user-manual-1.7.1.pdf>
+- avrlibc malloc implementation details, checkout this page: <https://www.nongnu.org/avr-libc/user-manual/malloc.html> and <https://www.cs.ou.edu/~fagg/classes/general/atmel/avr-libc-user-manual-1.7.1.pdf>
 - A Comparison of Empirical and Model-driven Optimization: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/papers/yotov.pdf>
+- READING: Automatic Loop Tuning and Memory Management for Stencil Computations, <https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=4014&context=etd>
+- Applying Temporal Blocking with a Directive‐based Approach, paper:<http://www.el.gsic.titech.ac.jp/~endo/publication/kuroda-llvm-hpc17-stencil.pdf>, slide: <https://llvm-hpc4-workshop.github.io/slides/Endo.pdf>
+
