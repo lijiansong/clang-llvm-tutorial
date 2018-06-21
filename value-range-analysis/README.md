@@ -5,7 +5,7 @@ The resulting information can be used in optimizations such as `redundancy elimi
 Techniques for value range analysis typically use `symbolic analysis` extensively.
 
 ## Gen bitcode
-- bitcode generation using following cmds
+- Clang / LLVM version 4.0.0, bitcode generation using following cmds
 ```
 $ clang -c –emit-llvm –g3 funptr.c
 $ opt -dot-cfg funcptr.bc

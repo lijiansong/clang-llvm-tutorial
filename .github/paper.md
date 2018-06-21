@@ -24,3 +24,4 @@
 - READING: Automatic Loop Tuning and Memory Management for Stencil Computations, <https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=4014&context=etd>
 - Applying Temporal Blocking with a Directive‐based Approach, paper:<http://www.el.gsic.titech.ac.jp/~endo/publication/kuroda-llvm-hpc17-stencil.pdf>, slide: <https://llvm-hpc4-workshop.github.io/slides/Endo.pdf>
 - ICS2018, Optimizing Tensor Contractions in CCSD(T) for Efficient Execution on GPUs, <http://ics2018.ict.ac.cn/ICS2018-237.pdf>
+- FPGA survey: <https://arxiv.org/pdf/1806.01683>

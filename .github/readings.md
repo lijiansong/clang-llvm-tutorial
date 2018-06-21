@@ -16,7 +16,7 @@
   - A Data Layout Transformation for Vectorizing Compilers: <https://graphics.cg.uni-saarland.de/papers/perard-2018-wpmvp.pdf>
   - A Compiler Approach for Exploiting Partial SIMD Parallelism, <https://dl.acm.org/citation.cfm?id=2886101>
   - Optimizations of the Whole Function Vectorization Based on SIMD Characteristics: <https://www.researchgate.net/publication/320230290_Optimizations_of_the_Whole_Function_Vectorization_Based_on_SIMD_Characteristics>
-  - Look-ahead SLP: auto-vectorization in the presence of commutative operations: <https://www.researchgate.net/publication/323507137_Look-ahead_SLP_auto-vectorization_in_the_presence_of_commutative_operations>
+  - Look-ahead SLP: auto-vectorization in the presence of commutative operations: <https://www.researchgate.net/publication/323507137_Look-ahead_SLP_auto-vectorization_in_the_presence_of_commutative_operations> and its slide: <http://llvm.org/devmtg/2018-04/slides/Rocha-Look-Ahead%20SLP.pdf>
   - Automatic Parallelization of Programming Languages: Past, Present and Future, <https://www.microsoft.com/en-us/research/wp-content/uploads/2010/05/IWMSE-keynote.pdf>
   - The Tao of Parallelism in Algorithms: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/papers/p12-pingali.pdf>
 - Hack the virtual memory: <https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/>
@@ -24,3 +24,6 @@
 - Book reading: Small memory software tricks: <http://smallmemory.com/> and pdf see [here](https://www.researchgate.net/publication/220694739_Small_memory_software_patterns_for_systems_with_limited_memory) or [here](https://gamehacking.org/faqs/Small_Memory_Software.pdf)
 - X64 cheat sheet: <https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf> and <http://pages.cs.wisc.edu/~remzi/Classes/354/Fall2012/Handouts/Handout-x86-cheat-sheet.pdf> and <http://www.scadahackr.com/library/Documents/Cheat_Sheets/Programming%20-%20x86%20Instructions%201.pdf>
 - LLVM FPGA: <https://llvm.org/devmtg/2014-10/Slides/Baker-CustomHardwareStateMachines.pdf>
+- NUMA, checkout this page: <http://cenalulu.github.io/linux/numa/>
+- Intel Haswell arch, see wiki page: <https://en.wikipedia.org/wiki/Haswell_(microarchitecture)>
+- Introduction to Parallel Algorithms and Parallel Program Design, checkout this slide: <http://ipcc.cs.uoregon.edu/lectures/lecture-12-algorithms.pdf>
