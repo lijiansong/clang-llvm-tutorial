@@ -27,3 +27,8 @@
 - NUMA, checkout this page: <http://cenalulu.github.io/linux/numa/>
 - Intel Haswell arch, see wiki page: <https://en.wikipedia.org/wiki/Haswell_(microarchitecture)>
 - Introduction to Parallel Algorithms and Parallel Program Design, checkout this slide: <http://ipcc.cs.uoregon.edu/lectures/lecture-12-algorithms.pdf>
+- OpenARC: Open Accelerator Research Compiler, <https://ft.ornl.gov/research/openarc> and related publications: <https://ft.ornl.gov/publications>
+- Source Cetus: Source-to-source Compiler source Compiler Infrastructure for Multicores, checkout this slide: <https://engineering.purdue.edu/Cetus/Documentation/tutorials/ppopp09.pdf>
+- Clacc: OpenACC Support for Clang/LLVM, <http://llvm.org/devmtg/2018-04/slides/Vetter-Clacc.pdf>
+- OpenMP in clang, <https://clang-omp.github.io/> and its github repo: <https://github.com/llvm-project/openmp> and tutorial: <https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf>
+- A Journey of OpenCL 2.0 Development in Clang, <https://llvm.org/devmtg/2016-03/Presentations/AnastasiaStulova_OpenCL20_EuroLLVM2016.pdf>
