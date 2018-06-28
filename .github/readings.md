@@ -34,3 +34,4 @@
 - A Journey of OpenCL 2.0 Development in Clang, <https://llvm.org/devmtg/2016-03/Presentations/AnastasiaStulova_OpenCL20_EuroLLVM2016.pdf>
 - Introduction to GCC Inline Asm: <http://asm.sourceforge.net/articles/rmiyagi-inline-asm.txt>
 - A Tiny Guide to GCC Inline Assembly: <http://ericw.ca/notes/a-tiny-guide-to-gcc-inline-assembly.html> and this tutorial: <https://www.cs.virginia.edu/~clc5q/gcc-inline-asm.pdf>
+- asm inline testcases in clang: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/asm.c>
