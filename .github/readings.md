@@ -19,6 +19,7 @@
   - Look-ahead SLP: auto-vectorization in the presence of commutative operations: <https://www.researchgate.net/publication/323507137_Look-ahead_SLP_auto-vectorization_in_the_presence_of_commutative_operations> and its slide: <http://llvm.org/devmtg/2018-04/slides/Rocha-Look-Ahead%20SLP.pdf>
   - Automatic Parallelization of Programming Languages: Past, Present and Future, <https://www.microsoft.com/en-us/research/wp-content/uploads/2010/05/IWMSE-keynote.pdf>
   - The Tao of Parallelism in Algorithms: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/papers/p12-pingali.pdf>
+  - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/>
 - Hack the virtual memory: <https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/>
 - A tiny x86 boot-loader: <http://joebergeron.io/posts/post_two.html>
 - Book reading: Small memory software tricks: <http://smallmemory.com/> and pdf see [here](https://www.researchgate.net/publication/220694739_Small_memory_software_patterns_for_systems_with_limited_memory) or [here](https://gamehacking.org/faqs/Small_Memory_Software.pdf)
@@ -35,3 +36,5 @@
 - Introduction to GCC Inline Asm: <http://asm.sourceforge.net/articles/rmiyagi-inline-asm.txt>
 - A Tiny Guide to GCC Inline Assembly: <http://ericw.ca/notes/a-tiny-guide-to-gcc-inline-assembly.html> and this tutorial: <https://www.cs.virginia.edu/~clc5q/gcc-inline-asm.pdf>
 - asm inline testcases in clang: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/asm.c>
+- heap vs stack, <https://www.gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html>
+- MMU, Memory management unit, <https://en.wikipedia.org/wiki/Memory_management_unit>
