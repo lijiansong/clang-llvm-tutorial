@@ -38,3 +38,6 @@
 - asm inline testcases in clang: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/asm.c>
 - heap vs stack, <https://www.gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html>
 - MMU, Memory management unit, <https://en.wikipedia.org/wiki/Memory_management_unit>
+- Applying Temporal Blocking with a Directive‐based Approach, <https://llvm-hpc4-workshop.github.io/slides/Endo.pdf>
+- Towards Automatic HBM Allocation using LLVM: A Case Study with Knights Landing, <https://www.computer.org/csdl/proceedings/llvm-hpc/2016/3878/00/07839456.pdf>
+- Locality Aware Memory Assignment and Tiling, [acm](http://delivery.acm.org/10.1145/3200000/3196070/a130-rogers.pdf?ip=202.175.167.104&id=3196070&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E896D0D4959F561C0%2E6D218144511F3437&__acm__=1530546026_dcc8e8cdae435257aae5419cc797b717)
