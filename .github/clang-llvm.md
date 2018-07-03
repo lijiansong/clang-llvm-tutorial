@@ -109,6 +109,7 @@
 - Clang c++0x support status: <http://clang.llvm.org/cxx_status.html>
 - talk: How to Design a Language Integrated CUDA Compiler with LLVM, see [here](https://pdfs.semanticscholar.org/presentation/92d6/8c5f0c85a869df02c3f0bfdddf6c02ae44a2.pdf)
 - Offload action usage, see clang driver: <https://github.com/llvm-mirror/clang/blob/master/lib/Driver/Driver.cpp#L3557-L3578>
+- clang code tree: <https://llvm.org/devmtg/2017-06/2-Hal-Finkel-LLVM-2017.pdf>
 - Scaling up Superoptimization, see this paper: <https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf>
 - compile clang with gold linker: <https://stackoverflow.com/questions/40536508/is-it-possible-to-compile-link-clang-llvm-using-the-gold-linker?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa>
 - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/>
@@ -130,3 +131,4 @@
 - llvm array optimization: <http://www.cse.iitd.ernet.in/~dahiya/CompilerOptimization_by_ArrayInterleaving.pdf> and this slide: <https://llvm.org/devmtg/2014-10/Slides/Prashanth-DLO.pdf>
 - setjmp and longjmp checkout CS360 lecture notes: <http://web.eecs.utk.edu/~huangj/cs360/360/notes/Setjmp/lecture.html> and LLVM's exception handling: <http://llvm.org/docs/ExceptionHandling.html>
 - avr-libc: <http://www.nongnu.org/avr-libc>
+- Portable Computing Language, pocl uses Clang as an OpenCL C frontend and LLVM for kernel compiler implementation, and as a portability layer: <http://portablecl.org/>
