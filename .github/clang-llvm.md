@@ -131,4 +131,7 @@
 - llvm array optimization: <http://www.cse.iitd.ernet.in/~dahiya/CompilerOptimization_by_ArrayInterleaving.pdf> and this slide: <https://llvm.org/devmtg/2014-10/Slides/Prashanth-DLO.pdf>
 - setjmp and longjmp checkout CS360 lecture notes: <http://web.eecs.utk.edu/~huangj/cs360/360/notes/Setjmp/lecture.html> and LLVM's exception handling: <http://llvm.org/docs/ExceptionHandling.html>
 - avr-libc: <http://www.nongnu.org/avr-libc>
-- Portable Computing Language, pocl uses Clang as an OpenCL C frontend and LLVM for kernel compiler implementation, and as a portability layer: <http://portablecl.org/>
+- Portable Computing Language, pocl uses Clang as an OpenCL C frontend and LLVM for kernel compiler implementation, and as a portability layer: <http://portablecl.org/> and its docs: <http://portablecl.org/docs/html/>
+- MergeFunctions pass, <http://llvm.org/docs/MergeFunctions.html>
+- Inst combine maybe invalid, <https://llvm.org/devmtg/2014-10/Slides/Menendez-Alive.pdf>
+- constant folding: <http://www.duskborn.com/optimizing-llvm-ir-from-the-c-api/> and llvm official example: <https://llvm.org/docs/tutorial/OCamlLangImpl4.html> and slide: <http://www.cse.chalmers.se/edu/year/2014/course/TDA282/lect08-2x2.pdf>
