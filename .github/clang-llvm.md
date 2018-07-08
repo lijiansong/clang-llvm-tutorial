@@ -43,6 +43,9 @@
 - dynamic generate or insert `globalvar` or `VarDecl` for current module, checkout these stackoverflow pages: [1](https://stackoverflow.com/questions/23328832/llvm-initialize-an-integer-global-variable-with-value-0) & [2](https://stackoverflow.com/questions/23330018/llvm-global-integer-array-zeroinitializer) 
 - Clang QualType => Type, see [here](https://reviews.llvm.org/D35180)
 - llvm back-end Instruction Selection DAG, see [here](http://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf)
+- Instruction selection details: <https://github.com/draperlaboratory/fracture/wiki/How-TableGen's-DAGISel-Backend-Works>
+- llvm debug isel: <http://lists.llvm.org/pipermail/llvm-dev/2017-August/116501.html> and <http://llvm.org/docs/CodeGenerator.html#instruction-selection-section>
+- LLVM detail slide: <http://www.cs.cmu.edu/afs/cs/academic/class/15745-s13/public/lectures/L6-LLVM-Detail-1up.pdf>
 - LLVM `Global Instruction Selection` see its doc [page](https://www.llvm.org/docs/GlobalISel.html) and this slide [page](http://llvm.org/devmtg/2015-10/slides/Colombet-GlobalInstructionSelection.pdf)
 - [Compiler Validations](http://processors.wiki.ti.com/index.php/Compiler_Validation), and for super-test its tutorial see [here](https://marketplace.windriver.com/index.php?packages&on=details&id=69&cat=17)
 - LLVM Emit an extra section with meta-information, see its [mail-list](http://llvm.1065342.n5.nabble.com/Emitting-an-extra-section-with-meta-information-td51523.html); Emit Clang version information into .comment section, see [here](https://reviews.llvm.org/D1720), class [MCStreamer](http://llvm.org/doxygen/classllvm_1_1MCStreamer.html) and [MCELFStreamer](http://www.llvm.org/doxygen/classllvm_1_1MCELFStreamer.html) and this page for [MCSection](https://www.llvm.org.cn/docs/CodeGenerator.html#the-mcsection-class) class.
