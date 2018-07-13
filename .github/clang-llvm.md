@@ -138,3 +138,4 @@
 - MergeFunctions pass, <http://llvm.org/docs/MergeFunctions.html>
 - Inst combine maybe invalid, <https://llvm.org/devmtg/2014-10/Slides/Menendez-Alive.pdf>
 - constant folding: <http://www.duskborn.com/optimizing-llvm-ir-from-the-c-api/> and llvm official example: <https://llvm.org/docs/tutorial/OCamlLangImpl4.html> and slide: <http://www.cse.chalmers.se/edu/year/2014/course/TDA282/lect08-2x2.pdf>
+- llvm disable dag combiner in O0, <http://lists.llvm.org/pipermail/llvm-dev/2016-May/099688.html>
