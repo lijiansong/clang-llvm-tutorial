@@ -16,6 +16,7 @@
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
 - utexas, CS 380C: Advanced Topics in Compilers: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/>
+- Illinois, cs598, Designing and Building Applications for Extreme Scale Systems: <http://wgropp.cs.illinois.edu/courses/cs598-s16/>
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - Latex gallery, checkout this page: <https://www.overleaf.com/gallery>
@@ -45,6 +46,7 @@
 - llvm back-end Instruction Selection DAG, see [here](http://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf)
 - Instruction selection details: <https://github.com/draperlaboratory/fracture/wiki/How-TableGen's-DAGISel-Backend-Works>
 - llvm debug isel: <http://lists.llvm.org/pipermail/llvm-dev/2017-August/116501.html> and <http://llvm.org/docs/CodeGenerator.html#instruction-selection-section>
+- llvm backend slide, clear pictures: <https://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf>
 - LLVM detail slide: <http://www.cs.cmu.edu/afs/cs/academic/class/15745-s13/public/lectures/L6-LLVM-Detail-1up.pdf>
 - LLVM `Global Instruction Selection` see its doc [page](https://www.llvm.org/docs/GlobalISel.html) and this slide [page](http://llvm.org/devmtg/2015-10/slides/Colombet-GlobalInstructionSelection.pdf)
 - [Compiler Validations](http://processors.wiki.ti.com/index.php/Compiler_Validation), and for super-test its tutorial see [here](https://marketplace.windriver.com/index.php?packages&on=details&id=69&cat=17)
