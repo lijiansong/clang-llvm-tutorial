@@ -20,6 +20,7 @@
   - Automatic Parallelization of Programming Languages: Past, Present and Future, <https://www.microsoft.com/en-us/research/wp-content/uploads/2010/05/IWMSE-keynote.pdf>
   - The Tao of Parallelism in Algorithms: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/papers/p12-pingali.pdf>
   - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/>
+  - High Level Transforms for SIMD and Low-Level Computer Vision Algorithms, <https://hal.inria.fr/hal-01094906> and its slide, <http://tesson.julien.free.fr/LaMHA/2015/Lacassagne_LaMHA_2015-11-26.pdf>
 - Hack the virtual memory: <https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/>
 - A tiny x86 boot-loader: <http://joebergeron.io/posts/post_two.html>
 - Book reading: Small memory software tricks: <http://smallmemory.com/> and pdf see [here](https://www.researchgate.net/publication/220694739_Small_memory_software_patterns_for_systems_with_limited_memory) or [here](https://gamehacking.org/faqs/Small_Memory_Software.pdf)
@@ -43,3 +44,4 @@
 - Locality Aware Memory Assignment and Tiling, [acm](http://delivery.acm.org/10.1145/3200000/3196070/a130-rogers.pdf?ip=202.175.167.104&id=3196070&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E896D0D4959F561C0%2E6D218144511F3437&__acm__=1530546026_dcc8e8cdae435257aae5419cc797b717)
 - Design Pattern, <http://www.vincehuston.org/dp/>
 - cpp, a non const reference cannot bind to a temporary object, <https://stackoverflow.com/questions/1565600/how-come-a-non-const-reference-cannot-bind-to-a-temporary-object>
+
