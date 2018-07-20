@@ -44,4 +44,5 @@
 - Locality Aware Memory Assignment and Tiling, [acm](http://delivery.acm.org/10.1145/3200000/3196070/a130-rogers.pdf?ip=202.175.167.104&id=3196070&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E896D0D4959F561C0%2E6D218144511F3437&__acm__=1530546026_dcc8e8cdae435257aae5419cc797b717)
 - Design Pattern, <http://www.vincehuston.org/dp/>
 - cpp, a non const reference cannot bind to a temporary object, <https://stackoverflow.com/questions/1565600/how-come-a-non-const-reference-cannot-bind-to-a-temporary-object>
-
+- A collection of pure bash alternatives to external processes: <https://github.com/dylanaraps/pure-bash-bible>
+- Build you own x: <https://github.com/danistefanovic/build-your-own-x>
