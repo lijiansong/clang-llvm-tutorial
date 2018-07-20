@@ -51,6 +51,7 @@
 - LLVM `Global Instruction Selection` see its doc [page](https://www.llvm.org/docs/GlobalISel.html)
 - `selection dag based instruction selection` VS `global instruction selection`, checkout this slide [page](http://llvm.org/devmtg/2015-10/slides/Colombet-GlobalInstructionSelection.pdf)
 - LLVM’s Latest Instruction Selection Framework, GloablISel, it maybe a replacement for selection DAG: <https://archive.fosdem.org/2017/schedule/event/globalisel/attachments/slides/1657/export/events/attachments/globalisel/slides/1657/2017_FOSDEM_GlobalISel.pdf>
+- Instruction Selection Principles, Methods, and Applications: <https://www.diva-portal.org/smash/get/diva2:951540/FULLTEXT01.pdf>
 - [Compiler Validations](http://processors.wiki.ti.com/index.php/Compiler_Validation), and for super-test its tutorial see [here](https://marketplace.windriver.com/index.php?packages&on=details&id=69&cat=17)
 - LLVM Emit an extra section with meta-information, see its [mail-list](http://llvm.1065342.n5.nabble.com/Emitting-an-extra-section-with-meta-information-td51523.html); Emit Clang version information into .comment section, see [here](https://reviews.llvm.org/D1720), class [MCStreamer](http://llvm.org/doxygen/classllvm_1_1MCStreamer.html) and [MCELFStreamer](http://www.llvm.org/doxygen/classllvm_1_1MCELFStreamer.html) and this page for [MCSection](https://www.llvm.org.cn/docs/CodeGenerator.html#the-mcsection-class) class.
 - some backend implement can ref to [AMDGPU](https://github.com/llvm-mirror/llvm/tree/master/lib/Target/AMDGPU)
@@ -143,3 +144,4 @@
 - Inst combine maybe invalid, <https://llvm.org/devmtg/2014-10/Slides/Menendez-Alive.pdf>
 - constant folding: <http://www.duskborn.com/optimizing-llvm-ir-from-the-c-api/> and llvm official example: <https://llvm.org/docs/tutorial/OCamlLangImpl4.html> and slide: <http://www.cse.chalmers.se/edu/year/2014/course/TDA282/lect08-2x2.pdf>
 - llvm disable dag combiner in O0, <http://lists.llvm.org/pipermail/llvm-dev/2016-May/099688.html>
+- gcc builtin functions, e.g.: __builtin_alloca, __builtin_alloca_with_align, <https://gcc.gnu.org/onlinedocs/gcc-7.2.0/gcc/Other-Builtins.html>
