@@ -21,6 +21,7 @@
   - The Tao of Parallelism in Algorithms: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/papers/p12-pingali.pdf>
   - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/>
   - High Level Transforms for SIMD and Low-Level Computer Vision Algorithms, <https://hal.inria.fr/hal-01094906> and its slide, <http://tesson.julien.free.fr/LaMHA/2015/Lacassagne_LaMHA_2015-11-26.pdf>
+- kernel fusion: <https://www.msra.cn/zh-cn/news/features/kernel-fusion-20170925>
 - Hack the virtual memory: <https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/>
 - A tiny x86 boot-loader: <http://joebergeron.io/posts/post_two.html>
 - Book reading: Small memory software tricks: <http://smallmemory.com/> and pdf see [here](https://www.researchgate.net/publication/220694739_Small_memory_software_patterns_for_systems_with_limited_memory) or [here](https://gamehacking.org/faqs/Small_Memory_Software.pdf)
