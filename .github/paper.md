@@ -25,3 +25,7 @@
 - Applying Temporal Blocking with a Directive‐based Approach, paper:<http://www.el.gsic.titech.ac.jp/~endo/publication/kuroda-llvm-hpc17-stencil.pdf>, slide: <https://llvm-hpc4-workshop.github.io/slides/Endo.pdf>
 - ICS2018, Optimizing Tensor Contractions in CCSD(T) for Efficient Execution on GPUs, <http://ics2018.ict.ac.cn/ICS2018-237.pdf>
 - FPGA survey: <https://arxiv.org/pdf/1806.01683>
+- SIMD Optimizations:
+  - [ ] loopmix: <http://www.cse.unsw.edu.au/~corg/loopmix/>
+  - [ ] A Compiler Approach for Exploiting Partial SIMD Parallelism, <http://dl.acm.org/citation.cfm?id=2886101>
+  - [ ] Exploiting mixed SIMD parallelism by reducing data reorganization overhead, [CGO16, Best Paper Award](http://delivery.acm.org/10.1145/2860000/2854054/p59-zhou.pdf?ip=202.175.167.102&id=2854054&acc=AUTHOR-IZED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E896D0D4959F561C0%2ED04282ED5F6114AF&__acm__=1532257378_6a3f98f8dc1acc020fa90ff4dafb8f5b)
