@@ -146,3 +146,4 @@
 - constant folding: <http://www.duskborn.com/optimizing-llvm-ir-from-the-c-api/> and llvm official example: <https://llvm.org/docs/tutorial/OCamlLangImpl4.html> and slide: <http://www.cse.chalmers.se/edu/year/2014/course/TDA282/lect08-2x2.pdf>
 - llvm disable dag combiner in O0, <http://lists.llvm.org/pipermail/llvm-dev/2016-May/099688.html>
 - gcc builtin functions, e.g.: __builtin_alloca, __builtin_alloca_with_align, <https://gcc.gnu.org/onlinedocs/gcc-7.2.0/gcc/Other-Builtins.html> and dynamic stack allocation support.
+- LLVM poison value. checkout [langref](https://llvm.org/docs/LangRef.html#poisonvalues) and [stackoverflow](https://stackoverflow.com/questions/34190997/the-poison-value-and-undefined-value-in-llvm), and checkout developers' meeting 16's [slide](http://llvm.org/devmtg/2016-11/Slides/Lopes-LongLivePoison.pdf)
