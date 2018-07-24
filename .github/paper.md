@@ -34,3 +34,4 @@
   - [ ] Optimizing CUDA Code By Kernel Fusion---Application on BLAS: <https://arxiv.org/pdf/1305.1183.pdf>
   - [ ] Scalable Kernel Fusion for Memory-Bound GPU Applications: <https://mt.r-ccs.riken.jp/publications/wahib_SC2014.pdf>
   - [ ] Kernel Fusion: An Effective Method for Better Power Efficiency on Multithreaded GPU: <https://ieeexplore.ieee.org/document/5724850/>
+- Provably Correct Peephole Optimizations with Alive, PLDI'15 <https://www.cs.utah.edu/~regehr/papers/pldi15.pdf>
