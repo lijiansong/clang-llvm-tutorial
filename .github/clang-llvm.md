@@ -43,7 +43,6 @@
 - [Create a working compiler with the LLVM framework](https://www.ibm.com/developerworks/library/os-createcompilerllvm2/index.html)
 - dynamic generate or insert `globalvar` or `VarDecl` for current module, checkout these stackoverflow pages: [1](https://stackoverflow.com/questions/23328832/llvm-initialize-an-integer-global-variable-with-value-0) & [2](https://stackoverflow.com/questions/23330018/llvm-global-integer-array-zeroinitializer) 
 - Clang QualType => Type, see [here](https://reviews.llvm.org/D35180)
-- Super-optimizing LLVM IR, Analysing expressions, for modules, e.g.: Constant folding, Reduce to sub-expression, Unused variables and Rule reduction. <http://llvm.org/devmtg/2011-11/Sands_Super-optimizingLLVMIR.pdf>
 - llvm back-end Instruction Selection DAG, see [here](http://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf)
 - Instruction selection details: <https://github.com/draperlaboratory/fracture/wiki/How-TableGen's-DAGISel-Backend-Works>
 - llvm debug isel: <http://lists.llvm.org/pipermail/llvm-dev/2017-August/116501.html> and <http://llvm.org/docs/CodeGenerator.html#instruction-selection-section>
@@ -145,6 +144,7 @@
 - Inst combine maybe invalid, <https://llvm.org/devmtg/2014-10/Slides/Menendez-Alive.pdf>
 - ALIVe: Automatic LLVM InstCombine Verifier, <https://blog.regehr.org/archives/1170>
 - constant folding: <http://www.duskborn.com/optimizing-llvm-ir-from-the-c-api/> and llvm official example: <https://llvm.org/docs/tutorial/OCamlLangImpl4.html> and slide: <http://www.cse.chalmers.se/edu/year/2014/course/TDA282/lect08-2x2.pdf>
+- Super-optimizing LLVM IR, Analysing expressions, for modules, e.g.: Constant folding, Reduce to sub-expression, Unused variables and Rule reduction. <http://llvm.org/devmtg/2011-11/Sands_Super-optimizingLLVMIR.pdf>
 - llvm disable dag combiner in O0, <http://lists.llvm.org/pipermail/llvm-dev/2016-May/099688.html>
 - clang & llvm inline asm, checkout this page: <https://llvm.org/docs/LangRef.html#inline-assembler-expressions>
 - gcc builtin functions, e.g.: __builtin_alloca, __builtin_alloca_with_align, <https://gcc.gnu.org/onlinedocs/gcc-7.2.0/gcc/Other-Builtins.html> and dynamic stack allocation support.
