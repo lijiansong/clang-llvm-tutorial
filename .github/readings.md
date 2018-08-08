@@ -8,9 +8,9 @@
 - A Study of Productivity and Performance of Modern Vector Processors: <https://sharepoint.ecampus.rwth-aachen.de/units/rz/HPC/public/Shared%20Documents/BA_Springer_ModernVectorProcessors_2012-03.pdf>
 - Mater thesis, Vector Processing as a Soft-CPU Accelerator: <https://www.ece.ubc.ca/~lemieux/publications/yu-masc2008.pdf>
 - SIMD Optimization Tips:
+  - Programming Optimization tips: <http://www.azillionmonkeys.com/qed/optimize.html>
   - X86 asm optimization tips: <http://www.azillionmonkeys.com/qed/asm.html>
   - Pentium Optimizations: <http://www.azillionmonkeys.com/qed/p5opt.html>
-  - Programming Optimization tips: <http://www.azillionmonkeys.com/qed/optimize.html>
   - SIMD Assembly Optimization: <https://blog.grijjy.com/2017/07/10/simd-assembly-optimization/>
   - Assembly Optimization Tips: <http://mark.masmcode.com/>
   - PERFORMANCE OPTIMIZATION ON MODERN PROCESSOR ARCHITECTURE THROUGH VECTORIZATION: <https://objectcomputing.com/resources/publications/sett/december-2016-performance-optimization-on-modern-processor-architecture-through-vectorization>
