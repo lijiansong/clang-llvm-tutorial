@@ -50,4 +50,6 @@
 - cpp, a non const reference cannot bind to a temporary object, <https://stackoverflow.com/questions/1565600/how-come-a-non-const-reference-cannot-bind-to-a-temporary-object>
 - A collection of pure bash alternatives to external processes: <https://github.com/dylanaraps/pure-bash-bible>
 - Build you own x: <https://github.com/danistefanovic/build-your-own-x>
+- Inline asm macro expr format: <https://stackoverflow.com/questions/37146962/macro-with-inline-asm-in-c-is-having-formatting-problems>
+- Macro function overloading: <https://stackoverflow.com/questions/11761703/overloading-macro-on-number-of-arguments>
 
