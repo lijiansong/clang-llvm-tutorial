@@ -52,4 +52,5 @@
 - Build you own x: <https://github.com/danistefanovic/build-your-own-x>
 - Inline asm macro expr format: <https://stackoverflow.com/questions/37146962/macro-with-inline-asm-in-c-is-having-formatting-problems>
 - Macro function overloading: <https://stackoverflow.com/questions/11761703/overloading-macro-on-number-of-arguments>
+- Clang optimization levels: <https://stackoverflow.com/questions/15548023/clang-optimization-levels/15548189#15548189> and this post:<https://nval.andreasherten.de/2016/08/18/clang-optimization-levels.html>
 
