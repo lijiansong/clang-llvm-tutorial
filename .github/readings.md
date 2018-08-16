@@ -53,4 +53,7 @@
 - Inline asm macro expr format: <https://stackoverflow.com/questions/37146962/macro-with-inline-asm-in-c-is-having-formatting-problems>
 - Macro function overloading: <https://stackoverflow.com/questions/11761703/overloading-macro-on-number-of-arguments>
 - Clang optimization levels: <https://stackoverflow.com/questions/15548023/clang-optimization-levels/15548189#15548189> and this post:<https://nval.andreasherten.de/2016/08/18/clang-optimization-levels.html>
+- Clang Optimization for Embedded Linux: <http://events17.linuxfoundation.org/sites/events/files/slides/GCC%252FClang%20Optimizations%20for%20Embedded%20Linux.pdf>
+- C++ Template Instantiation and Concepts in Clang, impl details checkout this [paper](https://pdfs.semanticscholar.org/aef3/f3c2ada21aea2bf7805e2c221c85ca88d506.pdf)
+- Architecture of Clang, checkout this paper: <http://wiki.ifs.hsr.ch/SemProgAnTr/files/Clang_Architecture_-_ChristopherGuntli.pdf> and this slide: <https://llvm.org/devmtg/2017-06/2-Hal-Finkel-LLVM-2017.pdf>
 
