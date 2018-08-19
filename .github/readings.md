@@ -57,4 +57,5 @@
 - C++ Template Instantiation and Concepts in Clang, impl details checkout this [paper](https://pdfs.semanticscholar.org/aef3/f3c2ada21aea2bf7805e2c221c85ca88d506.pdf)
 - Architecture of Clang, checkout this paper: <http://wiki.ifs.hsr.ch/SemProgAnTr/files/Clang_Architecture_-_ChristopherGuntli.pdf> and this slide: <https://llvm.org/devmtg/2017-06/2-Hal-Finkel-LLVM-2017.pdf>
 - Clang AST tool for cpp, checkout this paper: <https://people.cs.clemson.edu/~malloy/publications/papers/2014/acmse2014.pdf>
+- Speculative Register Promotion Using Advanced Load Address Table (ALAT), checkout this [paper](https://www-users.cs.umn.edu/~jin/cgo03.pdf)
 
