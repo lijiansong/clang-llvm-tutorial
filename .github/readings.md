@@ -44,6 +44,7 @@
 - heap vs stack, <https://www.gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html>
 - MMU, Memory management unit, <https://en.wikipedia.org/wiki/Memory_management_unit>
 - Applying Temporal Blocking with a Directive‐based Approach, <https://llvm-hpc4-workshop.github.io/slides/Endo.pdf>
+- Improving Compiler Optimizations using Program Annotations, <https://sisl.rites.uic.edu/static/pics/thesis-2.pdf>
 - Towards Automatic HBM Allocation using LLVM: A Case Study with Knights Landing, <https://www.computer.org/csdl/proceedings/llvm-hpc/2016/3878/00/07839456.pdf>
 - Locality Aware Memory Assignment and Tiling, [acm](http://delivery.acm.org/10.1145/3200000/3196070/a130-rogers.pdf?ip=202.175.167.104&id=3196070&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E896D0D4959F561C0%2E6D218144511F3437&__acm__=1530546026_dcc8e8cdae435257aae5419cc797b717)
 - Design Pattern, <http://www.vincehuston.org/dp/>
@@ -57,5 +58,10 @@
 - C++ Template Instantiation and Concepts in Clang, impl details checkout this [paper](https://pdfs.semanticscholar.org/aef3/f3c2ada21aea2bf7805e2c221c85ca88d506.pdf)
 - Architecture of Clang, checkout this paper: <http://wiki.ifs.hsr.ch/SemProgAnTr/files/Clang_Architecture_-_ChristopherGuntli.pdf> and this slide: <https://llvm.org/devmtg/2017-06/2-Hal-Finkel-LLVM-2017.pdf>
 - Clang AST tool for cpp, checkout this paper: <https://people.cs.clemson.edu/~malloy/publications/papers/2014/acmse2014.pdf>
+- The Store-Load Address Table and Speculative Register Promotion, <http://aggregate.org/LAR/p235-postiff.pdf>
+- Register Promotion by Sparse Partial Redundancy Elimination of Loads and Stores, <http://theory.stanford.edu/~robert/papers/rvi.ps>
 - Speculative Register Promotion Using Advanced Load Address Table (ALAT), checkout this [paper](https://www-users.cs.umn.edu/~jin/cgo03.pdf)
+- Register Promotion in C Programs, <https://www.researchgate.net/profile/Keith_Cooper2/publication/2804738_Register_Promotion_in_C_Programs/links/568d708e08aead3f42eda21c/Register-Promotion-in-C-Programs.pdf>
+- Controlling Virtual Register Pressure in LLVM Middle-End, checkout this slide: <https://llvm.org/devmtg/2014-10/Slides/Baev-Controlling_VRP.pdf>
+
 
