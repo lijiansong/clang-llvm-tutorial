@@ -63,5 +63,9 @@
 - Speculative Register Promotion Using Advanced Load Address Table (ALAT), checkout this [paper](https://www-users.cs.umn.edu/~jin/cgo03.pdf)
 - Register Promotion in C Programs, <https://www.researchgate.net/profile/Keith_Cooper2/publication/2804738_Register_Promotion_in_C_Programs/links/568d708e08aead3f42eda21c/Register-Promotion-in-C-Programs.pdf>
 - Controlling Virtual Register Pressure in LLVM Middle-End, checkout this slide: <https://llvm.org/devmtg/2014-10/Slides/Baev-Controlling_VRP.pdf>
+- loop fusion and tiling, see this slide: <https://www.cs.indiana.edu/~achauhan/Teaching/B629/2010-Fall/StudentPresns/LoopFusionTiling.pdf>
+- Loop Fusion Amid Complex Control Flow: <https://llvm.org/devmtg/2015-04/slides/LLVMEuro2015LoopFusionAmidComplexControlFlow.pdf>
+- A Proposal for Loop-Transformation Pragmas, <https://arxiv.org/pdf/1805.03374.pdf>
+- Loop transformation in LLVM: <https://users.eecs.northwestern.edu/~simonec/Simone%20Campanoni_files/Teaching/CAT/slides/loop_CATs.pdf>
 
 
