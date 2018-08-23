@@ -22,7 +22,7 @@
   - Look-ahead SLP: auto-vectorization in the presence of commutative operations: <https://www.researchgate.net/publication/323507137_Look-ahead_SLP_auto-vectorization_in_the_presence_of_commutative_operations> and its slide: <http://llvm.org/devmtg/2018-04/slides/Rocha-Look-Ahead%20SLP.pdf>
   - Automatic Parallelization of Programming Languages: Past, Present and Future, <https://www.microsoft.com/en-us/research/wp-content/uploads/2010/05/IWMSE-keynote.pdf>
   - The Tao of Parallelism in Algorithms: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/papers/p12-pingali.pdf>
-  - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/>
+  - polly: a llvm framework for high level loop and data locality optimizations, <http://polly.llvm.org/> and its slide:<https://llvm.org/devmtg/2016-03/Tutorials/applied-polyhedral-compilation.pdf> and thesis: <https://polly.llvm.org/publications/grosser-diploma-thesis.pdf>
   - High Level Transforms for SIMD and Low-Level Computer Vision Algorithms, <https://hal.inria.fr/hal-01094906> and its slide, <http://tesson.julien.free.fr/LaMHA/2015/Lacassagne_LaMHA_2015-11-26.pdf>
 - kernel fusion: <https://www.msra.cn/zh-cn/news/features/kernel-fusion-20170925>
 - Hack the virtual memory: <https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/>
