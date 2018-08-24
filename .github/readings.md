@@ -67,5 +67,6 @@
 - Loop Fusion Amid Complex Control Flow: <https://llvm.org/devmtg/2015-04/slides/LLVMEuro2015LoopFusionAmidComplexControlFlow.pdf>
 - A Proposal for Loop-Transformation Pragmas, <https://arxiv.org/pdf/1805.03374.pdf>
 - Loop transformation in LLVM: <https://users.eecs.northwestern.edu/~simonec/Simone%20Campanoni_files/Teaching/CAT/slides/loop_CATs.pdf>
+- A Novel Instruction Scratchpad Memory Optimization Method based on Concomitance Metric, checkout this slide: <http://www.aspdac.com/aspdac2006/archives/pdf/6B-5.pdf>
 
 
