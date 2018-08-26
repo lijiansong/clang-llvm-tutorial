@@ -28,10 +28,12 @@
 - SIMD Optimizations:
   - [ ] loopmix: <http://www.cse.unsw.edu.au/~corg/loopmix/>
   - [ ] A Compiler Approach for Exploiting Partial SIMD Parallelism, <http://dl.acm.org/citation.cfm?id=2886101>
-  - [ ] Exploiting mixed SIMD parallelism by reducing data reorganization overhead, [CGO16, Best Paper Award](http://delivery.acm.org/10.1145/2860000/2854054/p59-zhou.pdf?ip=202.175.167.102&id=2854054&acc=AUTHOR-IZED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E896D0D4959F561C0%2ED04282ED5F6114AF&__acm__=1532257378_6a3f98f8dc1acc020fa90ff4dafb8f5b)
+  - [x] Exploiting mixed SIMD parallelism by reducing data reorganization overhead, [CGO16, Best Paper Award](http://delivery.acm.org/10.1145/2860000/2854054/p59-zhou.pdf?ip=202.175.167.102&id=2854054&acc=AUTHOR-IZED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E896D0D4959F561C0%2ED04282ED5F6114AF&__acm__=1532257378_6a3f98f8dc1acc020fa90ff4dafb8f5b)
 
 - Kernel Fusion:
-  - [ ] Optimizing CUDA Code By Kernel Fusion---Application on BLAS: <https://arxiv.org/pdf/1305.1183.pdf>
-  - [ ] Scalable Kernel Fusion for Memory-Bound GPU Applications: <https://mt.r-ccs.riken.jp/publications/wahib_SC2014.pdf>
+  - [x] Optimizing CUDA Code By Kernel Fusion---Application on BLAS: <https://arxiv.org/pdf/1305.1183.pdf>
+  - [x] \textcolor{red}{$\sqrt{}$} Scalable Kernel Fusion for Memory-Bound GPU Applications: <https://mt.r-ccs.riken.jp/publications/wahib_SC2014.pdf>
   - [ ] Kernel Fusion: An Effective Method for Better Power Efficiency on Multithreaded GPU: <https://ieeexplore.ieee.org/document/5724850/>
+
 - Provably Correct Peephole Optimizations with Alive, PLDI'15 <https://www.cs.utah.edu/~regehr/papers/pldi15.pdf>
+
