@@ -7,6 +7,7 @@
 - Stanford, ee382a, Vector Processors, <http://www.csit-sun.pub.ro/~cpop/Sisteme_cu_Microprocesoare_Avansate_SMPA/SMPA_curs_master5AAC/SMPA_curs5/EE382A/L14-vector%20processor.pdf>
 - A Study of Productivity and Performance of Modern Vector Processors: <https://sharepoint.ecampus.rwth-aachen.de/units/rz/HPC/public/Shared%20Documents/BA_Springer_ModernVectorProcessors_2012-03.pdf>
 - Mater thesis, Vector Processing as a Soft-CPU Accelerator: <https://www.ece.ubc.ca/~lemieux/publications/yu-masc2008.pdf>
+- Stream processor architecture: <https://pdfs.semanticscholar.org/73fd/6b62330765ed8dac42d02995f248e4703450.pdf>
 - SIMD Optimization Tips:
   - Programming Optimization tips: <http://www.azillionmonkeys.com/qed/optimize.html>
   - X86 asm optimization tips: <http://www.azillionmonkeys.com/qed/asm.html>

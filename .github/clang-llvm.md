@@ -20,6 +20,7 @@
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - Latex gallery, checkout this page: <https://www.overleaf.com/gallery>
+- GitHub page with [middleman](https://medium.com/@ryanswapp/build-a-blog-with-middleman-and-host-on-github-pages-aab82a7fc56e)
 - A short tutorial for latex, see this [page](http://www.mohu.org/info/lshort-cn.pdf) & a tiny book about `awk` checkout this [page](http://awk.readthedocs.io/en/latest/index.html)
 - A nice book about open-source project, <Producing Open Source Software: How to Run a Successful Free Software Project>, checkout this [page](https://producingoss.com)
 - some free tech book website, checkout this [page](http://www.freetechbooks.com/)
