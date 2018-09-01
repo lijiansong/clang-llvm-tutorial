@@ -36,4 +36,5 @@
   - [ ] Kernel Fusion: An Effective Method for Better Power Efficiency on Multithreaded GPU: <https://ieeexplore.ieee.org/document/5724850/>
 
 - Provably Correct Peephole Optimizations with Alive, PLDI'15 <https://www.cs.utah.edu/~regehr/papers/pldi15.pdf>
+- Glow: Graph Lowering Compiler Techniques for Neural Networks, <https://arxiv.org/pdf/1805.00907.pdf>
 

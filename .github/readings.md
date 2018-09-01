@@ -8,6 +8,10 @@
 - A Study of Productivity and Performance of Modern Vector Processors: <https://sharepoint.ecampus.rwth-aachen.de/units/rz/HPC/public/Shared%20Documents/BA_Springer_ModernVectorProcessors_2012-03.pdf>
 - Mater thesis, Vector Processing as a Soft-CPU Accelerator: <https://www.ece.ubc.ca/~lemieux/publications/yu-masc2008.pdf>
 - Stream processor architecture: <https://pdfs.semanticscholar.org/73fd/6b62330765ed8dac42d02995f248e4703450.pdf>
+- Programmable stream processors: <http://cva.stanford.edu/publications/2003/ieeecomputer_stream.pdf>
+- The Imagine Stream Architecture: <http://cva.stanford.edu/projects/imagine/project/im_arch.html>
+- Stream Processors and GPUs: Architectures for High Performance Computing: <http://sokryk.tripod.com/Stream_Processors_and_GPUs_-_Architectures_for_High_Performance_Computing.pdf>
+- Stream processing, <https://en.wikipedia.org/wiki/Stream_processing>
 - SIMD Optimization Tips:
   - Programming Optimization tips: <http://www.azillionmonkeys.com/qed/optimize.html>
   - X86 asm optimization tips: <http://www.azillionmonkeys.com/qed/asm.html>
