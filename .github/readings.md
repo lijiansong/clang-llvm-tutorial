@@ -42,7 +42,6 @@
 - Source Cetus: Source-to-source Compiler source Compiler Infrastructure for Multicores, checkout this slide: <https://engineering.purdue.edu/Cetus/Documentation/tutorials/ppopp09.pdf>
 - Clacc: OpenACC Support for Clang/LLVM, <http://llvm.org/devmtg/2018-04/slides/Vetter-Clacc.pdf>
 - OpenMP in clang, <https://clang-omp.github.io/> and its github repo: <https://github.com/llvm-project/openmp> and tutorial: <https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf>
-- A Journey of OpenCL 2.0 Development in Clang, <https://llvm.org/devmtg/2016-03/Presentations/AnastasiaStulova_OpenCL20_EuroLLVM2016.pdf>
 - Introduction to GCC Inline Asm: <http://asm.sourceforge.net/articles/rmiyagi-inline-asm.txt>
 - A Tiny Guide to GCC Inline Assembly: <http://ericw.ca/notes/a-tiny-guide-to-gcc-inline-assembly.html> and this tutorial: <https://www.cs.virginia.edu/~clc5q/gcc-inline-asm.pdf>
 - asm inline testcases in clang: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/asm.c>
@@ -73,5 +72,9 @@
 - A Proposal for Loop-Transformation Pragmas, <https://arxiv.org/pdf/1805.03374.pdf>
 - Loop transformation in LLVM: <https://users.eecs.northwestern.edu/~simonec/Simone%20Campanoni_files/Teaching/CAT/slides/loop_CATs.pdf>
 - A Novel Instruction Scratchpad Memory Optimization Method based on Concomitance Metric, checkout this slide: <http://www.aspdac.com/aspdac2006/archives/pdf/6B-5.pdf>
+- MiniMat: Matrix Language in OCaml LLVM, <http://www.cs.columbia.edu/~sedwards/classes/2016/4115-summer-cvn/reports/MiniMat.pdf>
+- A Journey of OpenCL 2.0 Development in Clang, <https://llvm.org/devmtg/2016-03/Presentations/AnastasiaStulova_OpenCL20_EuroLLVM2016.pdf>
+- OpenCL with LLVM: <https://llvm.org/devmtg/2009-10/OpenCLWithLLVM.pdf>
+- Open standards from Khronos for heterogeneous computing: Vulkan, SPIR-V & OpenCL SYCL, <http://www.gipsa-lab.grenoble-inp.fr/thematic-school/gpu2015/presentations/GIPSA-Lab-GPU2015-R-Keryell-01.pdf>
 
 
