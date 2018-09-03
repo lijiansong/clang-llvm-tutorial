@@ -152,4 +152,5 @@
 - LLVM poison value. checkout [langref](https://llvm.org/docs/LangRef.html#poisonvalues) and [stackoverflow](https://stackoverflow.com/questions/34190997/the-poison-value-and-undefined-value-in-llvm), and checkout developers' meeting 16's [slide](http://llvm.org/devmtg/2016-11/Slides/Lopes-LongLivePoison.pdf) and Chris Lattner's [blog](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 - LLVM memory SSA: <https://llvm.org/docs/MemorySSA.html>
 - LLVM Memory Immutability and Invalidation of Memory Dependence Analysis: <http://www.nondot.org/sabre/LLVMNotes/MemoryUseMarkers.txt>
+- LLVM Data Structures Overview: <https://llvm.org/devmtg/2014-04/PDFs/LightningTalks/data_structure_llvm.pdf>
 
