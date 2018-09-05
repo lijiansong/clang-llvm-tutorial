@@ -76,7 +76,8 @@
 - A Journey of OpenCL 2.0 Development in Clang, <https://llvm.org/devmtg/2016-03/Presentations/AnastasiaStulova_OpenCL20_EuroLLVM2016.pdf>
 - OpenCL with LLVM: <https://llvm.org/devmtg/2009-10/OpenCLWithLLVM.pdf>
 - Open standards from Khronos for heterogeneous computing: Vulkan, SPIR-V & OpenCL SYCL, <http://www.gipsa-lab.grenoble-inp.fr/thematic-school/gpu2015/presentations/GIPSA-Lab-GPU2015-R-Keryell-01.pdf>
-- International Workshop on Polyhedral Compilation Techniques(IMPACT'15), On Recovering Multi-Dimensional Arrays in Polly: <http://impact.gforge.inria.fr/impact2015/papers/impact2015-grosser.pdf>
+- International Workshop on Polyhedral Compilation Techniques(IMPACT'15), On Recovering Multi-Dimensional Arrays in Polly: <http://impact.gforge.inria.fr/impact2015/papers/impact2015-grosser.pdf> and its slide: <http://impact.gforge.inria.fr/impact2015/papers/impact2015-grosser-slides.pdf>
+- Master Thesis: The Insieme Compiler Frontend: A Clang-based C/C++ Frontend, <http://insieme-compiler.org/pub/master_thesis_hoeckner.pdf>
 
 
 
