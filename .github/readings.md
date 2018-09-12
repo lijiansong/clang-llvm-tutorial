@@ -79,6 +79,7 @@
 - International Workshop on Polyhedral Compilation Techniques(IMPACT'15), On Recovering Multi-Dimensional Arrays in Polly: <http://impact.gforge.inria.fr/impact2015/papers/impact2015-grosser.pdf> and its slide: <http://impact.gforge.inria.fr/impact2015/papers/impact2015-grosser-slides.pdf>
 - Master Thesis: The Insieme Compiler Frontend: A Clang-based C/C++ Frontend, <http://insieme-compiler.org/pub/master_thesis_hoeckner.pdf>
 - Tensor networks and machine learning: <http://kits.ucas.ac.cn/images/articles/2017/Machine_Learning/conference/MilesStoudenmire.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/oseledets_ivan_tmcv2017.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/cichocki_andrzej_tmcv2017.pdf>
+- Accelerator Compiler for the VENICE Vector Processor, [.](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37671.pdf)
 
 
 
