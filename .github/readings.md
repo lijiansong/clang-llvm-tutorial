@@ -78,12 +78,14 @@
 - Open standards from Khronos for heterogeneous computing: Vulkan, SPIR-V & OpenCL SYCL, <http://www.gipsa-lab.grenoble-inp.fr/thematic-school/gpu2015/presentations/GIPSA-Lab-GPU2015-R-Keryell-01.pdf>
 - International Workshop on Polyhedral Compilation Techniques(IMPACT'15), On Recovering Multi-Dimensional Arrays in Polly: <http://impact.gforge.inria.fr/impact2015/papers/impact2015-grosser.pdf> and its slide: <http://impact.gforge.inria.fr/impact2015/papers/impact2015-grosser-slides.pdf>
 - Master Thesis: The Insieme Compiler Frontend: A Clang-based C/C++ Frontend, <http://insieme-compiler.org/pub/master_thesis_hoeckner.pdf>
-- Tensor networks and machine learning: <http://kits.ucas.ac.cn/images/articles/2017/Machine_Learning/conference/MilesStoudenmire.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/oseledets_ivan_tmcv2017.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/cichocki_andrzej_tmcv2017.pdf>
+- Tensor networks and machine learning: <http://kits.ucas.ac.cn/images/articles/2017/Machine_Learning/conference/MilesStoudenmire.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/oseledets_ivan_tmcv2017.pdf>
+- Tensor networks and deep learning, checkout this slide: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/cichocki_andrzej_tmcv2017.pdf>
 - Accelerator Compiler for the VENICE Vector Processor, [.](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37671.pdf)
 - loop idioms: [Mining Semantic Loop Idioms](http://web.cs.ucdavis.edu/~devanbu/tse-coils-paper.pdf)
 - Compiler-assisted Performance Analysis: <https://llvm.org/devmtg/2016-11/Slides/Nemet-Compiler-assistedPerformanceAnalysis.pdf>
 - trace the impl of eigen tensor: <https://github.com/eigenteam/eigen-git-mirror/tree/master/unsupported/Eigen/CXX11/src/Tensor>
   - lazy evaluation & design pattern
+- tensor contraction: <http://my.math.wsu.edu/help/maple/tensorLLcontractI.html> and <https://en.wikipedia.org/wiki/Tensor_contraction> and <https://physics.stackexchange.com/questions/175368/what-does-it-mean-to-contract-a-tensor-identity> and <https://www.maplesoft.com/support/help/maple/view.aspx?path=DifferentialGeometry/Tensor/ContractIndices>
 
 
 
