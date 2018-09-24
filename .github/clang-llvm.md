@@ -3,11 +3,8 @@
 - Filesystem Hierarchy Standard, see this [page](http://www.pathname.com/fhs/pub/fhs-2.3.html)
 - CSc 453: Compilers and Systems Software, see this [PAGE](https://www2.cs.arizona.edu/classes/cs453/fall15/)
 - CMU, CS745, Optimizing Compiler, see this [repo](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s13/public/) and its course [page](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15745-s13/www/)
-- CMU, linker basic concepts, see this [PAGE](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/11-linking.pdf)
 - NYU，Compiler Construction， G22.2130.01，checkout this [PAGE](http://cs.nyu.edu/courses/fall04/G22.2130-001/)
-- Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)
 - Uppsala University Department of Information Technology, [Advanced Compiler Design](http://user.it.uu.se/~kostis/Teaching/KT2-06/)
-- for `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - UCSD, CSE 231: Advanced Compilers, checkout this [PAGE](https://cseweb.ucsd.edu/classes/sp14/cse231-a/index.html)
 - UCSD, CSE 262: System Support for Applications of Parallel Computation, checkout this [PAGE](http://cseweb.ucsd.edu/classes/wi15/cse262-a/lectures.html)
 - CMU, 15-411: Compiler Design, see this [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
@@ -17,8 +14,13 @@
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
 - utexas, CS 380C: Advanced Topics in Compilers: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/>
 - Illinois, cs598, Designing and Building Applications for Extreme Scale Systems: <http://wgropp.cs.illinois.edu/courses/cs598-s16/>
+- CSE599W: Systems for ML[:](http://dlsys.cs.washington.edu/schedule) <http://dlsys.cs.washington.edu/> and git repo: <https://github.com/dlsys-course>
+- For `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
+- Computer science colleges, checkout this page: <http://www.oonumerics.org/>
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
+- CMU, linker basic concepts, see this [PAGE](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/11-linking.pdf)
+- Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)
 - Latex gallery, checkout this page: <https://www.overleaf.com/gallery>
 - GitHub page with [middleman](https://medium.com/@ryanswapp/build-a-blog-with-middleman-and-host-on-github-pages-aab82a7fc56e)
 - A short tutorial for latex, see this [page](http://www.mohu.org/info/lshort-cn.pdf) & a tiny book about `awk` checkout this [page](http://awk.readthedocs.io/en/latest/index.html)
@@ -153,5 +155,10 @@
 - LLVM memory SSA: <https://llvm.org/docs/MemorySSA.html>
 - LLVM Memory Immutability and Invalidation of Memory Dependence Analysis: <http://www.nondot.org/sabre/LLVMNotes/MemoryUseMarkers.txt>
 - LLVM Data Structures Overview: <https://llvm.org/devmtg/2014-04/PDFs/LightningTalks/data_structure_llvm.pdf>
+- cpp lazy evaluation example, checkout[.](https://stackoverflow.com/questions/414243/lazy-evaluation-in-c) [Boost.Proto](http://boost-sandbox.sourceforge.net/libs/proto/doc/html/index.html)
+- cpp Expression template: <https://web.archive.org/web/20090421155750/http://ubiety.uwaterloo.ca/~tveldhui/papers/Expression-Templates/exprtmpl.html>
+- cpp expression template: [wikipedia](https://en.wikipedia.org/wiki/Expression_templates)[.](https://github.com/dmlc/mshadow/tree/master/guide/exp-template)
+- Expression template: <http://www.angelikalanger.com/Articles/Cuj/ExpressionTemplates/ExpressionTemplates.htm>
+- copy elision optimization: <https://en.wikipedia.org/wiki/Copy_elision>
 
 

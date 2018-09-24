@@ -86,6 +86,11 @@
 - trace the impl of eigen tensor: <https://github.com/eigenteam/eigen-git-mirror/tree/master/unsupported/Eigen/CXX11/src/Tensor>
   - lazy evaluation & design pattern
 - tensor contraction: <http://my.math.wsu.edu/help/maple/tensorLLcontractI.html> and <https://en.wikipedia.org/wiki/Tensor_contraction> and <https://physics.stackexchange.com/questions/175368/what-does-it-mean-to-contract-a-tensor-identity> and <https://www.maplesoft.com/support/help/maple/view.aspx?path=DifferentialGeometry/Tensor/ContractIndices>
+- Swift compiler repo: <https://github.com/apple/swift>
+- A Brief Overview of Swift Compiler: <https://medium.com/xcblog/a-brief-overview-of-swift-compiler-7af0bd684718>
+- Technical report, Armadillo: An Open Source C++ Linear Algebra Library[.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.4911&rep=rep1&type=pdf)
+- CodeProject, A generic, reusable, and extendable matrix class[.](https://www.codeproject.com/Articles/3613/A-generic-reusable-and-extendable-matrix-class)
+- Book reading: Intel Threading Building Blocks OutFitting C++ for Multi-Core Processor Parallelism[.](http://index-of.es/Programming/C++/O'Reilly%20Intel%20Threading%20Building%20Blocks%20OutFitting%20C++%20for%20Multi-Core%20Processor%20Parallelism.pdf)
 
 
 
