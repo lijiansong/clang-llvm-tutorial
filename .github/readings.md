@@ -91,6 +91,7 @@
 - Technical report, Armadillo: An Open Source C++ Linear Algebra Library[.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.4911&rep=rep1&type=pdf)
 - CodeProject, A generic, reusable, and extendable matrix class[.](https://www.codeproject.com/Articles/3613/A-generic-reusable-and-extendable-matrix-class)
 - Book reading: Intel Threading Building Blocks OutFitting C++ for Multi-Core Processor Parallelism[.](http://index-of.es/Programming/C++/O'Reilly%20Intel%20Threading%20Building%20Blocks%20OutFitting%20C++%20for%20Multi-Core%20Processor%20Parallelism.pdf)
+- Tensor Come of Age, Why the AI revolution will help HPC: <https://arxiv.org/pdf/1709.09108.pdf>
 
 
 
