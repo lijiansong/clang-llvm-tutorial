@@ -80,7 +80,7 @@
 - Master Thesis: The Insieme Compiler Frontend: A Clang-based C/C++ Frontend, <http://insieme-compiler.org/pub/master_thesis_hoeckner.pdf>
 - Tensor networks and machine learning: <http://kits.ucas.ac.cn/images/articles/2017/Machine_Learning/conference/MilesStoudenmire.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/oseledets_ivan_tmcv2017.pdf>
 - Tensor networks and deep learning, checkout this slide: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/cichocki_andrzej_tmcv2017.pdf>
-- Accelerator Compiler for the VENICE Vector Processor, [.](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37671.pdf)
+- Accelerator Compiler for the VENICE Vector Processor[.](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37671.pdf)
 - loop idioms: [Mining Semantic Loop Idioms](http://web.cs.ucdavis.edu/~devanbu/tse-coils-paper.pdf)
 - Compiler-assisted Performance Analysis: <https://llvm.org/devmtg/2016-11/Slides/Nemet-Compiler-assistedPerformanceAnalysis.pdf>
 - trace the impl of eigen tensor: <https://github.com/eigenteam/eigen-git-mirror/tree/master/unsupported/Eigen/CXX11/src/Tensor>
