@@ -92,6 +92,8 @@
 - CodeProject, A generic, reusable, and extendable matrix class[.](https://www.codeproject.com/Articles/3613/A-generic-reusable-and-extendable-matrix-class)
 - Book reading: Intel Threading Building Blocks OutFitting C++ for Multi-Core Processor Parallelism[.](http://index-of.es/Programming/C++/O'Reilly%20Intel%20Threading%20Building%20Blocks%20OutFitting%20C++%20for%20Multi-Core%20Processor%20Parallelism.pdf)
 - Tensor Come of Age, Why the AI revolution will help HPC: <https://arxiv.org/pdf/1709.09108.pdf>
+- Alignment in C: Seminar “Effiziente Programmierung in C” <https://wr.informatik.uni-hamburg.de/_media/teaching/wintersemester_2013_2014/epc-14-haase-svenhendrik-alignmentinc-paper.pdf>
+- An in-depth look at Google’s first Tensor Processing Unit (TPU)[.](https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu)
 
 
 
