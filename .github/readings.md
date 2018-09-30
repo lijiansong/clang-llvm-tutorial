@@ -94,6 +94,9 @@
 - Tensor Come of Age, Why the AI revolution will help HPC: <https://arxiv.org/pdf/1709.09108.pdf>
 - Alignment in C: Seminar “Effiziente Programmierung in C” <https://wr.informatik.uni-hamburg.de/_media/teaching/wintersemester_2013_2014/epc-14-haase-svenhendrik-alignmentinc-paper.pdf>
 - An in-depth look at Google’s first Tensor Processing Unit (TPU)[.](https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu)
+- Expression Template Vectorization: <https://arxiv.org/pdf/1109.1264.pdf> and <https://uni.edu/ajur/v10n4/Progsch%20et%20al%20pp%201-10.pdf>
+- book reading, Modern C++ Design: Generic Programming and Design Patterns Applied[.](https://www.mimuw.edu.pl/~mrp/cpp/SecretCPP/Addison-Wesley%20-%20Modern%20C++%20Design.%20Generic%20Programming%20and%20Design%20Patterns%20Applied.pdf)
+- CRTP, Curiously Recurring Template Pattern: <https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern>
 
 
 
