@@ -101,6 +101,7 @@
 - Stream Vector Processing Unit: Stream Processing Using SIMD on a General Purpose Processor [.](http://www.owlnet.rice.edu/~elec525/projects/stream_report.pdf)
 - Parallel Expression Template for Large Vectors [.](https://hal.archives-ouvertes.fr/hal-00551682/document)
 - Advanced expression templates programming[.](http://www.sci.utah.edu/~wolters/PaperWolters/2010/HaerdtleinEtAl_CompVisSci_2010.pdf)
+- CUDA 10 Features Revealed: Turing, CUDA Graphs, and More. <https://devblogs.nvidia.com/cuda-10-features-revealed/> and NVIDIA Turing GPU Architecture: <https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf>
 
 
 
