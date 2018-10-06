@@ -102,6 +102,7 @@
 - Parallel Expression Template for Large Vectors [.](https://hal.archives-ouvertes.fr/hal-00551682/document)
 - Advanced expression templates programming[.](http://www.sci.utah.edu/~wolters/PaperWolters/2010/HaerdtleinEtAl_CompVisSci_2010.pdf)
 - CUDA 10 Features Revealed: Turing, CUDA Graphs, and More. <https://devblogs.nvidia.com/cuda-10-features-revealed/> and NVIDIA Turing GPU Architecture: <https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf>
+- Building a cpp reflection system using clang and llvm: <https://github.com/CppCon/CppCon2018/blob/master/Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm__arvid_gerstmann__cppcon_2018.pdf>
 
 
 
