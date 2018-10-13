@@ -104,6 +104,7 @@
 - CUDA 10 Features Revealed: Turing, CUDA Graphs, and More. <https://devblogs.nvidia.com/cuda-10-features-revealed/> and NVIDIA Turing GPU Architecture: <https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf>
 - Building a cpp reflection system using clang and llvm: <https://github.com/CppCon/CppCon2018/blob/master/Presentations/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm/building_a_cpp_reflection_system_in_one_weekend_using_clang_and_llvm__arvid_gerstmann__cppcon_2018.pdf>
 - gcc vector_size attr: <https://gcc.gnu.org/onlinedocs/gcc/Vector-Extensions.html>
+- TABLA: A Unified Template-based Framework for Accelerating Statistical Machine Learning[.](https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf)
 
 
 
