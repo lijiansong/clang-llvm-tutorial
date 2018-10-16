@@ -15,6 +15,9 @@
 - utexas, CS 380C: Advanced Topics in Compilers: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/>
 - Illinois, cs598, Designing and Building Applications for Extreme Scale Systems: <http://wgropp.cs.illinois.edu/courses/cs598-s16/>
 - CSE599W: Systems for ML[:](http://dlsys.cs.washington.edu/schedule) <http://dlsys.cs.washington.edu/> and git repo: <https://github.com/dlsys-course>
+- Purdue Uni, CS590, Metaprogramming and Program Generation[.](http://tiarkrompf.github.io/cs590/2014/)
+- Purdue Uni, CS352, Compilers: Principles and Practice[.](http://tiarkrompf.github.io/cs352/)
+- Purdue Uni, CS502, Compiling And Programming Systems[.](https://tiarkrompf.github.io/cs502/)
 - For `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - Computer science colleges, checkout this page: <http://www.oonumerics.org/>

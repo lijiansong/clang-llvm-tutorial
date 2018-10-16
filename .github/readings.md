@@ -108,6 +108,8 @@
 - PLDI'18, Polyhedral Auto-transformation with No Integer Linear Programming[.](https://pldi18.sigplan.org/event/pldi-2018-papers-polyhedral-auto-transformation-with-no-integer-linear-programming)
 - PLDI'18, Spatial: A Language and Compiler for Application Accelerators[.](http://csl.stanford.edu/~christos/publications/2018.spatial.pldi.pdf)
 - PLDI'18, SWOOP: Software-Hardware Co-design for Non-speculative, Execute-Ahead, In-Order Cores[.](http://www.sjalander.com/research/pdf/sjalander-pldi2018.pdf)
+- Tensor software: <https://en.wikipedia.org/wiki/Tensor_software>
+- An Incremental Approach to Compiler Construction[.](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 
 
 
