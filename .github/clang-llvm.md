@@ -94,6 +94,7 @@
 - Haskell, interesting programming language: <https://www.haskell.org> and nice book: <http://readfree.me/book/25803388/>
 - Cpp lvalue & rvalue, checkout this page: <https://accu.org/index.php/journals/227>
 - Lazy evaluation: <https://en.wikipedia.org/wiki/Lazy_evaluation>
+- cpp meta-programming handout: <http://www.di.unipi.it/~nids/teaching/files/TMP_handout.pdf>
 - Clang toolchain: <https://clang.llvm.org/docs/Toolchain.html>
 - Type Based Alias Analysis, see this page: <http://the-ravi-programming-language.readthedocs.io/en/latest/llvm-tbaa.html> and this page: <https://llvm.org/docs/AliasAnalysis.html> & <https://llvm.org/docs/LangRef.html#tbaa-metadata>
 - Intel MPX, see: Intel MPX Explained <https://intel-mpx.github.io/> & <https://en.wikipedia.org/wiki/Intel_MPX> 
@@ -164,5 +165,6 @@
 - Expression template: <http://www.angelikalanger.com/Articles/Cuj/ExpressionTemplates/ExpressionTemplates.htm>
 - copy elision optimization: <https://en.wikipedia.org/wiki/Copy_elision>
 - jump threading, checkout wiki: <https://en.wikipedia.org/wiki/Jump_threading> and this blog: <http://beza1e1.tuxen.de/articles/jump_threading.html> and Generalized Jump Threading in [libFIRM](https://pp.ipd.kit.edu/uploads/publikationen/priesner17masterarbeit.pdf) and opt patches in llvm: <https://github.com/llvm-mirror/llvm/commit/a98fd55665d422389d69d94efe631fac93d11173> and this patch: <https://reviews.llvm.org/D22779>
+- <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
 
 
