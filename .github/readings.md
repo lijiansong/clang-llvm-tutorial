@@ -110,6 +110,7 @@
 - PLDI'18, SWOOP: Software-Hardware Co-design for Non-speculative, Execute-Ahead, In-Order Cores[.](http://www.sjalander.com/research/pdf/sjalander-pldi2018.pdf)
 - Tensor software: <https://en.wikipedia.org/wiki/Tensor_software>
 - An Incremental Approach to Compiler Construction[.](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- Implementing std::tuple From The Ground Up – Part 1: Introduction and Basic Structure[.](http://blogs.microsoft.co.il/sasha/2015/01/12/implementing-tuple-part-1/)
 
 
 
