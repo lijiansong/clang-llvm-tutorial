@@ -160,11 +160,13 @@
 - LLVM Memory Immutability and Invalidation of Memory Dependence Analysis: <http://www.nondot.org/sabre/LLVMNotes/MemoryUseMarkers.txt>
 - LLVM Data Structures Overview: <https://llvm.org/devmtg/2014-04/PDFs/LightningTalks/data_structure_llvm.pdf>
 - cpp lazy evaluation example, checkout[.](https://stackoverflow.com/questions/414243/lazy-evaluation-in-c) [Boost.Proto](http://boost-sandbox.sourceforge.net/libs/proto/doc/html/index.html)
+- template and typename keyword: <https://stackoverflow.com/questions/610245/where-and-why-do-i-have-to-put-the-template-and-typename-keywords>
 - cpp Expression template: <https://web.archive.org/web/20090421155750/http://ubiety.uwaterloo.ca/~tveldhui/papers/Expression-Templates/exprtmpl.html>
 - cpp expression template: [wikipedia](https://en.wikipedia.org/wiki/Expression_templates)[.](https://github.com/dmlc/mshadow/tree/master/guide/exp-template)
 - Expression template: <http://www.angelikalanger.com/Articles/Cuj/ExpressionTemplates/ExpressionTemplates.htm>
 - copy elision optimization: <https://en.wikipedia.org/wiki/Copy_elision>
 - jump threading, checkout wiki: <https://en.wikipedia.org/wiki/Jump_threading> and this blog: <http://beza1e1.tuxen.de/articles/jump_threading.html> and Generalized Jump Threading in [libFIRM](https://pp.ipd.kit.edu/uploads/publikationen/priesner17masterarbeit.pdf) and opt patches in llvm: <https://github.com/llvm-mirror/llvm/commit/a98fd55665d422389d69d94efe631fac93d11173> and this patch: <https://reviews.llvm.org/D22779>
-- <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
+- Dump cpp object memory layout with clang: <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
+- C++ variadic templates and pattern matching in functional languages: What Does Haskell Have to Do with C++[?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/)
 
 

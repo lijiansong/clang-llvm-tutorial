@@ -98,6 +98,7 @@
 - book reading, Modern C++ Design: Generic Programming and Design Patterns Applied[.](https://www.mimuw.edu.pl/~mrp/cpp/SecretCPP/Addison-Wesley%20-%20Modern%20C++%20Design.%20Generic%20Programming%20and%20Design%20Patterns%20Applied.pdf)
 - CRTP, Curiously Recurring Template Pattern: <https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern> and <https://3aec1b23-a-eadc3f87-s-sites.googlegroups.com/a/gertrudandcope.com/info/Publications/InheritedTemplate.pdf?attachauth=ANoY7cr9fcwxMyKM5ODngV9meEW6xkI1EXOuLnchY9hVjWJyyZYsX8y1rM7BJ7i3_COFNGHlkANyXma4OoWjF8cqVOJHWcqReNPCESEO5HQSmqPZkeSJr_Im3aWl516M-mlet2R9NdKvslJxpWIbI9myoArJqelMQcQb16ZZuaUk9RbsPH4Rg8LjMD2eC6TZKGWSiPPTeOF4uKrQsiCJutEArefOETxGgYFFy0HzDAXY8M_MUpQ1UzA%3D&attredirects=0>
 - The Curiously Recurring Template Pattern in C++[.](https://eli.thegreenplace.net/2011/05/17/the-curiously-recurring-template-pattern-in-c)
+- Loop Unrolling over Template Arguments: <https://www.codeproject.com/articles/75423/loop-unrolling-over-template-arguments>
 - Stream Vector Processing Unit: Stream Processing Using SIMD on a General Purpose Processor [.](http://www.owlnet.rice.edu/~elec525/projects/stream_report.pdf)
 - Parallel Expression Template for Large Vectors [.](https://hal.archives-ouvertes.fr/hal-00551682/document)
 - Advanced expression templates programming[.](http://www.sci.utah.edu/~wolters/PaperWolters/2010/HaerdtleinEtAl_CompVisSci_2010.pdf)
@@ -110,7 +111,7 @@
 - PLDI'18, SWOOP: Software-Hardware Co-design for Non-speculative, Execute-Ahead, In-Order Cores[.](http://www.sjalander.com/research/pdf/sjalander-pldi2018.pdf)
 - Tensor software: <https://en.wikipedia.org/wiki/Tensor_software>
 - An Incremental Approach to Compiler Construction[.](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-- Implementing std::tuple From The Ground Up – Part 1: Introduction and Basic Structure[.](http://blogs.microsoft.co.il/sasha/2015/01/12/implementing-tuple-part-1/)
+- Optimizing Parallel Reduction in CUDA: <https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf>
 
 
 
