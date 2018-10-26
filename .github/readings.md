@@ -113,6 +113,8 @@
 - An Incremental Approach to Compiler Construction[.](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - Optimizing Parallel Reduction in CUDA: <https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf>
 - JIT native code generation for TensorFlow computation graphs using Python and LLVM: <http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/>
+- Optimizing Large Matrix-Vector Multiplications[.](https://simulationcorner.net/index.php?page=fastmatrixvector)
+- GPGPU benchmark shoc: SpMV example, <https://github.com/vetter/shoc/tree/master/src/cuda/level1/spmv> and its wiki page: <https://github.com/vetter/shoc/wiki>
 
 
 

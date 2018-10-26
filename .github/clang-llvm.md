@@ -153,6 +153,7 @@
 - constant folding: <http://www.duskborn.com/optimizing-llvm-ir-from-the-c-api/> and llvm official example: <https://llvm.org/docs/tutorial/OCamlLangImpl4.html> and slide: <http://www.cse.chalmers.se/edu/year/2014/course/TDA282/lect08-2x2.pdf>
 - Super-optimizing LLVM IR, Analysing expressions, for modules, e.g.: Constant folding, Reduce to sub-expression, Unused variables and Rule reduction. <http://llvm.org/devmtg/2011-11/Sands_Super-optimizingLLVMIR.pdf>
 - llvm disable dag combiner in O0, <http://lists.llvm.org/pipermail/llvm-dev/2016-May/099688.html>
+- Parse C program with clang[.](http://amnoid.de/tmp/clangtut/tut.html)
 - clang & llvm inline asm, checkout this page: <https://llvm.org/docs/LangRef.html#inline-assembler-expressions>
 - gcc builtin functions, e.g.: __builtin_alloca, __builtin_alloca_with_align, <https://gcc.gnu.org/onlinedocs/gcc-7.2.0/gcc/Other-Builtins.html> and dynamic stack allocation support.
 - LLVM poison value. checkout [langref](https://llvm.org/docs/LangRef.html#poisonvalues) and [stackoverflow](https://stackoverflow.com/questions/34190997/the-poison-value-and-undefined-value-in-llvm), and checkout developers' meeting 16's [slide](http://llvm.org/devmtg/2016-11/Slides/Lopes-LongLivePoison.pdf) and Chris Lattner's [blog](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
@@ -168,5 +169,6 @@
 - jump threading, checkout wiki: <https://en.wikipedia.org/wiki/Jump_threading> and this blog: <http://beza1e1.tuxen.de/articles/jump_threading.html> and Generalized Jump Threading in [libFIRM](https://pp.ipd.kit.edu/uploads/publikationen/priesner17masterarbeit.pdf) and opt patches in llvm: <https://github.com/llvm-mirror/llvm/commit/a98fd55665d422389d69d94efe631fac93d11173> and this patch: <https://reviews.llvm.org/D22779>
 - Dump cpp object memory layout with clang: <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
 - C++ variadic templates and pattern matching in functional languages: What Does Haskell Have to Do with C++[?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/)
+- Tail calls and their elimination : <https://lamp.epfl.ch//files/content/sites/lamp/files/teaching/advanced-compiler-construction/spring-2016/acc16_10_tail-calls.pdf>
 
 
