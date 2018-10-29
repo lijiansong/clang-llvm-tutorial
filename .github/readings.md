@@ -115,6 +115,8 @@
 - JIT native code generation for TensorFlow computation graphs using Python and LLVM: <http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/>
 - Optimizing Large Matrix-Vector Multiplications[.](https://simulationcorner.net/index.php?page=fastmatrixvector)
 - GPGPU benchmark shoc: SpMV example, <https://github.com/vetter/shoc/tree/master/src/cuda/level1/spmv> and its wiki page: <https://github.com/vetter/shoc/wiki>
+- Matrix market text file format: <https://math.nist.gov/MatrixMarket/formats.html> and ANSI C API for mm I/O: <https://math.nist.gov/MatrixMarket/mmio-c.html>
+- Roofline Model, wiki page: <https://en.wikipedia.org/wiki/Roofline_model>
 
 
 
