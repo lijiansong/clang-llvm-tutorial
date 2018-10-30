@@ -117,6 +117,8 @@
 - GPGPU benchmark shoc: SpMV example, <https://github.com/vetter/shoc/tree/master/src/cuda/level1/spmv> and its wiki page: <https://github.com/vetter/shoc/wiki>
 - Matrix market text file format: <https://math.nist.gov/MatrixMarket/formats.html> and ANSI C API for mm I/O: <https://math.nist.gov/MatrixMarket/mmio-c.html>
 - Roofline Model, wiki page: <https://en.wikipedia.org/wiki/Roofline_model>
+- DeepSmith, Compiler Fuzzing through Deep Learning: <http://homepages.inf.ed.ac.uk/hleather/publications/2018_deepfuzzing_issta.pdf>
+- slide, Hardware acceleration for machine learning and big data analytics[.](https://www.ee.columbia.edu/~cylin/course/bigdata/EECS6895-AdvancedBigDataAnalytics-Lecture10.pdf)
 
 
 

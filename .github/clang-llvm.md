@@ -18,6 +18,7 @@
 - Purdue Uni, CS590, Metaprogramming and Program Generation[.](http://tiarkrompf.github.io/cs590/2014/)
 - Purdue Uni, CS352, Compilers: Principles and Practice[.](http://tiarkrompf.github.io/cs352/)
 - Purdue Uni, CS502, Compiling And Programming Systems[.](https://tiarkrompf.github.io/cs502/)
+- U.C. Berkeley CS267, Applications of Parallel Computers[.](https://people.eecs.berkeley.edu/~demmel/cs267_Spr12/)
 - For `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - Computer science colleges, checkout this page: <http://www.oonumerics.org/>
@@ -170,5 +171,6 @@
 - Dump cpp object memory layout with clang: <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
 - C++ variadic templates and pattern matching in functional languages: What Does Haskell Have to Do with C++[?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/)
 - Tail calls and their elimination : <https://lamp.epfl.ch//files/content/sites/lamp/files/teaching/advanced-compiler-construction/spring-2016/acc16_10_tail-calls.pdf>
+
 
 
