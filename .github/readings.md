@@ -119,6 +119,7 @@
 - Roofline Model, wiki page: <https://en.wikipedia.org/wiki/Roofline_model>
 - DeepSmith, Compiler Fuzzing through Deep Learning: <http://homepages.inf.ed.ac.uk/hleather/publications/2018_deepfuzzing_issta.pdf>
 - slide, Hardware acceleration for machine learning and big data analytics[.](https://www.ee.columbia.edu/~cylin/course/bigdata/EECS6895-AdvancedBigDataAnalytics-Lecture10.pdf)
+- Compiler Optimization, loop unswitching: <https://en.wikipedia.org/wiki/Loop_unswitching>
 
 
 
