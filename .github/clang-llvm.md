@@ -33,6 +33,7 @@
 - A nice website about open-source, checkout this [page](http://www.open-open.com/)
 - For gnu project website, you can checkout this [page](https://sourceware.org/), e.g., gnu `as` assembler in the binutils, see this [page](https://sourceware.org/binutils/docs-2.29/as/index.html)
 - For github upload size limit soulution, you can checkout this [page](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
+- 2017, llvm dev-mt, Modern LLVM IR: <https://llvm.org/devmtg/2017-06/1-Davis-Chisnall-LLVM-2017.pdf>
 - Compiler profiling, basics see [here](http://www.embecosm.com/appnotes/ean6/html/ch07s03s03.html) and LLVM profiling see [here](http://llvm.org/pubs/2010-04-NeustifterProfiling.pdf)
 - Linux `profiling and optimization` see Princeton's [slides](https://www.cs.princeton.edu/picasso/mats/mats_S07/Lucifredi_Lecture_Feb07.pdf)
 - LLVM metadata expansion IR, chkectout LLVM blog page, [Extensible Metadata in LLVM IR](http://blog.llvm.org/2010/04/extensible-metadata-in-llvm-ir.html) and LLVM official langref [page](http://llvm.org/docs/LangRef.html), github page [TypeMetadata.rst](https://github.com/llvm-mirror/llvm/blob/master/docs/TypeMetadata.rst), csdn [blog](http://blog.csdn.net/dreammeard/article/details/19493599)
@@ -158,7 +159,7 @@
 - clang & llvm inline asm, checkout this page: <https://llvm.org/docs/LangRef.html#inline-assembler-expressions>
 - gcc builtin functions, e.g.: __builtin_alloca, __builtin_alloca_with_align, <https://gcc.gnu.org/onlinedocs/gcc-7.2.0/gcc/Other-Builtins.html> and dynamic stack allocation support.
 - LLVM poison value. checkout [langref](https://llvm.org/docs/LangRef.html#poisonvalues) and [stackoverflow](https://stackoverflow.com/questions/34190997/the-poison-value-and-undefined-value-in-llvm), and checkout developers' meeting 16's [slide](http://llvm.org/devmtg/2016-11/Slides/Lopes-LongLivePoison.pdf) and Chris Lattner's [blog](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
-- LLVM memory SSA: <https://llvm.org/docs/MemorySSA.html>
+- LLVM memory SSA: <https://llvm.org/docs/MemorySSA.html> and paper: <https://www.airs.com/dnovillo/Papers/mem-ssa.pdf>
 - LLVM Memory Immutability and Invalidation of Memory Dependence Analysis: <http://www.nondot.org/sabre/LLVMNotes/MemoryUseMarkers.txt>
 - LLVM Data Structures Overview: <https://llvm.org/devmtg/2014-04/PDFs/LightningTalks/data_structure_llvm.pdf>
 - cpp lazy evaluation example, checkout[.](https://stackoverflow.com/questions/414243/lazy-evaluation-in-c) [Boost.Proto](http://boost-sandbox.sourceforge.net/libs/proto/doc/html/index.html)
