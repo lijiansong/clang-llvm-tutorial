@@ -16,6 +16,7 @@
   - [ ] Paper Reading, Stack Data Management for Limited Local Memory (LLM) Multi-core Processors: <http://aviral.lab.asu.edu/temp/publications/papers/spm-stack2.pdf>
   - [ ] Paper Reading, Compiler-directed scratch pad memory hierarchy design and management, <https://www.cs.york.ac.uk/rts/docs/SIGDA-Compendium-1994-2004/papers/2002/dac02/pdffiles/40_3.pdf> 
   - [ ] Paper Reading, Scratchpad Memory Architectures and Allocation Algorithms for Hard Real-Time Multicore Processors, <http://jcse.kiise.org/files/V9N2-02.pdf>
+  - Software Techniques for Scratchpad Memory Management(.)[http://delivery.acm.org/10.1145/2820000/2818966/p98-sebexen.pdf?ip=223.71.153.183&id=2818966&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2E583BB86AD7417D9A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1541521599_ee5e7447180b5f1571a9bee9eccecca4]
 
 - READING: Memory Management of Manycore Systems, <http://www.diva-portal.org/smash/get/diva2:578377/fulltext01.pdf>
 - A functional language and compiler for the Arduino micro-controller: <https://pdfs.semanticscholar.org/24d3/c5232ccb08269d3f0ab3410cd8967f20c457.pdf>
