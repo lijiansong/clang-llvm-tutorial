@@ -38,4 +38,5 @@
 
 - Provably Correct Peephole Optimizations with Alive, PLDI'15 <https://www.cs.utah.edu/~regehr/papers/pldi15.pdf>
 - Glow: Graph Lowering Compiler Techniques for Neural Networks, <https://arxiv.org/pdf/1805.00907.pdf>
+- Deep learning workload, cuDNN: Efficient Primitives for Deep Learning[.](https://arxiv.org/pdf/1410.0759.pdf)
 

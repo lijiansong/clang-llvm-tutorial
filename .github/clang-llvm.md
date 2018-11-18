@@ -35,6 +35,7 @@
 - For github upload size limit soulution, you can checkout this [page](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
 - 2017, llvm dev-mt, Modern LLVM IR: <https://llvm.org/devmtg/2017-06/1-Davis-Chisnall-LLVM-2017.pdf>
 - Compiler profiling, basics see [here](http://www.embecosm.com/appnotes/ean6/html/ch07s03s03.html) and LLVM profiling see [here](http://llvm.org/pubs/2010-04-NeustifterProfiling.pdf)
+- clang DSL:<http://cs.swan.ac.uk/~csdavec/FOSDEM12/DSLsWithLLVM.pdf> [.](https://github.com/MeteoSwiss-APN/gtclang)
 - Linux `profiling and optimization` see Princeton's [slides](https://www.cs.princeton.edu/picasso/mats/mats_S07/Lucifredi_Lecture_Feb07.pdf)
 - LLVM metadata expansion IR, chkectout LLVM blog page, [Extensible Metadata in LLVM IR](http://blog.llvm.org/2010/04/extensible-metadata-in-llvm-ir.html) and LLVM official langref [page](http://llvm.org/docs/LangRef.html), github page [TypeMetadata.rst](https://github.com/llvm-mirror/llvm/blob/master/docs/TypeMetadata.rst), csdn [blog](http://blog.csdn.net/dreammeard/article/details/19493599)
 - LLVM User/Use/Value, checkout here: <https://stackoverflow.com/questions/35370195/llvm-difference-between-uses-and-user-in-instruction-or-value-classes> and official doxygen docs: <http://llvm.org/doxygen/classllvm_1_1Value.html> and <http://llvm.org/docs/ProgrammersManual.html#iterating-over-def-use-use-def-chains>
