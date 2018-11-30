@@ -14,7 +14,7 @@
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
 - utexas, CS 380C: Advanced Topics in Compilers: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/>
 - Illinois, cs598, Designing and Building Applications for Extreme Scale Systems: <http://wgropp.cs.illinois.edu/courses/cs598-s16/>
-- CSE599W: Systems for ML[:](http://dlsys.cs.washington.edu/schedule) <http://dlsys.cs.washington.edu/> and git repo: <https://github.com/dlsys-course>
+- CSE599W: Systems for ML[:](http://dlsys.cs.washington.edu/schedule) <http://dlsys.cs.washington.edu/> and git repo: <https://github.com/dlsys-course> and PR for amdgpu backend [#402](https://github.com/dmlc/tvm/pull/402)
 - Purdue Uni, CS590, Metaprogramming and Program Generation[.](http://tiarkrompf.github.io/cs590/2014/)
 - Purdue Uni, CS352, Compilers: Principles and Practice[.](http://tiarkrompf.github.io/cs352/)
 - Purdue Uni, CS502, Compiling And Programming Systems[.](https://tiarkrompf.github.io/cs502/)
