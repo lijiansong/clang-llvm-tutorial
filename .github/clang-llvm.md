@@ -174,6 +174,8 @@
 - Dump cpp object memory layout with clang: <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
 - C++ variadic templates and pattern matching in functional languages: What Does Haskell Have to Do with C++[?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/)
 - Tail calls and their elimination : <https://lamp.epfl.ch//files/content/sites/lamp/files/teaching/advanced-compiler-construction/spring-2016/acc16_10_tail-calls.pdf>
+- Dwarf Format: <http://www.dwarfstd.org/doc/Debugging%20using%20DWARF.pdf>
+- Philosophy behind LLVM debugging information <http://llvm.org/docs/SourceLevelDebugging.html#philosophy-behind-llvm-debugging-information>
 
 
 
