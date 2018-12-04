@@ -161,6 +161,7 @@
 - clang & llvm inline asm, checkout this page: <https://llvm.org/docs/LangRef.html#inline-assembler-expressions>
 - gcc builtin functions, e.g.: __builtin_alloca, __builtin_alloca_with_align, <https://gcc.gnu.org/onlinedocs/gcc-7.2.0/gcc/Other-Builtins.html> and dynamic stack allocation support.
 - LLVM poison value. checkout [langref](https://llvm.org/docs/LangRef.html#poisonvalues) and [stackoverflow](https://stackoverflow.com/questions/34190997/the-poison-value-and-undefined-value-in-llvm), and checkout developers' meeting 16's [slide](http://llvm.org/devmtg/2016-11/Slides/Lopes-LongLivePoison.pdf) and Chris Lattner's [blog](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
+- TVM ROCm support, checkout this issue list: <https://github.com/dmlc/tvm/issues?page=3&q=rocm&utf8=✓>
 - LLVM memory SSA: <https://llvm.org/docs/MemorySSA.html> and paper: <https://www.airs.com/dnovillo/Papers/mem-ssa.pdf>
 - LLVM Memory Immutability and Invalidation of Memory Dependence Analysis: <http://www.nondot.org/sabre/LLVMNotes/MemoryUseMarkers.txt>
 - LLVM Data Structures Overview: <https://llvm.org/devmtg/2014-04/PDFs/LightningTalks/data_structure_llvm.pdf>
