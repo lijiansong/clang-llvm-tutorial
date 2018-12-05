@@ -125,6 +125,7 @@
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic[.](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 - How to align a pointer in C, see stack overflow[.](https://stackoverflow.com/questions/4840410/how-to-align-a-pointer-in-c)
 - Distributed Deep learning training: <https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/>
+- LINM (Loop Invariant Node Motion) optimization pass in Graph Optimization for Tensorflow, commited by Alibaba PAI-Blade team, checkout here: <https://github.com/tensorflow/tensorflow/pull/16306> and Bringing TVM into TensorFlow for Optimizing Neural Machine Translation on GPU, checkout TVM blog: <https://tvm.ai/2018/03/23/nmt-transformer-optimize.html>
 - Automatic Optimization of the Computation Graph in the Nengo Neural Network Simulator[.](https://www.frontiersin.org/articles/10.3389/fninf.2017.00033/full)
 - Topological Sort Algorithm: <https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect20.pdf>
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
