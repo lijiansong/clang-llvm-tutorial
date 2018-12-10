@@ -10,6 +10,7 @@
 - CMU, 15-411: Compiler Design, see this [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
 - Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
+- WISC CS704: Principles of Programming Languages, class notes: <http://pages.cs.wisc.edu/~horwitz/CS704-NOTES/> and its git repo: <https://github.com/barghouthi/cs704>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
 - utexas, CS 380C: Advanced Topics in Compilers: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/>

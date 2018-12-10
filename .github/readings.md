@@ -130,6 +130,7 @@
 - Automatic Optimization of the Computation Graph in the Nengo Neural Network Simulator[.](https://www.frontiersin.org/articles/10.3389/fninf.2017.00033/full)
 - Topological Sort Algorithm: <https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect20.pdf>
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
+- Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
 
 
 
