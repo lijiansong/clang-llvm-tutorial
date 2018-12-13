@@ -23,6 +23,7 @@
 - For `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - Computer science colleges, checkout this page: <http://www.oonumerics.org/>
+- Liveness analysis, checkout this slide: <https://www.cs.colostate.edu/~cs453/yr2014/Slides/27-DFintro.ppt.pdf>
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - CMU, linker basic concepts, see this [PAGE](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/11-linking.pdf)
 - Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)
@@ -54,6 +55,7 @@
 - dynamic generate or insert `globalvar` or `VarDecl` for current module, checkout these stackoverflow pages: [1](https://stackoverflow.com/questions/23328832/llvm-initialize-an-integer-global-variable-with-value-0) & [2](https://stackoverflow.com/questions/23330018/llvm-global-integer-array-zeroinitializer) 
 - Clang QualType => Type, see [here](https://reviews.llvm.org/D35180)
 - llvm back-end Instruction Selection DAG, see [here](http://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf)
+- LLVM target independent code generator and its design principles, checkout official page: <https://www.llvm.org/docs/CodeGenerator.html>
 - Instruction selection details: <https://github.com/draperlaboratory/fracture/wiki/How-TableGen's-DAGISel-Backend-Works>
 - llvm debug isel: <http://lists.llvm.org/pipermail/llvm-dev/2017-August/116501.html> and <http://llvm.org/docs/CodeGenerator.html#instruction-selection-section>
 - llvm backend slide, clear pictures: <https://llvm.org/devmtg/2008-08/Gohman_CodeGenAndSelectionDAGs.pdf>
