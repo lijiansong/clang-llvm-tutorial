@@ -7,7 +7,7 @@
 - Uppsala University Department of Information Technology, [Advanced Compiler Design](http://user.it.uu.se/~kostis/Teaching/KT2-06/)
 - UCSD, CSE 231: Advanced Compilers, checkout this [PAGE](https://cseweb.ucsd.edu/classes/sp14/cse231-a/index.html)
 - UCSD, CSE 262: System Support for Applications of Parallel Computation, checkout this [PAGE](http://cseweb.ucsd.edu/classes/wi15/cse262-a/lectures.html)
-- CMU, 15-411: Compiler Design, see this [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
+- [x] CMU, 15-411: Compiler Design, nice compiler design course, see its course [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
 - Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
 - WISC CS704: Principles of Programming Languages, class notes: <http://pages.cs.wisc.edu/~horwitz/CS704-NOTES/> and its git repo: <https://github.com/barghouthi/cs704>
@@ -149,7 +149,10 @@
 - How to Write Fast Numerical Code 263-2300 (ETH, CS): <https://www.inf.ethz.ch/personal/markusp/teaching/263-2300-ETH-spring15/course.html> and [slides](https://www.inf.ethz.ch/personal/markusp/teaching/263-2300-ETH-spring11/slides/)
 - survey on register allocation: <http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf> and how to write an llvm resiter allocator: <https://github.com/nael8r/How-To-Write-An-LLVM-Register-Allocator/blob/master/HowToWriteAnLLVMRegisterAllocator.rst> and llvm devmt: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and graph coloring register allocator example: <https://github.com/joaotavio/llvm-register-allocator>
 - Google group on register allocation in llvm: <https://groups.google.com/forum/#!topic/llvm-dev/R3VOsHAg9qw>
-- LLVM Linear Scan Register allocator, checkout its developer meeting slide: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and CGO'10 paper: <http://www.christianwimmer.at/Publications/Wimmer10a/Wimmer10a.pdf>
+- LLVM Linear Scan Register allocator, checkout its developer meeting slide: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and CGO'10 paper: <http://www.christianwimmer.at/Publications/Wimmer10a/Wimmer10a.pdf> and paper: <https://www2.seas.gwu.edu/~hchoi/teaching/cs160d/linearscan.pdf>
+- Linear Scan Register Allocation for the Java HotSpot Client Compiler, master thesis: <http://www.ssw.uni-linz.ac.at/Research/Papers/Wimmer04Master/Wimmer04Master.pdf>
+- iitm CS3300 Compiler Design, Liveness analysis and Register allocation algorithms(graph coloring, linear scan...)[.](https://www.cse.iitm.ac.in/~krishna/cs3300/pm-lecture2.pdf)
+- CMU, liveness analysis lecture notes: <https://www.cs.cmu.edu/~fp/courses/15411-f14/lectures/04-liveness.pdf>
 - C++ class member initialize list, checkout these pages: <http://www.learncpp.com/cpp-tutorial/8-5a-constructor-member-initializer-lists/> and <http://en.cppreference.com/w/cpp/language/initializer_list> and <https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr388.htm>
 - cpp11 braced-init-list: <http://devdocs.io/cpp/language/list_initialization> and its compiler detail: <http://www.informit.com/articles/article.aspx?p=1852519> and Stroustrup's report: <http://www.stroustrup.com/N1919-initializer_lists.pdf>
 - llvm array optimization: <http://www.cse.iitd.ernet.in/~dahiya/CompilerOptimization_by_ArrayInterleaving.pdf> and this slide: <https://llvm.org/devmtg/2014-10/Slides/Prashanth-DLO.pdf>
@@ -182,6 +185,7 @@
 - Tail calls and their elimination : <https://lamp.epfl.ch//files/content/sites/lamp/files/teaching/advanced-compiler-construction/spring-2016/acc16_10_tail-calls.pdf>
 - Dwarf Format: <http://www.dwarfstd.org/doc/Debugging%20using%20DWARF.pdf>
 - Philosophy behind LLVM debugging information <http://llvm.org/docs/SourceLevelDebugging.html#philosophy-behind-llvm-debugging-information>
+- A Detailed Analysis of the LLVM's Register Allocators, checkout this paper in [SCCC'12](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators)
 
 
 

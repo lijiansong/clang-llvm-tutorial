@@ -131,6 +131,7 @@
 - Topological Sort Algorithm: <https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect20.pdf>
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
 - Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
+- Notes on Programming Standard ML of New Jersey: <http://www.cs.cornell.edu/riccardo/prog-smlnj/notes-011001.pdf> and basic polymorphic typechecking: <https://www.classes.cs.uchicago.edu/archive/2016/fall/22600-1/docs/polymorphism.pdf>
 
 
 
