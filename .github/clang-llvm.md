@@ -44,6 +44,7 @@
 - LLVM Programmer's Manual: <http://web.cs.ucla.edu/classes/spring08/cs259/llvm-2.2/docs/ProgrammersManual.html>
 - Docs of LLVM V2.2 maybe more informative: <http://web.cs.ucla.edu/classes/spring08/cs259/llvm-2.2/docs/>
 - LLVM builtin passes: <http://llvm.org/docs/Passes.html> and GEP instruction: <http://llvm.org/docs/GetElementPtr.html> and its commandline lib: <http://llvm.org/docs/CommandLine.html>
+- About llvm pass dependency, checkout this page: <http://lists.llvm.org/pipermail/llvm-dev/2017-October/118029.html>
 - CUDA NVPTX backend info of `kernel` keyword, see this [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
 - tmux tips, checkout this [blog](http://blog.csdn.net/simple_the_best/article/details/51360778)
 - clang attribute metadata see [how to change clang](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang), while for CUDA NVPTX backend info of `kernel` keyword, see NVPTXUage [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
