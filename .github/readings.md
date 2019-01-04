@@ -132,8 +132,13 @@
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
 - Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
 - Notes on Programming Standard ML of New Jersey: <http://www.cs.cornell.edu/riccardo/prog-smlnj/notes-011001.pdf> and basic polymorphic typechecking: <https://www.classes.cs.uchicago.edu/archive/2016/fall/22600-1/docs/polymorphism.pdf>
+- Graph coloring problem slide: <http://www.sci.brooklyn.cuny.edu/~amotz/GC-ALGORITHMS/PRESENTATIONS/coloring.pdf>
 - LCPC'05, Revisiting graph coloring register allocation: a study of the chaitin-briggs and callahan-koblenz algorithms, <https://llvm.org/pubs/2005-10-20-LCPC-RegAlloc.pdf>
 - LLVM Matrix supporting: <http://lists.llvm.org/pipermail/llvm-dev/2018-December/128322.html>
+- Vertex coloring: Welsh–Powell Algorithm, <http://mrsleblancsmath.pbworks.com/w/file/fetch/46119304/vertex%20coloring%20algorithm.pdf>
+- Internal and External Linkage in C++: <http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/>
+- Program and Linkage in C++: <https://docs.microsoft.com/en-us/cpp/cpp/program-and-linkage-cpp?view=vs-2017>
+- Extern linkage for const globals, non-const globals and constexpr linkage: <https://docs.microsoft.com/en-us/cpp/cpp/extern-cpp?view=vs-2017>
 
 
 

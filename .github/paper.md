@@ -6,7 +6,7 @@
   - [ ] Paper Reading, A Survey of Scratch-Pad Memory Management Techniques for low-power and energy: checkout this page <https://hal.inria.fr/inria-00170210/file/idrissi_zendra_icooolps_2007.pdf>
   - [ ] Paper Reading, Data Allocation Optimization for Hybrid Scratch Pad Memory With SRAM and Nonvolatile Memory: <http://www.cadathlon.com/refs/p4-system-1.pdf>
   - [ ] Paper Reading, MGC: Multiple Graph-Coloring for Non-Volatile Memory Based Hybrid
-  Sc[ ] Paper Reading, ratchpad Memory, <http://aces.snu.ac.kr/interact-16/papers/interact-16-paper-3.pdf>
+  - [ ] Paper Reading, scratchpad Memory, <http://aces.snu.ac.kr/interact-16/papers/interact-16-paper-3.pdf>
   - [ ] Paper Reading, A Memory Optimization Technique for Software Managed Scratchpad Memory in GPUs: <http://mii.ucla.edu/repository/358.pdf>
   - [ ] Paper Reading, Data Scratchpad Prefetching for Real-time Systems: <https://uwspace.uwaterloo.ca/bitstream/handle/10012/11837/ecrts17-techrep-2.pdf?sequence=1>
   - [ ] Paper Reading, DRDU: A Data Reuse Analysis Technique for Efficient Scratch-Pad Memory Management: <http://isseweb.com:8080/publications/todaes07.pdf>
