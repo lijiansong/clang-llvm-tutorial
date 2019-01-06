@@ -58,6 +58,7 @@
 - Inline asm macro expr format: <https://stackoverflow.com/questions/37146962/macro-with-inline-asm-in-c-is-having-formatting-problems>
 - Macro function overloading: <https://stackoverflow.com/questions/11761703/overloading-macro-on-number-of-arguments>
 - Clang optimization levels: <https://stackoverflow.com/questions/15548023/clang-optimization-levels/15548189#15548189> and this post:<https://nval.andreasherten.de/2016/08/18/clang-optimization-levels.html>
+- const_cast in c++: <https://stackoverflow.com/questions/19554841/how-to-use-const-cast> and <https://docs.microsoft.com/en-us/cpp/cpp/const-cast-operator?view=vs-2017>
 - Clang Optimization for Embedded Linux: <http://events17.linuxfoundation.org/sites/events/files/slides/GCC%252FClang%20Optimizations%20for%20Embedded%20Linux.pdf>
 - C++ Template Instantiation and Concepts in Clang, impl details checkout this [paper](https://pdfs.semanticscholar.org/aef3/f3c2ada21aea2bf7805e2c221c85ca88d506.pdf)
 - Architecture of Clang, checkout this paper: <http://wiki.ifs.hsr.ch/SemProgAnTr/files/Clang_Architecture_-_ChristopherGuntli.pdf> and this slide: <https://llvm.org/devmtg/2017-06/2-Hal-Finkel-LLVM-2017.pdf>
@@ -133,6 +134,7 @@
 - Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
 - Notes on Programming Standard ML of New Jersey: <http://www.cs.cornell.edu/riccardo/prog-smlnj/notes-011001.pdf> and basic polymorphic typechecking: <https://www.classes.cs.uchicago.edu/archive/2016/fall/22600-1/docs/polymorphism.pdf>
 - Graph coloring problem slide: <http://www.sci.brooklyn.cuny.edu/~amotz/GC-ALGORITHMS/PRESENTATIONS/coloring.pdf>
+- LLVM simple MachineInstr-level dead-code-elimination pass: <http://web.mit.edu/freebsd/head/contrib/llvm/lib/CodeGen/DeadMachineInstructionElim.cpp> and <https://blog.quarkslab.com/global-dead-code-elimination-for-llvm-revisited.html>
 - LCPC'05, Revisiting graph coloring register allocation: a study of the chaitin-briggs and callahan-koblenz algorithms, <https://llvm.org/pubs/2005-10-20-LCPC-RegAlloc.pdf>
 - LLVM Matrix supporting: <http://lists.llvm.org/pipermail/llvm-dev/2018-December/128322.html>
 - Vertex coloring: Welsh–Powell Algorithm, <http://mrsleblancsmath.pbworks.com/w/file/fetch/46119304/vertex%20coloring%20algorithm.pdf>
