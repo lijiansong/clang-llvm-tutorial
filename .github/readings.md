@@ -141,6 +141,8 @@
 - Internal and External Linkage in C++: <http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/>
 - Program and Linkage in C++: <https://docs.microsoft.com/en-us/cpp/cpp/program-and-linkage-cpp?view=vs-2017>
 - Extern linkage for const globals, non-const globals and constexpr linkage: <https://docs.microsoft.com/en-us/cpp/cpp/extern-cpp?view=vs-2017>
+- static initialization order ‘fiasco’ (problem): <https://isocpp.org/wiki/faq/ctors#static-init-order>
+- Function thinking: <https://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=functional+thinking>
 
 
 
