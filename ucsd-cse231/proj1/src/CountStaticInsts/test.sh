@@ -8,6 +8,9 @@ then
 fi
 for ir in `ls ${TEST_SUITE}/*.ll`
 do
-    echo ${ir}
-    ./${PROJ} ${ir}
+    if [ -f ${ir} ]
+    then
+        echo ${ir}
+        ./${PROJ} ${ir}
+    fi
 done
