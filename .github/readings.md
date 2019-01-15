@@ -143,6 +143,7 @@
 - Extern linkage for const globals, non-const globals and constexpr linkage: <https://docs.microsoft.com/en-us/cpp/cpp/extern-cpp?view=vs-2017>
 - static initialization order ‘fiasco’ (problem): <https://isocpp.org/wiki/faq/ctors#static-init-order>
 - Function thinking: <https://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=functional+thinking>
+- CC'16, SVF: Interprocedural Static Value-Flow Analysis in LLVM: <https://yuleisui.github.io/publications/cc16.pdf> and LLVM devmtg slide: <https://llvm.org/devmtg/2016-03/Presentations/SVF_EUROLLVM2016.pdf>
 
 
 

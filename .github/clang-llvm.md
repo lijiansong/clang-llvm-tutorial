@@ -20,6 +20,9 @@
 - Purdue Uni, CS352, Compilers: Principles and Practice[.](http://tiarkrompf.github.io/cs352/)
 - Purdue Uni, CS502, Compiling And Programming Systems[.](https://tiarkrompf.github.io/cs502/)
 - U.C. Berkeley CS267, Applications of Parallel Computers[.](https://people.eecs.berkeley.edu/~demmel/cs267_Spr12/)
+- CMU 15745-s11, pointer analysis, lecture slide: <http://www.cs.cmu.edu/afs/cs/academic/class/15745-s11/public/lectures/L27-Pointer-Analysis.pdf>
+- Harvard, CS252 , pointer analysis, lecture slide: <https://www.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf>
+- Point to analysis, checkout this page: <https://yanniss.github.io/points-to-tutorial15.pdf>
 - For `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - Computer science colleges, checkout this page: <http://www.oonumerics.org/>
