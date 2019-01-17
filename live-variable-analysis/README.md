@@ -39,3 +39,4 @@ Notice: Current implement is based on llvm 5.0.0
 
 ## REF
 - CMU CS course, 15-411 compiler design: <https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html>
+- <https://www.cs.cmu.edu/afs/cs/academic/class/15745-s03/public/lectures/L4_handouts.pdf>

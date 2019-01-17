@@ -1,69 +1,71 @@
-; ModuleID = 'foo.c'
+; ModuleID = 'foo.ll'
 source_filename = "foo.c"
 target datalayout = "e-m:o-i64:64-f80:128-n8:16:32:64-S128"
 target triple = "x86_64-apple-macosx10.13.0"
 
 ; Function Attrs: noinline nounwind optnone ssp uwtable
-define i32 @sum(i32, i32) #0 {
-  %3 = alloca i32, align 4
-  %4 = alloca i32, align 4
-  %5 = alloca i32, align 4
-  %6 = alloca i32, align 4
-  store i32 %0, i32* %3, align 4
-  store i32 %1, i32* %4, align 4
-  %7 = load i32, i32* %3, align 4
-  %8 = load i32, i32* %4, align 4
-  %9 = add nsw i32 %7, %8
-  store i32 %9, i32* %5, align 4
-  %10 = load i32, i32* %5, align 4
-  %11 = icmp eq i32 %10, 10
-  br i1 %11, label %12, label %16
+define i32 @sum(i32 %arg, i32 %arg1) #0 {
+bb:
+  %tmp = alloca i32, align 4
+  %tmp2 = alloca i32, align 4
+  %tmp3 = alloca i32, align 4
+  %tmp4 = alloca i32, align 4
+  store i32 %arg, i32* %tmp, align 4
+  store i32 %arg1, i32* %tmp2, align 4
+  %tmp5 = load i32, i32* %tmp, align 4
+  %tmp6 = load i32, i32* %tmp2, align 4
+  %tmp7 = add nsw i32 %tmp5, %tmp6
+  store i32 %tmp7, i32* %tmp3, align 4
+  %tmp8 = load i32, i32* %tmp3, align 4
+  %tmp9 = icmp eq i32 %tmp8, 10
+  br i1 %tmp9, label %bb10, label %bb14
 
-; <label>:12:                                     ; preds = %2
-  %13 = load i32, i32* %3, align 4
-  %14 = load i32, i32* %5, align 4
-  %15 = add nsw i32 %14, %13
-  store i32 %15, i32* %5, align 4
-  br label %20
+bb10:                                             ; preds = %bb
+  %tmp11 = load i32, i32* %tmp, align 4
+  %tmp12 = load i32, i32* %tmp3, align 4
+  %tmp13 = add nsw i32 %tmp12, %tmp11
+  store i32 %tmp13, i32* %tmp3, align 4
+  br label %bb18
 
-; <label>:16:                                     ; preds = %2
-  %17 = load i32, i32* %4, align 4
-  %18 = load i32, i32* %5, align 4
-  %19 = add nsw i32 %18, %17
-  store i32 %19, i32* %5, align 4
-  br label %20
+bb14:                                             ; preds = %bb
+  %tmp15 = load i32, i32* %tmp2, align 4
+  %tmp16 = load i32, i32* %tmp3, align 4
+  %tmp17 = add nsw i32 %tmp16, %tmp15
+  store i32 %tmp17, i32* %tmp3, align 4
+  br label %bb18
 
-; <label>:20:                                     ; preds = %16, %12
-  store i32 0, i32* %6, align 4
-  br label %21
+bb18:                                             ; preds = %bb14, %bb10
+  store i32 0, i32* %tmp4, align 4
+  br label %bb19
 
-; <label>:21:                                     ; preds = %29, %20
-  %22 = load i32, i32* %6, align 4
-  %23 = load i32, i32* %4, align 4
-  %24 = icmp slt i32 %22, %23
-  br i1 %24, label %25, label %32
+bb19:                                             ; preds = %bb27, %bb18
+  %tmp20 = load i32, i32* %tmp4, align 4
+  %tmp21 = load i32, i32* %tmp2, align 4
+  %tmp22 = icmp slt i32 %tmp20, %tmp21
+  br i1 %tmp22, label %bb23, label %bb30
 
-; <label>:25:                                     ; preds = %21
-  %26 = load i32, i32* %6, align 4
-  %27 = load i32, i32* %5, align 4
-  %28 = add nsw i32 %27, %26
-  store i32 %28, i32* %5, align 4
-  br label %29
+bb23:                                             ; preds = %bb19
+  %tmp24 = load i32, i32* %tmp4, align 4
+  %tmp25 = load i32, i32* %tmp3, align 4
+  %tmp26 = add nsw i32 %tmp25, %tmp24
+  store i32 %tmp26, i32* %tmp3, align 4
+  br label %bb27
 
-; <label>:29:                                     ; preds = %25
-  %30 = load i32, i32* %6, align 4
-  %31 = add nsw i32 %30, 1
-  store i32 %31, i32* %6, align 4
-  br label %21
+bb27:                                             ; preds = %bb23
+  %tmp28 = load i32, i32* %tmp4, align 4
+  %tmp29 = add nsw i32 %tmp28, 1
+  store i32 %tmp29, i32* %tmp4, align 4
+  br label %bb19
 
-; <label>:32:                                     ; preds = %21
-  %33 = load i32, i32* %5, align 4
-  ret i32 %33
+bb30:                                             ; preds = %bb19
+  %tmp31 = load i32, i32* %tmp3, align 4
+  ret i32 %tmp31
 }
 
 ; Function Attrs: noinline nounwind optnone ssp uwtable
 define i32 @main() #0 {
-  %1 = call i32 @sum(i32 1, i32 2)
+bb:
+  %tmp = call i32 @sum(i32 1, i32 2)
   ret i32 0
 }
 

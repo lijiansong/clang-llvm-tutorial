@@ -11,6 +11,10 @@ for file in `ls *.c`
 do
     echo compiling ${file}...
     #clang -g3 -O0 -S -emit-llvm ${file}
-    clang -S -emit-llvm ${file}
+    prefix=`basename ${file} .c`
+    clang -S -emit-llvm ${file} -o ${prefix}.ll
+    # Assign names to anonymous instructions
+    opt -instnamer ${prefix}.ll -o ${prefix}.ll
+    llvm-dis ${prefix}.ll -o ${prefix}.ll
 done
 echo DONE!

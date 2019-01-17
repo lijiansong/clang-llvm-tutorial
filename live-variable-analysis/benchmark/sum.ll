@@ -1,122 +1,125 @@
-; ModuleID = 'sum.c'
+; ModuleID = 'sum.ll'
 source_filename = "sum.c"
 target datalayout = "e-m:o-i64:64-f80:128-n8:16:32:64-S128"
 target triple = "x86_64-apple-macosx10.13.0"
 
 ; Function Attrs: noinline nounwind optnone ssp uwtable
-define i32 @add1(i32, i32) #0 {
-  %3 = alloca i32, align 4
-  %4 = alloca i32, align 4
-  store i32 %0, i32* %3, align 4
-  store i32 %1, i32* %4, align 4
-  %5 = load i32, i32* %3, align 4
-  %6 = load i32, i32* %4, align 4
-  %7 = add nsw i32 %5, %6
-  ret i32 %7
+define i32 @add1(i32 %arg, i32 %arg1) #0 {
+bb:
+  %tmp = alloca i32, align 4
+  %tmp2 = alloca i32, align 4
+  store i32 %arg, i32* %tmp, align 4
+  store i32 %arg1, i32* %tmp2, align 4
+  %tmp3 = load i32, i32* %tmp, align 4
+  %tmp4 = load i32, i32* %tmp2, align 4
+  %tmp5 = add nsw i32 %tmp3, %tmp4
+  ret i32 %tmp5
 }
 
 ; Function Attrs: noinline nounwind optnone ssp uwtable
-define i32 @add2(i32, i32) #0 {
-  %3 = alloca i32, align 4
-  %4 = alloca i32, align 4
-  %5 = alloca i32, align 4
-  store i32 %0, i32* %3, align 4
-  store i32 %1, i32* %4, align 4
-  store i32 0, i32* %5, align 4
-  %6 = load i32, i32* %3, align 4
-  %7 = icmp eq i32 %6, 1
-  br i1 %7, label %8, label %10
+define i32 @add2(i32 %arg, i32 %arg1) #0 {
+bb:
+  %tmp = alloca i32, align 4
+  %tmp2 = alloca i32, align 4
+  %tmp3 = alloca i32, align 4
+  store i32 %arg, i32* %tmp, align 4
+  store i32 %arg1, i32* %tmp2, align 4
+  store i32 0, i32* %tmp3, align 4
+  %tmp4 = load i32, i32* %tmp, align 4
+  %tmp5 = icmp eq i32 %tmp4, 1
+  br i1 %tmp5, label %bb6, label %bb8
 
-; <label>:8:                                      ; preds = %2
-  %9 = load i32, i32* %4, align 4
-  store i32 %9, i32* %5, align 4
-  br label %10
+bb6:                                              ; preds = %bb
+  %tmp7 = load i32, i32* %tmp2, align 4
+  store i32 %tmp7, i32* %tmp3, align 4
+  br label %bb8
 
-; <label>:10:                                     ; preds = %8, %2
-  %11 = load i32, i32* %3, align 4
-  %12 = icmp eq i32 %11, 10
-  br i1 %12, label %13, label %16
+bb8:                                              ; preds = %bb6, %bb
+  %tmp9 = load i32, i32* %tmp, align 4
+  %tmp10 = icmp eq i32 %tmp9, 10
+  br i1 %tmp10, label %bb11, label %bb14
 
-; <label>:13:                                     ; preds = %10
-  %14 = load i32, i32* %3, align 4
-  %15 = add nsw i32 %14, 10
-  store i32 %15, i32* %5, align 4
-  br label %16
+bb11:                                             ; preds = %bb8
+  %tmp12 = load i32, i32* %tmp, align 4
+  %tmp13 = add nsw i32 %tmp12, 10
+  store i32 %tmp13, i32* %tmp3, align 4
+  br label %bb14
 
-; <label>:16:                                     ; preds = %13, %10
-  %17 = load i32, i32* %3, align 4
-  %18 = load i32, i32* %4, align 4
-  %19 = icmp sgt i32 %17, %18
-  br i1 %19, label %20, label %25
+bb14:                                             ; preds = %bb11, %bb8
+  %tmp15 = load i32, i32* %tmp, align 4
+  %tmp16 = load i32, i32* %tmp2, align 4
+  %tmp17 = icmp sgt i32 %tmp15, %tmp16
+  br i1 %tmp17, label %bb18, label %bb23
 
-; <label>:20:                                     ; preds = %16
-  %21 = load i32, i32* %3, align 4
-  %22 = mul nsw i32 %21, 10
-  %23 = load i32, i32* %5, align 4
-  %24 = add nsw i32 %23, %22
-  store i32 %24, i32* %5, align 4
-  br label %28
+bb18:                                             ; preds = %bb14
+  %tmp19 = load i32, i32* %tmp, align 4
+  %tmp20 = mul nsw i32 %tmp19, 10
+  %tmp21 = load i32, i32* %tmp3, align 4
+  %tmp22 = add nsw i32 %tmp21, %tmp20
+  store i32 %tmp22, i32* %tmp3, align 4
+  br label %bb26
 
-; <label>:25:                                     ; preds = %16
-  %26 = load i32, i32* %4, align 4
-  %27 = mul nsw i32 %26, 10
-  store i32 %27, i32* %5, align 4
-  br label %28
+bb23:                                             ; preds = %bb14
+  %tmp24 = load i32, i32* %tmp2, align 4
+  %tmp25 = mul nsw i32 %tmp24, 10
+  store i32 %tmp25, i32* %tmp3, align 4
+  br label %bb26
 
-; <label>:28:                                     ; preds = %25, %20
-  %29 = load i32, i32* %5, align 4
-  ret i32 %29
+bb26:                                             ; preds = %bb23, %bb18
+  %tmp27 = load i32, i32* %tmp3, align 4
+  ret i32 %tmp27
 }
 
 ; Function Attrs: noinline nounwind optnone ssp uwtable
 define i32 @main() #0 {
-  %1 = alloca i32, align 4
-  %2 = alloca i32, align 4
-  %3 = alloca i32, align 4
-  %4 = alloca i32, align 4
-  store i32 0, i32* %1, align 4
-  store i32 100, i32* %2, align 4
-  store i32 0, i32* %3, align 4
-  store i32 0, i32* %4, align 4
-  br label %5
+bb:
+  %tmp = alloca i32, align 4
+  %tmp1 = alloca i32, align 4
+  %tmp2 = alloca i32, align 4
+  %tmp3 = alloca i32, align 4
+  store i32 0, i32* %tmp, align 4
+  store i32 100, i32* %tmp1, align 4
+  store i32 0, i32* %tmp2, align 4
+  store i32 0, i32* %tmp3, align 4
+  br label %bb4
 
-; <label>:5:                                      ; preds = %19, %0
-  %6 = load i32, i32* %4, align 4
-  %7 = load i32, i32* %2, align 4
-  %8 = icmp slt i32 %6, %7
-  br i1 %8, label %9, label %22
+bb4:                                              ; preds = %bb18, %bb
+  %tmp5 = load i32, i32* %tmp3, align 4
+  %tmp6 = load i32, i32* %tmp1, align 4
+  %tmp7 = icmp slt i32 %tmp5, %tmp6
+  br i1 %tmp7, label %bb8, label %bb21
 
-; <label>:9:                                      ; preds = %5
-  %10 = load i32, i32* %4, align 4
-  %11 = load i32, i32* %3, align 4
-  %12 = add nsw i32 %11, %10
-  store i32 %12, i32* %3, align 4
-  %13 = load i32, i32* %3, align 4
-  %14 = icmp slt i32 %13, 50
-  br i1 %14, label %15, label %18
+bb8:                                              ; preds = %bb4
+  %tmp9 = load i32, i32* %tmp3, align 4
+  %tmp10 = load i32, i32* %tmp2, align 4
+  %tmp11 = add nsw i32 %tmp10, %tmp9
+  store i32 %tmp11, i32* %tmp2, align 4
+  %tmp12 = load i32, i32* %tmp2, align 4
+  %tmp13 = icmp slt i32 %tmp12, 50
+  br i1 %tmp13, label %bb14, label %bb17
 
-; <label>:15:                                     ; preds = %9
-  %16 = load i32, i32* %3, align 4
-  %17 = add nsw i32 %16, 1
-  store i32 %17, i32* %3, align 4
-  br label %18
+bb14:                                             ; preds = %bb8
+  %tmp15 = load i32, i32* %tmp2, align 4
+  %tmp16 = add nsw i32 %tmp15, 1
+  store i32 %tmp16, i32* %tmp2, align 4
+  br label %bb17
 
-; <label>:18:                                     ; preds = %15, %9
-  br label %19
+bb17:                                             ; preds = %bb14, %bb8
+  br label %bb18
 
-; <label>:19:                                     ; preds = %18
-  %20 = load i32, i32* %4, align 4
-  %21 = add nsw i32 %20, 1
-  store i32 %21, i32* %4, align 4
-  br label %5
+bb18:                                             ; preds = %bb17
+  %tmp19 = load i32, i32* %tmp3, align 4
+  %tmp20 = add nsw i32 %tmp19, 1
+  store i32 %tmp20, i32* %tmp3, align 4
+  br label %bb4
 
-; <label>:22:                                     ; preds = %5
-  %23 = load i32, i32* %2, align 4
-  %24 = load i32, i32* %3, align 4
-  %25 = call i32 @add1(i32 %23, i32 %24)
-  %26 = load i32, i32* %2, align 4
-  %27 = load i32, i32* %3, align 4
-  %28 = call i32 @add2(i32 %26, i32 %27)
+bb21:                                             ; preds = %bb4
+  %tmp22 = load i32, i32* %tmp1, align 4
+  %tmp23 = load i32, i32* %tmp2, align 4
+  %tmp24 = call i32 @add1(i32 %tmp22, i32 %tmp23)
+  %tmp25 = load i32, i32* %tmp1, align 4
+  %tmp26 = load i32, i32* %tmp2, align 4
+  %tmp27 = call i32 @add2(i32 %tmp25, i32 %tmp26)
   ret i32 0
 }
 
