@@ -1,7 +1,7 @@
 # Live Variable Analysis
-Target independent live variable analysis via backward data flow analysis.
+Target independent live variable analysis via backward data flow equations, this implement is NOT based on the SSA algorithm.
 
-Notice: This implement is `NOT` a backend target specific pass, i.e. current implement is a `Module` or `Function` level pass, not a `MachineFunction` level pass, for `MachineFunction` level implement please refer to LLVM source [lib/CodeGen](https://github.com/llvm-mirror/llvm/blob/master/lib/CodeGen/LiveVariables.cpp).
+Notice: This implement is `NOT` a backend target specific pass, i.e. current implement is a `Module` or `Function` level pass, not a `MachineFunction` level pass, for `MachineFunction` level implement please refer to LLVM source [lib/CodeGen](https://github.com/llvm-mirror/llvm/blob/master/lib/CodeGen/LiveVariables.cpp) or [cranelift's annotation](https://github.com/CraneStation/cranelift/blob/8033deda3ac152d0b95bb0ad80b419625c3f0d58/lib/cretonne/src/regalloc/liveness.rs#L1-L176)...
 
 ## Preface
 More precise definition of liveness:
@@ -36,6 +36,7 @@ $ ./liveness your_bc_file
 ```
 
 Notice: Current implement is based on llvm 5.0.0
+
 
 ## REF
 - CMU CS course, 15-411 compiler design: <https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html>
