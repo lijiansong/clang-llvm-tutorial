@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int sum(int a, int b) {
+inline int __attribute__((__always_inline__)) sum(int a, int b) {
   int c = a + b;
   if (c == 10) {
     c += a;

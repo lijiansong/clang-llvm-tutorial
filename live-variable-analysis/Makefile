@@ -7,7 +7,7 @@ ifeq ($(UNAME_S),Linux)
     DBG_FILES :=
 endif
 
-COMMON_FLAGS=-Wall -Wextra -g
+COMMON_FLAGS=-Wall -Wextra #-g
 SRC_DIR?=$(PWD)
 SRC=LiveVariable.cpp
 

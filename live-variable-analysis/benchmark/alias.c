@@ -6,12 +6,12 @@ int sum(int *a, int *b, int *c, int n) {
     p_c[i] = p_a[i] + p_b[i];
   }
   switch (n) {
-    case 0:
-        return p_c[0];
-    case 1:
-        return p_c[1];
-    case 2:
-        return p_c[2];
+  case 0:
+    return p_c[0];
+  case 1:
+    return p_c[1];
+  case 2:
+    return p_c[2];
   }
   return p_c[n - 1];
 }
