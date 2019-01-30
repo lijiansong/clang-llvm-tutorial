@@ -1,24 +1,23 @@
+#include "llvm/Bitcode/BitcodeWriter.h"
+#include "llvm/IR/BasicBlock.h"
 #include "llvm/IR/DebugInfo.h"
 #include "llvm/IR/Function.h"
-#include "llvm/IR/InstIterator.h"
-#include "llvm/Pass.h"
-#include "llvm/Support/raw_ostream.h"
-#include "llvm/IR/BasicBlock.h"
 #include "llvm/IR/IRBuilder.h"
+#include "llvm/IR/InstIterator.h"
 #include "llvm/IR/Instruction.h"
 #include "llvm/IR/Instructions.h"
+#include "llvm/IR/LLVMContext.h"
+#include "llvm/IR/LegacyPassManager.h"
 #include "llvm/IR/Module.h"
 #include "llvm/IR/Type.h"
 #include "llvm/IR/Value.h"
-#include "llvm/IR/LLVMContext.h"
-#include "llvm/IR/LegacyPassManager.h"
-#include "llvm/Support/CommandLine.h"
-#include "llvm/Support/SourceMgr.h"
 #include "llvm/IRReader/IRReader.h"
-#include "llvm/Bitcode/BitcodeWriter.h"
+#include "llvm/Pass.h"
+#include "llvm/Support/CommandLine.h"
+#include "llvm/Support/FileSystem.h"
+#include "llvm/Support/SourceMgr.h"
 #include "llvm/Support/ToolOutputFile.h"
 #include "llvm/Support/raw_ostream.h"
-#include "llvm/Support/FileSystem.h"
 
 using namespace llvm;
 
@@ -43,6 +42,8 @@ struct CountDynamicInstructions : public FunctionPass {
         "printOutInstrInfo", Type::getVoidTy(F.getParent()->getContext())));
 
     for (Function::iterator B = F.begin(), BE = F.end(); B != BE; ++B) {
+      // key: instruction opcode
+      // value: counts of this inst in current basic block
       std::map<int, int> cdi;
       bool flag = false;
       for (BasicBlock::iterator I = B->begin(), IE = B->end(); I != IE; ++I) {
@@ -81,6 +82,8 @@ struct CountDynamicInstructions : public FunctionPass {
               v),
           "values global");
 
+      // for instrument function
+      // void updateInstrInfo(unsigned num, uint32_t * keys, uint32_t * values);
       std::vector<Value *> args;
       args.push_back(ConstantInt::get(
           Type::getInt32Ty(F.getParent()->getContext()), count));
@@ -103,7 +106,7 @@ struct CountDynamicInstructions : public FunctionPass {
         // instrument printOutInstrInfo
         Builder2.CreateCall(prt);
       }
-    }
+    } // end for each basic block
 
     return false;
   }
@@ -128,7 +131,8 @@ int main(int argc, const char *argv[]) {
   // static LLVMContext Context;
   SMDiagnostic Err;
   // Parse the command line to read the Inputfilename
-  cl::ParseCommandLineOptions(argc, argv, "Live variable analysis...\n");
+  cl::ParseCommandLineOptions(argc, argv,
+                              "Dynamic instructions profiling analysis...\n");
 
   // load the input module
   std::unique_ptr<Module> M = parseIRFile(InputFilename, Err, Context);
