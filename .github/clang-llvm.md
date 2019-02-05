@@ -31,6 +31,7 @@
 - CMU, linker basic concepts, see this [PAGE](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/11-linking.pdf)
 - Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)
 - Latex gallery, checkout this page: <https://www.overleaf.com/gallery>
+- Python graph gallery, checkout this page: <https://python-graph-gallery.com>
 - GitHub page with [middleman](https://medium.com/@ryanswapp/build-a-blog-with-middleman-and-host-on-github-pages-aab82a7fc56e)
 - A short tutorial for latex, see this [page](http://www.mohu.org/info/lshort-cn.pdf) & a tiny book about `awk` checkout this [page](http://awk.readthedocs.io/en/latest/index.html)
 - A nice book about open-source project, <Producing Open Source Software: How to Run a Successful Free Software Project>, checkout this [page](https://producingoss.com)
@@ -83,7 +84,7 @@
 - LLVM Backends `MBlaze` (Micro Blaze), see this [page](http://legup.eecg.utoronto.ca/doxygen/dir_15f75cd5e020f3c6b1d0a91d94880675.html), it is an extention of [C51](http://www.keil.com/support/man/docs/is51/)
 - More details about llvm MC Layer: <http://www.llvm.org/devmtg/2010-11/Dunbar-MC.pdf>
 - These slides maybe useful, checkout this github repo: <https://github.com/azru0512/slide>
-- nice github repo: <https://github.com/embecosm> & llvm `Integrated Assembler` see this page:<http://www.embecosm.com/resources/appnotes/#EAN10>
+- Nice github repo: <https://github.com/embecosm> & llvm `Integrated Assembler` see this page:<http://www.embecosm.com/resources/appnotes/#EAN10>
 - CppCon github repo: <https://github.com/CppCon> 
 - Clang OpenMP, checkout this [slide](https://llvm-hpc2-workshop.github.io/slides/Wong.pdf)
 - vimrc, set whichwrap for left and right cursor, see this [page](http://vim.wikia.com/wiki/Automatically_wrap_left_and_right)
