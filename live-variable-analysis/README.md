@@ -22,6 +22,8 @@ out[B]: live variable set of block B at the end point;
 def[B]: set of variables that are defined at block B;
 use[B]: set of variables that are used at block B;
 
+![image](./img/live-variable-analysis-review.png "CMU 15-745 Live Variable Analysis Review")
+
 ## Implementation
 - Identify `Basic Blocks` and `Instructions` in the source code;
 - Gather information about functions in the program, e.g.: no. of arguments, call sites and instructions;
