@@ -142,8 +142,12 @@
 - Program and Linkage in C++: <https://docs.microsoft.com/en-us/cpp/cpp/program-and-linkage-cpp?view=vs-2017>
 - Extern linkage for const globals, non-const globals and constexpr linkage: <https://docs.microsoft.com/en-us/cpp/cpp/extern-cpp?view=vs-2017>
 - static initialization order ‘fiasco’ (problem): <https://isocpp.org/wiki/faq/ctors#static-init-order>
-- Function thinking: <https://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=functional+thinking>
+- Python 2 and 3: <http://python3porting.com/noconv.html>
+- Functional thinking: <https://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=functional+thinking>
 - CC'16, SVF: Interprocedural Static Value-Flow Analysis in LLVM: <https://yuleisui.github.io/publications/cc16.pdf> and LLVM devmtg slide: <https://llvm.org/devmtg/2016-03/Presentations/SVF_EUROLLVM2016.pdf>
+- Getting to Go, ISMM'18, GC's view of Go by Google: <https://blog.golang.org/ismmkeynote>
+- PLDI'18 session: <https://pldi18.sigplan.org/program/program-pldi-2018>
+- Workshop at PLDI'18, Machine Learning and Programming Languages (MAPL): <https://pldi18.sigplan.org/track/mapl-2018-papers#program>
 
 
 
