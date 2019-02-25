@@ -148,6 +148,9 @@
 - Getting to Go, ISMM'18, GC's view of Go by Google: <https://blog.golang.org/ismmkeynote>
 - PLDI'18 session: <https://pldi18.sigplan.org/program/program-pldi-2018>
 - Workshop at PLDI'18, Machine Learning and Programming Languages (MAPL): <https://pldi18.sigplan.org/track/mapl-2018-papers#program>
+- Hierarchical Data Format: <https://en.wikipedia.org/wiki/Hierarchical_Data_Format>
+- Python Memoization with Decorators: <https://www.python-course.eu/python3_decorators.php> and <https://www.python-course.eu/python3_memoization.php>
+- Python dict impl: <https://www.laurentluce.com/posts/python-dictionary-implementation/>
 
 
 

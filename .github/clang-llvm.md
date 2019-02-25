@@ -7,6 +7,7 @@
 - Uppsala University Department of Information Technology, [Advanced Compiler Design](http://user.it.uu.se/~kostis/Teaching/KT2-06/)
 - UCSD, CSE 231: Advanced Compilers, checkout this [PAGE](https://cseweb.ucsd.edu/classes/sp14/cse231-a/index.html)
 - UCSD, CSE 262: System Support for Applications of Parallel Computation, checkout this [PAGE](http://cseweb.ucsd.edu/classes/wi15/cse262-a/lectures.html)
+- Cornell, CS 3410: Computer System Organization and Programming: <http://www.cs.cornell.edu/courses/cs3410/2018fa/>
 - [x] CMU, 15-411: Compiler Design, nice compiler design course, see its course [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
 - Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
