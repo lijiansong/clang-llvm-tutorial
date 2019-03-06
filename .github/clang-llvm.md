@@ -148,6 +148,7 @@
 - Powerful tool, clang-tidy(modernize cpp code): <https://clang.llvm.org/extra/clang-tidy/>
 - llvm IR info: <http://grosser.es/teaching/2011/LLVM/week4-llvm-ir-II.pdf>
 - CGO17: Optimistic Loop Optimization <http://grosser.es/publications/grosser-2017-Optimistic-Loop-Optimization.pdf>
+- loop sink pass implementation in LLVM: <https://github.com/Microsoft/llvm/blob/master/lib/Transforms/Scalar/LoopSink.cpp>
 - GPGPU13: Split tiling for GPUs: automatic parallelization using trapezoidal tiles, <http://grosser.es/bibliography/grosser2013split.html>
 - INRIA13: The Promises of Hybrid Hexagonal/Classical Tiling for GPU, <http://grosser.es/bibliography/grosser2013promises.html>
 - CMU CS745, Optimizing Compiler, basics about memory hierarchy optimizations, locality analysis and data reuse, checkout these two slides:[1](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts-1up.pdf) and [2](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s14/public/lectures/L25-Memory-Hierarchy-Opts.pdf)

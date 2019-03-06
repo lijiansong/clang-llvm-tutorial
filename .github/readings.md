@@ -152,6 +152,9 @@
 - Hierarchical Data Format: <https://en.wikipedia.org/wiki/Hierarchical_Data_Format>
 - Python Memoization with Decorators: <https://www.python-course.eu/python3_decorators.php> and <https://www.python-course.eu/python3_memoization.php>
 - Python dict impl: <https://www.laurentluce.com/posts/python-dictionary-implementation/>
+- glibc qsort implementation: <https://code.woboq.org/userspace/glibc/stdlib/qsort.c.html>
+- glibc stdlib source code: <https://code.woboq.org/userspace/glibc/stdlib/>
+- IBM cell processor: <http://meseec.ce.rit.edu/756-projects/spring2006/d2/6/cell-architecture-final.pdf>
 
 
 
