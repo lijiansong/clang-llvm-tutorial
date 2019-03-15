@@ -137,6 +137,7 @@
 - LLVM simple MachineInstr-level dead-code-elimination pass: <http://web.mit.edu/freebsd/head/contrib/llvm/lib/CodeGen/DeadMachineInstructionElim.cpp> and <https://blog.quarkslab.com/global-dead-code-elimination-for-llvm-revisited.html>
 - LCPC'05, Revisiting graph coloring register allocation: a study of the chaitin-briggs and callahan-koblenz algorithms, <https://llvm.org/pubs/2005-10-20-LCPC-RegAlloc.pdf>
 - LLVM Matrix supporting: <http://lists.llvm.org/pipermail/llvm-dev/2018-December/128322.html>
+- TVM 0.5 release note: <https://github.com/dmlc/tvm/issues/2448>
 - Vertex coloring: Welsh–Powell Algorithm, <http://mrsleblancsmath.pbworks.com/w/file/fetch/46119304/vertex%20coloring%20algorithm.pdf>
 - Internal and External Linkage in C++: <http://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/>
 - Program and Linkage in C++: <https://docs.microsoft.com/en-us/cpp/cpp/program-and-linkage-cpp?view=vs-2017>
@@ -155,6 +156,7 @@
 - glibc qsort implementation: <https://code.woboq.org/userspace/glibc/stdlib/qsort.c.html>
 - glibc stdlib source code: <https://code.woboq.org/userspace/glibc/stdlib/>
 - IBM cell processor: <http://meseec.ce.rit.edu/756-projects/spring2006/d2/6/cell-architecture-final.pdf>
+- SPM-based manycore example, rexcomputing: <http://rexcomputing.com>
 
 
 
