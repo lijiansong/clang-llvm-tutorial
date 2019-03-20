@@ -157,6 +157,7 @@
 - glibc stdlib source code: <https://code.woboq.org/userspace/glibc/stdlib/>
 - IBM cell processor: <http://meseec.ce.rit.edu/756-projects/spring2006/d2/6/cell-architecture-final.pdf>
 - SPM-based manycore example, rexcomputing: <http://rexcomputing.com>
+- ISCA'18, Generic System Calls for GPUs, UVM and cache coherence ease programmability: <https://iscaconf.org/isca2018/slides/9B4.pdf> and github repo: <https://github.com/RadeonOpenCompute/ROCT_syscall>
 
 
 
