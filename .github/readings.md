@@ -47,6 +47,7 @@
 - asm inline testcases in clang: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/asm.c>
 - heap vs stack, <https://www.gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html>
 - MMU, Memory management unit, <https://en.wikipedia.org/wiki/Memory_management_unit>
+- Linux Package Managers: <https://en.wikipedia.org/wiki/Package_manager>
 - Applying Temporal Blocking with a Directive‐based Approach, <https://llvm-hpc4-workshop.github.io/slides/Endo.pdf>
 - Improving Compiler Optimizations using Program Annotations, <https://sisl.rites.uic.edu/static/pics/thesis-2.pdf>
 - Towards Automatic HBM Allocation using LLVM: A Case Study with Knights Landing, <https://www.computer.org/csdl/proceedings/llvm-hpc/2016/3878/00/07839456.pdf>
@@ -157,6 +158,7 @@
 - glibc stdlib source code: <https://code.woboq.org/userspace/glibc/stdlib/>
 - IBM cell processor: <http://meseec.ce.rit.edu/756-projects/spring2006/d2/6/cell-architecture-final.pdf>
 - SPM-based manycore example, rexcomputing: <http://rexcomputing.com>
+- Term, thrashing: <https://en.wikipedia.org/wiki/Thrashing_(computer_science)>
 - ISCA'18, Generic System Calls for GPUs, UVM and cache coherence ease programmability: <https://iscaconf.org/isca2018/slides/9B4.pdf> and github repo: <https://github.com/RadeonOpenCompute/ROCT_syscall>
 
 
