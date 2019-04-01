@@ -160,6 +160,10 @@
 - SPM-based manycore example, rexcomputing: <http://rexcomputing.com>
 - Term, thrashing: <https://en.wikipedia.org/wiki/Thrashing_(computer_science)>
 - ISCA'18, Generic System Calls for GPUs, UVM and cache coherence ease programmability: <https://iscaconf.org/isca2018/slides/9B4.pdf> and github repo: <https://github.com/RadeonOpenCompute/ROCT_syscall>
+- Literal pool in ARM: <http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0473h/Bgbccbdi.html> and <http://benno.id.au/blog/2009/01/02/literal-pools>
+- Sockets vs. RDMA Interface over 10-Gigabit Networks: An In-depth Analysis of the Memory Traffic Bottleneck: <http://mvapich.cse.ohio-state.edu/static/media/publications/slide/balaji_10gige.pdf>
+- TVM and XLA/HLO: <https://github.com/dmlc/tvm/issues/151>
+- XLA and Polyhedral Compilation through LLVM Polly: <https://github.com/tensorflow/tensorflow/issues/8100>
 
 
 
