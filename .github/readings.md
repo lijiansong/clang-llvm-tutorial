@@ -146,6 +146,7 @@
 - static initialization order ‘fiasco’ (problem): <https://isocpp.org/wiki/faq/ctors#static-init-order>
 - Python 2 and 3: <http://python3porting.com/noconv.html>
 - Functional thinking: <https://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=functional+thinking>
+- Python Functional Programming HOWTO: <https://docs.python.org/3.7/howto/functional.html>
 - CC'16, SVF: Interprocedural Static Value-Flow Analysis in LLVM: <https://yuleisui.github.io/publications/cc16.pdf> and LLVM devmtg slide: <https://llvm.org/devmtg/2016-03/Presentations/SVF_EUROLLVM2016.pdf>
 - Getting to Go, ISMM'18, GC's view of Go by Google: <https://blog.golang.org/ismmkeynote>
 - PLDI'18 session: <https://pldi18.sigplan.org/program/program-pldi-2018>
@@ -164,6 +165,9 @@
 - Sockets vs. RDMA Interface over 10-Gigabit Networks: An In-depth Analysis of the Memory Traffic Bottleneck: <http://mvapich.cse.ohio-state.edu/static/media/publications/slide/balaji_10gige.pdf>
 - TVM and XLA/HLO: <https://github.com/dmlc/tvm/issues/151>
 - XLA and Polyhedral Compilation through LLVM Polly: <https://github.com/tensorflow/tensorflow/issues/8100>
+- DON’T UNROLL ADJOINT: DIFFERENTIATING SSA-FORM PROGRAMS: <https://arxiv.org/pdf/1810.07951.pdf>
+- DLVM: A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS: <https://arxiv.org/pdf/1711.03016.pdf>
+- Choice about IR, SSA or ANF? <https://discuss.tvm.ai/t/choice-about-ir-ssa-or-anf/1757>
 
 
 
