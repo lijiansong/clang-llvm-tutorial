@@ -44,6 +44,7 @@
 - OpenMP in clang, <https://clang-omp.github.io/> and its github repo: <https://github.com/llvm-project/openmp> and tutorial: <https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf>
 - Introduction to GCC Inline Asm: <http://asm.sourceforge.net/articles/rmiyagi-inline-asm.txt>
 - A Tiny Guide to GCC Inline Assembly: <http://ericw.ca/notes/a-tiny-guide-to-gcc-inline-assembly.html> and this tutorial: <https://www.cs.virginia.edu/~clc5q/gcc-inline-asm.pdf>
+- X86 Assembly Guide: <http://www.cs.virginia.edu/~evans/cs216/guides/x86.html>
 - asm inline testcases in clang: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/asm.c>
 - heap vs stack, <https://www.gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html>
 - MMU, Memory management unit, <https://en.wikipedia.org/wiki/Memory_management_unit>
@@ -83,6 +84,7 @@
 - Tensor networks and machine learning: <http://kits.ucas.ac.cn/images/articles/2017/Machine_Learning/conference/MilesStoudenmire.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/oseledets_ivan_tmcv2017.pdf>
 - Tensor networks and deep learning, checkout this slide: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/cichocki_andrzej_tmcv2017.pdf>
 - CS230, CNN cheatsheet: <http://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks>
+- Image convolution understanding via OpenCV and Python: <https://www.pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/>
 - Accelerator Compiler for the VENICE Vector Processor[.](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37671.pdf)
 - loop idioms: [Mining Semantic Loop Idioms](http://web.cs.ucdavis.edu/~devanbu/tse-coils-paper.pdf)
 - Compiler-assisted Performance Analysis: <https://llvm.org/devmtg/2016-11/Slides/Nemet-Compiler-assistedPerformanceAnalysis.pdf>
@@ -167,6 +169,7 @@
 - XLA and Polyhedral Compilation through LLVM Polly: <https://github.com/tensorflow/tensorflow/issues/8100>
 - DON’T UNROLL ADJOINT: DIFFERENTIATING SSA-FORM PROGRAMS: <https://arxiv.org/pdf/1810.07951.pdf>
 - DLVM: A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS: <https://arxiv.org/pdf/1711.03016.pdf>
+- TVM discussion about Google's MLIR: <https://discuss.tvm.ai/t/google-lasted-work-mlir-primer/1721> and the discussion @zhihu: <https://www.zhihu.com/question/319145946/answer/647107250>
 - Choice about IR, SSA or ANF? <https://discuss.tvm.ai/t/choice-about-ir-ssa-or-anf/1757>
 
 
