@@ -171,6 +171,10 @@
 - DLVM: A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS: <https://arxiv.org/pdf/1711.03016.pdf>
 - TVM discussion about Google's MLIR: <https://discuss.tvm.ai/t/google-lasted-work-mlir-primer/1721> and the discussion @zhihu: <https://www.zhihu.com/question/319145946/answer/647107250>
 - Choice about IR, SSA or ANF? <https://discuss.tvm.ai/t/choice-about-ir-ssa-or-anf/1757>
+- A Survey on Compiler Autotuning using Machine Learning: <https://arxiv.org/pdf/1801.04405.pdf>
+- Zheng Wang, Machine Learning in Compiler Optimisation: <https://arxiv.org/pdf/1805.03441.pdf>
+- Jeff Dean, Machine Learning for Systems and Systems for Machine Learning: <http://learningsys.org/nips17/assets/slides/dean-nips17.pdf>
+- NIPS'16, deep learning jit opt, Knet: beginning deep learning with 100 lines of Julia, <http://www2.denizyuret.com/bib/yuret/yuret2016knet/knet-beginning-deep%20(3).pdf>
 
 
 
