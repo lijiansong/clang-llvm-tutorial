@@ -33,6 +33,7 @@
 - Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)
 - Latex gallery, checkout this page: <https://www.overleaf.com/gallery>
 - Python graph gallery, checkout this page: <https://python-graph-gallery.com>
+- Demo scripts for gnuplot version 5: <http://gnuplot.sourceforge.net/demo_5.3/> and <http://people.duke.edu/~hpgavin/gnuplot.html>
 - GitHub page with [middleman](https://medium.com/@ryanswapp/build-a-blog-with-middleman-and-host-on-github-pages-aab82a7fc56e)
 - A short tutorial for latex, see this [page](http://www.mohu.org/info/lshort-cn.pdf) & a tiny book about `awk` checkout this [page](http://awk.readthedocs.io/en/latest/index.html)
 - A nice book about open-source project, <Producing Open Source Software: How to Run a Successful Free Software Project>, checkout this [page](https://producingoss.com)

@@ -37,6 +37,7 @@
 - LLVM FPGA: <https://llvm.org/devmtg/2014-10/Slides/Baker-CustomHardwareStateMachines.pdf>
 - NUMA, checkout this page: <http://cenalulu.github.io/linux/numa/>
 - Intel Haswell arch, see wiki page: <https://en.wikipedia.org/wiki/Haswell_(microarchitecture)>
+- Intel Xeon Phi(MIC) and GPU: <https://www.lrz.de/services/compute/courses/x_lecturenotes/MIC_GPU_Workshop/MIC-AND-GPU-2015.pdf>
 - Introduction to Parallel Algorithms and Parallel Program Design, checkout this slide: <http://ipcc.cs.uoregon.edu/lectures/lecture-12-algorithms.pdf>
 - OpenARC: Open Accelerator Research Compiler, <https://ft.ornl.gov/research/openarc> and related publications: <https://ft.ornl.gov/publications>
 - Source Cetus: Source-to-source Compiler source Compiler Infrastructure for Multicores, checkout this slide: <https://engineering.purdue.edu/Cetus/Documentation/tutorials/ppopp09.pdf>
@@ -157,12 +158,14 @@
 - Hierarchical Data Format: <https://en.wikipedia.org/wiki/Hierarchical_Data_Format>
 - Python Memoization with Decorators: <https://www.python-course.eu/python3_decorators.php> and <https://www.python-course.eu/python3_memoization.php>
 - Python dict impl: <https://www.laurentluce.com/posts/python-dictionary-implementation/>
+- Python Coroutines and Tasks: <https://docs.python.org/3/library/asyncio-task.html>
 - glibc qsort implementation: <https://code.woboq.org/userspace/glibc/stdlib/qsort.c.html>
 - glibc stdlib source code: <https://code.woboq.org/userspace/glibc/stdlib/>
 - IBM cell processor: <http://meseec.ce.rit.edu/756-projects/spring2006/d2/6/cell-architecture-final.pdf>
 - SPM-based manycore example, rexcomputing: <http://rexcomputing.com>
 - Term, thrashing: <https://en.wikipedia.org/wiki/Thrashing_(computer_science)>
 - ISCA'18, Generic System Calls for GPUs, UVM and cache coherence ease programmability: <https://iscaconf.org/isca2018/slides/9B4.pdf> and github repo: <https://github.com/RadeonOpenCompute/ROCT_syscall>
+- ASPLOS'19, pLock: A Fast Lock for Sunway Taihulight: <http://alchem.usc.edu/portal/static/download/swlock.pdf>
 - Literal pool in ARM: <http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0473h/Bgbccbdi.html> and <http://benno.id.au/blog/2009/01/02/literal-pools>
 - Sockets vs. RDMA Interface over 10-Gigabit Networks: An In-depth Analysis of the Memory Traffic Bottleneck: <http://mvapich.cse.ohio-state.edu/static/media/publications/slide/balaji_10gige.pdf>
 - TVM and XLA/HLO: <https://github.com/dmlc/tvm/issues/151>
