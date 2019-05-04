@@ -170,6 +170,7 @@
 - MergeFunctions pass, <http://llvm.org/docs/MergeFunctions.html>
 - Inst combine maybe invalid, <https://llvm.org/devmtg/2014-10/Slides/Menendez-Alive.pdf>
 - ALIVe: Automatic LLVM InstCombine Verifier, <https://blog.regehr.org/archives/1170>
+- PACT'18: Annotate C programs automatically with OpenMP directives: <http://cuda.dcc.ufmg.br/taskminer/PACT18_Presentation.pdf> and GitHub repo: <https://github.com/gleisonsdm/TaskMiner>
 - constant folding: <http://www.duskborn.com/optimizing-llvm-ir-from-the-c-api/> and llvm official example: <https://llvm.org/docs/tutorial/OCamlLangImpl4.html> and slide: <http://www.cse.chalmers.se/edu/year/2014/course/TDA282/lect08-2x2.pdf>
 - Super-optimizing LLVM IR, Analysing expressions, for modules, e.g.: Constant folding, Reduce to sub-expression, Unused variables and Rule reduction. <http://llvm.org/devmtg/2011-11/Sands_Super-optimizingLLVMIR.pdf>
 - llvm disable dag combiner in O0, <http://lists.llvm.org/pipermail/llvm-dev/2016-May/099688.html>
