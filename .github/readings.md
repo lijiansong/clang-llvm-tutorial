@@ -178,6 +178,12 @@
 - Zheng Wang, Machine Learning in Compiler Optimisation: <https://arxiv.org/pdf/1805.03441.pdf>
 - Jeff Dean, Machine Learning for Systems and Systems for Machine Learning: <http://learningsys.org/nips17/assets/slides/dean-nips17.pdf>
 - NIPS'16, deep learning jit opt, Knet: beginning deep learning with 100 lines of Julia, <http://www2.denizyuret.com/bib/yuret/yuret2016knet/knet-beginning-deep%20(3).pdf>
+- EuroLLVM'19, by Chris Lattner, MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure: <https://www.youtube.com/watch?v=qzljG6DKgic>
+- EuroLLVM'19, Tutorial: Building a Compiler with MLIR: <http://www.llvm.org/devmtg/2019-04/slides/Tutorial-AminiVasilacheZinenko-MLIR.pdf> 
+- EuroLLVM'19, by Thomas Joerg, Automated GPU Kernel Fusion with XLA: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Joerg-Automated_GPU_Kernel_Fusion_with_XLA.pdf>
+- EuroLLVM'19, Just compile it: High-level programming on the GPU with Julia: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Besard-Just_compile_it_high_level_programming_on_the_GPU_with_Julia.pdf>
+- EuroLLVM'19, Building an LLVM-based tool: lessons learned: <http://www.llvm.org/devmtg/2019-04/slides/Tutorial-Denisov-Building_an_LLVM_based_tool.pdf>
+- EuroLLVM'19, Loop Fusion, Loop Distribution and their Place in the Loop Optimization Pipeline: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Barton-Loop_fusion_loop_distribution_and_their_place_in_the_loop_optimization_pipeline.pdf>
 
 
 
