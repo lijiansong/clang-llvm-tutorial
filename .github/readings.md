@@ -99,7 +99,8 @@
 - Book reading: Intel Threading Building Blocks OutFitting C++ for Multi-Core Processor Parallelism[.](http://index-of.es/Programming/C++/O'Reilly%20Intel%20Threading%20Building%20Blocks%20OutFitting%20C++%20for%20Multi-Core%20Processor%20Parallelism.pdf)
 - Tensor Come of Age, Why the AI revolution will help HPC: <https://arxiv.org/pdf/1709.09108.pdf>
 - Alignment in C: Seminar “Effiziente Programmierung in C” <https://wr.informatik.uni-hamburg.de/_media/teaching/wintersemester_2013_2014/epc-14-haase-svenhendrik-alignmentinc-paper.pdf>
-- An in-depth look at Google’s first Tensor Processing Unit (TPU)[.](https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu)
+- An in-depth look at Google’s first Tensor Processing Unit (TPU): <https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu>
+- What makes TPUs fine-tuned for deep learning? <https://cloud.google.com/blog/products/ai-machine-learning/what-makes-tpus-fine-tuned-for-deep-learning>
 - Expression Template Vectorization: <https://arxiv.org/pdf/1109.1264.pdf> and <https://uni.edu/ajur/v10n4/Progsch%20et%20al%20pp%201-10.pdf>
 - book reading, Modern C++ Design: Generic Programming and Design Patterns Applied[.](https://www.mimuw.edu.pl/~mrp/cpp/SecretCPP/Addison-Wesley%20-%20Modern%20C++%20Design.%20Generic%20Programming%20and%20Design%20Patterns%20Applied.pdf)
 - CRTP, Curiously Recurring Template Pattern: <https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern> and <https://3aec1b23-a-eadc3f87-s-sites.googlegroups.com/a/gertrudandcope.com/info/Publications/InheritedTemplate.pdf?attachauth=ANoY7cr9fcwxMyKM5ODngV9meEW6xkI1EXOuLnchY9hVjWJyyZYsX8y1rM7BJ7i3_COFNGHlkANyXma4OoWjF8cqVOJHWcqReNPCESEO5HQSmqPZkeSJr_Im3aWl516M-mlet2R9NdKvslJxpWIbI9myoArJqelMQcQb16ZZuaUk9RbsPH4Rg8LjMD2eC6TZKGWSiPPTeOF4uKrQsiCJutEArefOETxGgYFFy0HzDAXY8M_MUpQ1UzA%3D&attredirects=0>
@@ -184,6 +185,7 @@
 - EuroLLVM'19, Just compile it: High-level programming on the GPU with Julia: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Besard-Just_compile_it_high_level_programming_on_the_GPU_with_Julia.pdf>
 - EuroLLVM'19, Building an LLVM-based tool: lessons learned: <http://www.llvm.org/devmtg/2019-04/slides/Tutorial-Denisov-Building_an_LLVM_based_tool.pdf>
 - EuroLLVM'19, Loop Fusion, Loop Distribution and their Place in the Loop Optimization Pipeline: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Barton-Loop_fusion_loop_distribution_and_their_place_in_the_loop_optimization_pipeline.pdf>
+- EECC756, Systolic Architectures: <http://web.cecs.pdx.edu/~mperkows/temp/May22/0020.Matrix-multiplication-systolic.pdf>
 
 
 
