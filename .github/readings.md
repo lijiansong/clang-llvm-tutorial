@@ -99,6 +99,7 @@
 - Book reading: Intel Threading Building Blocks OutFitting C++ for Multi-Core Processor Parallelism[.](http://index-of.es/Programming/C++/O'Reilly%20Intel%20Threading%20Building%20Blocks%20OutFitting%20C++%20for%20Multi-Core%20Processor%20Parallelism.pdf)
 - Tensor Come of Age, Why the AI revolution will help HPC: <https://arxiv.org/pdf/1709.09108.pdf>
 - Alignment in C: Seminar “Effiziente Programmierung in C” <https://wr.informatik.uni-hamburg.de/_media/teaching/wintersemester_2013_2014/epc-14-haase-svenhendrik-alignmentinc-paper.pdf>
+- Compiler bootstrapping: <https://en.wikipedia.org/wiki/Bootstrapping_(compilers)>
 - An in-depth look at Google’s first Tensor Processing Unit (TPU): <https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu>
 - What makes TPUs fine-tuned for deep learning? <https://cloud.google.com/blog/products/ai-machine-learning/what-makes-tpus-fine-tuned-for-deep-learning>
 - Expression Template Vectorization: <https://arxiv.org/pdf/1109.1264.pdf> and <https://uni.edu/ajur/v10n4/Progsch%20et%20al%20pp%201-10.pdf>
@@ -138,6 +139,7 @@
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
 - Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
 - Notes on Programming Standard ML of New Jersey: <http://www.cs.cornell.edu/riccardo/prog-smlnj/notes-011001.pdf> and basic polymorphic typechecking: <https://www.classes.cs.uchicago.edu/archive/2016/fall/22600-1/docs/polymorphism.pdf>
+- Building A C Compiler Type System: <http://blog.robertelder.org/building-a-c-compiler-type-system-the-formidable-declarator/>
 - Graph coloring problem slide: <http://www.sci.brooklyn.cuny.edu/~amotz/GC-ALGORITHMS/PRESENTATIONS/coloring.pdf>
 - LLVM simple MachineInstr-level dead-code-elimination pass: <http://web.mit.edu/freebsd/head/contrib/llvm/lib/CodeGen/DeadMachineInstructionElim.cpp> and <https://blog.quarkslab.com/global-dead-code-elimination-for-llvm-revisited.html>
 - LCPC'05, Revisiting graph coloring register allocation: a study of the chaitin-briggs and callahan-koblenz algorithms, <https://llvm.org/pubs/2005-10-20-LCPC-RegAlloc.pdf>
@@ -173,8 +175,11 @@
 - XLA and Polyhedral Compilation through LLVM Polly: <https://github.com/tensorflow/tensorflow/issues/8100>
 - DON’T UNROLL ADJOINT: DIFFERENTIATING SSA-FORM PROGRAMS: <https://arxiv.org/pdf/1810.07951.pdf>
 - DLVM: A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS: <https://arxiv.org/pdf/1711.03016.pdf>
+- TVM Relay IR, rfc: <https://github.com/dmlc/tvm/pull/1672> and issue: <https://github.com/dmlc/tvm/issues/1673>
 - TVM discussion about Google's MLIR: <https://discuss.tvm.ai/t/google-lasted-work-mlir-primer/1721> and the discussion @zhihu: <https://www.zhihu.com/question/319145946/answer/647107250>
 - Choice about IR, SSA or ANF? <https://discuss.tvm.ai/t/choice-about-ir-ssa-or-anf/1757>
+- Automatic Differentiation in Machine Learning: a Survey: <https://arxiv.org/pdf/1502.05767.pdf>
+- Announcing TensorFlow Fold: Deep Learning With `Dynamic Computation Graphs`: <https://ai.googleblog.com/2017/02/announcing-tensorflow-fold-deep.html> and ICLR'17, Deep Learning with Dynamic Computation Graphs: <https://arxiv.org/pdf/1702.02181.pdf>
 - A Survey on Compiler Autotuning using Machine Learning: <https://arxiv.org/pdf/1801.04405.pdf>
 - Zheng Wang, Machine Learning in Compiler Optimisation: <https://arxiv.org/pdf/1805.03441.pdf>
 - Jeff Dean, Machine Learning for Systems and Systems for Machine Learning: <http://learningsys.org/nips17/assets/slides/dean-nips17.pdf>
