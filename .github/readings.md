@@ -191,6 +191,10 @@
 - EuroLLVM'19, Building an LLVM-based tool: lessons learned: <http://www.llvm.org/devmtg/2019-04/slides/Tutorial-Denisov-Building_an_LLVM_based_tool.pdf>
 - EuroLLVM'19, Loop Fusion, Loop Distribution and their Place in the Loop Optimization Pipeline: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Barton-Loop_fusion_loop_distribution_and_their_place_in_the_loop_optimization_pipeline.pdf>
 - EECC756, Systolic Architectures: <http://web.cecs.pdx.edu/~mperkows/temp/May22/0020.Matrix-multiplication-systolic.pdf>
+- PLDI'19 @ ARRAY'19: TeIL: a type-safe imperative Tensor Intermediate Language, <https://pldi19.sigplan.org/details/ARRAY-2019-papers/2/TeIL-a-type-safe-imperative-Tensor-Intermediate-Language>
+- PLDI'19 @ ARRAY'19: <https://pldi19.sigplan.org/home/ARRAY-2019#event-overview>
+- PLDI'19: SA-SPM: An Efficient Compiler for Security Aware Scratchpad Memory (Invited)[.](https://conf.researchr.org/details/LCTES-2019/LCTES-2019-papers/16/SA-SPM-An-Efficient-Compiler-for-Security-Aware-Scratchpad-Memory-Invited-)
+- PLDI'19: Microsoft Research, India, Compiling KB-Sized Machine Learning Models to Tiny IoT Devices[.](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/paper.pdf)
 
 
 
