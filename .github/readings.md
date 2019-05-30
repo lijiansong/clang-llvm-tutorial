@@ -195,6 +195,8 @@
 - PLDI'19 @ ARRAY'19: <https://pldi19.sigplan.org/home/ARRAY-2019#event-overview>
 - PLDI'19: SA-SPM: An Efficient Compiler for Security Aware Scratchpad Memory (Invited)[.](https://conf.researchr.org/details/LCTES-2019/LCTES-2019-papers/16/SA-SPM-An-Efficient-Compiler-for-Security-Aware-Scratchpad-Memory-Invited-)
 - PLDI'19: Microsoft Research, India, Compiling KB-Sized Machine Learning Models to Tiny IoT Devices[.](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/paper.pdf)
+- PLDI'18 @ ARRAY'18: Inner Array Inlining for Structure of Arrays Layout
+- Euromicro International Conference on Parallel, Distributed, and Network-Based Processing'13: Impact of Data Structure Layout on Performance[.](http://www4.di.uminho.pt/~jls/pdp2013pub.pdf)
 
 
 
