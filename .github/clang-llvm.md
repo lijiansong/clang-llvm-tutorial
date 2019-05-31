@@ -190,6 +190,7 @@
 - copy elision optimization: <https://en.wikipedia.org/wiki/Copy_elision>
 - jump threading, checkout wiki: <https://en.wikipedia.org/wiki/Jump_threading> and this blog: <http://beza1e1.tuxen.de/articles/jump_threading.html> and Generalized Jump Threading in [libFIRM](https://pp.ipd.kit.edu/uploads/publikationen/priesner17masterarbeit.pdf) and opt patches in llvm: <https://github.com/llvm-mirror/llvm/commit/a98fd55665d422389d69d94efe631fac93d11173> and this patch: <https://reviews.llvm.org/D22779>
 - Dump cpp object memory layout with clang: <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
+- Object Model: <https://en.wikipedia.org/wiki/Object_model>
 - C++ variadic templates and pattern matching in functional languages: What Does Haskell Have to Do with C++[?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/)
 - Tail calls and their elimination : <https://lamp.epfl.ch//files/content/sites/lamp/files/teaching/advanced-compiler-construction/spring-2016/acc16_10_tail-calls.pdf>
 - Dwarf Format: <http://www.dwarfstd.org/doc/Debugging%20using%20DWARF.pdf>

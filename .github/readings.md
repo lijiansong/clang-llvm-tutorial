@@ -49,6 +49,7 @@
 - asm inline testcases in clang: <https://github.com/llvm-mirror/clang/blob/master/test/CodeGen/asm.c>
 - heap vs stack, <https://www.gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html>
 - MMU, Memory management unit, <https://en.wikipedia.org/wiki/Memory_management_unit>
+- Hardware memory models: x86-TSO, <https://www.cs.rice.edu/~johnmc/comp522/lecture-notes/COMP522-2019-Lecture9-HW-MM.pdf>
 - Linux Package Managers: <https://en.wikipedia.org/wiki/Package_manager>
 - Applying Temporal Blocking with a Directive‐based Approach, <https://llvm-hpc4-workshop.github.io/slides/Endo.pdf>
 - Improving Compiler Optimizations using Program Annotations, <https://sisl.rites.uic.edu/static/pics/thesis-2.pdf>
@@ -197,6 +198,7 @@
 - PLDI'19: Microsoft Research, India, Compiling KB-Sized Machine Learning Models to Tiny IoT Devices[.](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/paper.pdf)
 - PLDI'18 @ ARRAY'18: Inner Array Inlining for Structure of Arrays Layout
 - Euromicro International Conference on Parallel, Distributed, and Network-Based Processing'13: Impact of Data Structure Layout on Performance[.](http://www4.di.uminho.pt/~jls/pdp2013pub.pdf)
+
 
 
 
