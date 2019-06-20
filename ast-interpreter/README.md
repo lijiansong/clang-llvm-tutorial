@@ -10,7 +10,7 @@ $ make
 $ ./ast-interpreter "`cat ./test/test_file_name`"
 ```
 
-If you want tp rebuild it, you can take use of `make clean` in the command line.
+If you want to rebuild it, you can take use of `make clean` in the command line.
 
 For more info, see [here...](https://github.com/lijiansong/Postgraduate-Course/tree/master/Compilation/Clang%20%26%20LLVM%20Tutorial/hw1)
 
