@@ -1,4 +1,5 @@
 ## RESOURCES for Clang & LLVM
+
 - use llvm to develop a new programming language, see this [page](http://llvm-tutorial-cn.readthedocs.io/en/latest/index.html) and the original source [page](http://llvm.org/docs/tutorial/index.html)
 - Filesystem Hierarchy Standard, see this [page](http://www.pathname.com/fhs/pub/fhs-2.3.html)
 - CSc 453: Compilers and Systems Software, see this [PAGE](https://www2.cs.arizona.edu/classes/cs453/fall15/)
@@ -11,6 +12,7 @@
 - [x] CMU, 15-411: Compiler Design, nice compiler design course, see its course [PAGE](https://www.cs.cmu.edu/~fp/courses/15411-f08/index.html)
 - Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
+- Stanford CS242: Programming Languages, <https://cs242.stanford.edu/f18/>
 - WISC CS704: Principles of Programming Languages, class notes: <http://pages.cs.wisc.edu/~horwitz/CS704-NOTES/> and its git repo: <https://github.com/barghouthi/cs704>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
@@ -135,6 +137,7 @@
 - Generic Offload File Bundler Tool: <http://clang-developers.42468.n3.nabble.com/RFC-OpenMP-CUDA-Generic-Offload-File-Bundler-Tool-td4050147.html> and [example](https://chromium.googlesource.com/external/github.com/llvm-mirror/clang/+/refs/heads/master/test/Driver/openmp-offload-gpu.c)
 - OpenMP offloading support, checkout this slide: <https://llvm-hpc3-workshop.github.io/slides/Bertolli.pdf> and paper: <https://researcher.watson.ibm.com/researcher/files/us-zsura/17_llvmATSC2016.pdf>
 - Clang c++0x support status: <http://clang.llvm.org/cxx_status.html>
+- C++ compiler support: <https://en.cppreference.com/w/cpp/compiler_support>
 - talk: How to Design a Language Integrated CUDA Compiler with LLVM, see [here](https://pdfs.semanticscholar.org/presentation/92d6/8c5f0c85a869df02c3f0bfdddf6c02ae44a2.pdf)
 - Offload action usage, see clang driver: <https://github.com/llvm-mirror/clang/blob/master/lib/Driver/Driver.cpp#L3557-L3578>
 - clang code tree: <https://llvm.org/devmtg/2017-06/2-Hal-Finkel-LLVM-2017.pdf>
@@ -156,6 +159,7 @@
 - CPEG 421/621 Compiler Design, Instruction Selection, checkout these two slides: [1](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2a-Instruction_Selection.pdf) and [2](http://www.capsl.udel.edu/courses/cpeg421/2012/slides/Topic-2b.pdf)
 - How to Write Fast Numerical Code 263-2300 (ETH, CS): <https://www.inf.ethz.ch/personal/markusp/teaching/263-2300-ETH-spring15/course.html> and [slides](https://www.inf.ethz.ch/personal/markusp/teaching/263-2300-ETH-spring11/slides/)
 - survey on register allocation: <http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf> and how to write an llvm resiter allocator: <https://github.com/nael8r/How-To-Write-An-LLVM-Register-Allocator/blob/master/HowToWriteAnLLVMRegisterAllocator.rst> and llvm devmt: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and graph coloring register allocator example: <https://github.com/joaotavio/llvm-register-allocator>
+- JIT Compiler vs JIT Interpreter vs AOT Compiler: <https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp> and <https://aboullaite.me/understanding-jit-compiler-just-in-time-compiler/>
 - Google group on register allocation in llvm: <https://groups.google.com/forum/#!topic/llvm-dev/R3VOsHAg9qw>
 - LLVM Linear Scan Register allocator, checkout its developer meeting slide: <https://llvm.org/devmtg/2011-11/Olesen_RegisterAllocation.pdf> and CGO'10 paper: <http://www.christianwimmer.at/Publications/Wimmer10a/Wimmer10a.pdf> and paper: <https://www2.seas.gwu.edu/~hchoi/teaching/cs160d/linearscan.pdf>
 - Linear Scan Register Allocation for the Java HotSpot Client Compiler, master thesis: <http://www.ssw.uni-linz.ac.at/Research/Papers/Wimmer04Master/Wimmer04Master.pdf>
@@ -190,12 +194,18 @@
 - copy elision optimization: <https://en.wikipedia.org/wiki/Copy_elision>
 - jump threading, checkout wiki: <https://en.wikipedia.org/wiki/Jump_threading> and this blog: <http://beza1e1.tuxen.de/articles/jump_threading.html> and Generalized Jump Threading in [libFIRM](https://pp.ipd.kit.edu/uploads/publikationen/priesner17masterarbeit.pdf) and opt patches in llvm: <https://github.com/llvm-mirror/llvm/commit/a98fd55665d422389d69d94efe631fac93d11173> and this patch: <https://reviews.llvm.org/D22779>
 - Dump cpp object memory layout with clang: <https://eli.thegreenplace.net/2012/12/17/dumping-a-c-objects-memory-layout-with-clang/>
+- Value Range Propagation(VRP) in LLVM: <https://www.jantar.org/talks/zadarnowski03vrp.pdf> and 
 - Object Model: <https://en.wikipedia.org/wiki/Object_model>
 - C++ variadic templates and pattern matching in functional languages: What Does Haskell Have to Do with C++[?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/)
 - Tail calls and their elimination : <https://lamp.epfl.ch//files/content/sites/lamp/files/teaching/advanced-compiler-construction/spring-2016/acc16_10_tail-calls.pdf>
 - Dwarf Format: <http://www.dwarfstd.org/doc/Debugging%20using%20DWARF.pdf>
 - Philosophy behind LLVM debugging information <http://llvm.org/docs/SourceLevelDebugging.html#philosophy-behind-llvm-debugging-information>
+- Multicore OCaml memory model: <https://github.com/ocaml-multicore/ocaml-multicore/wiki>
 - A Detailed Analysis of the LLVM's Register Allocators, checkout this paper in [SCCC'12](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators)
+- Type system: <http://web.cs.iastate.edu/~weile/cs440.540/5.SemanticAnalysis.types.pdf>
+- Coq, a formal proof management system: <https://coq.inria.fr/>
+- Remove Deprecated Use of the register Keyword: <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4340>
+
 
 
 
