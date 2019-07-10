@@ -25,11 +25,13 @@
 - U.C. Berkeley CS267, Applications of Parallel Computers[.](https://people.eecs.berkeley.edu/~demmel/cs267_Spr12/)
 - CMU 15745-s11, pointer analysis, lecture slide: <http://www.cs.cmu.edu/afs/cs/academic/class/15745-s11/public/lectures/L27-Pointer-Analysis.pdf>
 - Harvard, CS252 , pointer analysis, lecture slide: <https://www.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf>
+- Nice flex & bison man page: <http://dinosaur.compilertools.net>
 - Point to analysis, checkout this page: <https://yanniss.github.io/points-to-tutorial15.pdf>
 - For `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
 - Computer science colleges, checkout this page: <http://www.oonumerics.org/>
 - Liveness analysis, checkout this slide: <https://www.cs.colostate.edu/~cs453/yr2014/Slides/27-DFintro.ppt.pdf>
+- The OpenGL Shading Language, design specific: <https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf>
 - For MIPS architecture, checkout the book < `See MIPS Run` > and its ABI document, see this [PAGE](https://www.linux-mips.org/pub/linux/mips/doc/ABI/)
 - CMU, linker basic concepts, see this [PAGE](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/11-linking.pdf)
 - Tutorial: Creating an LLVM Backend for the Cpu0 Architecture, checkout this [PAGE](https://jonathan2251.github.io/lbd/)

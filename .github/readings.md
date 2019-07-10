@@ -1,4 +1,5 @@
 # READings
+
 - Fast and slow if-statements: branch prediction in modern processors: <http://igoro.com/archive/fast-and-slow-if-statements-branch-prediction-in-modern-processors/>
 - avrlibc `malloc` implementation details, checkout this page: <https://www.cs.ou.edu/~fagg/classes/general/atmel/avr-libc-user-manual-1.7.1.pdf>
 - wikipedia, vector processor: <https://en.wikipedia.org/wiki/Vector_processor>
@@ -85,6 +86,11 @@
 - Master Thesis: The Insieme Compiler Frontend: A Clang-based C/C++ Frontend, <http://insieme-compiler.org/pub/master_thesis_hoeckner.pdf>
 - Tensor networks and machine learning: <http://kits.ucas.ac.cn/images/articles/2017/Machine_Learning/conference/MilesStoudenmire.pdf> and <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/oseledets_ivan_tmcv2017.pdf>
 - Tensor networks and deep learning, checkout this slide: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/cichocki_andrzej_tmcv2017.pdf>
+- A. Einstein, The Foundation of the Generalised Theory of Relativity, Section B about `Tensor`: <https://en.wikisource.org/wiki/The_Foundation_of_the_Generalised_Theory_of_Relativity>
+- Tensor history: <https://en.wikipedia.org/wiki/Tensor#History>
+- Vector field: <https://en.wikipedia.org/wiki/Vector_field>
+- de Bruijn index in mathematical logic: <https://en.wikipedia.org/wiki/De_Bruijn_index>
+- Compiler rewriting system: Quick Introduction to Term Rewriting, <http://www.meta-environment.org/doc/books/extraction-transformation/term-rewriting/term-rewriting.html>
 - CS230, CNN cheatsheet: <http://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks>
 - Image convolution understanding via OpenCV and Python: <https://www.pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/>
 - Accelerator Compiler for the VENICE Vector Processor[.](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37671.pdf)
@@ -198,6 +204,13 @@
 - PLDI'19: Microsoft Research, India, Compiling KB-Sized Machine Learning Models to Tiny IoT Devices[.](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/paper.pdf)
 - PLDI'18 @ ARRAY'18: Inner Array Inlining for Structure of Arrays Layout
 - Euromicro International Conference on Parallel, Distributed, and Network-Based Processing'13: Impact of Data Structure Layout on Performance[.](http://www4.di.uminho.pt/~jls/pdp2013pub.pdf)
+- Domain Driven Design, DDD Quickly: <http://www.carfield.com.hk/document/software+design/dddquickly.pdf>
+- Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim: <https://arxiv.org/pdf/1903.06495.pdf>
+- Why Google Stores Billions of Lines of Code in a Single Repository: <https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext>
+- ARRAY'14, NOVA: A Functional Language for Data Parallelism: <https://dl.acm.org/citation.cfm?id=2627375>
+- How to Use Performance Monitor Unit(PMU) of 64-bit ARMv8-A in Linux: <http://zhiyisun.github.io/2016/03/02/How-to-Use-Performance-Monitor-Unit-(PMU)-of-64-bit-ARMv8-A-in-Linux.html>
+- A very interesting work for Scenario Specification and Scene Generation @PLDI'19: Scenic: A Language for Scenario Specification and Scene Generation: <https://math.berkeley.edu/~dfremont/papers/PLDI19.pdf> and <https://arxiv.org/pdf/1809.09310.pdf>
+- Nice community: Haifa Linux Users Group: <http://haifux.org>
 
 
 
