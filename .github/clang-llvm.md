@@ -13,6 +13,7 @@
 - Stanford CS143 Compilers: <http://www.keithschwarz.com/cs143/WWW/sum2011/> or this page: <http://web.stanford.edu/class/cs143/>
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
 - Stanford CS242: Programming Languages, <https://cs242.stanford.edu/f18/>
+- USTC, Spring 2017, Foundations of Programming Languages, <http://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html>
 - WISC CS704: Principles of Programming Languages, class notes: <http://pages.cs.wisc.edu/~horwitz/CS704-NOTES/> and its git repo: <https://github.com/barghouthi/cs704>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
@@ -59,7 +60,8 @@
 - tmux tips, checkout this [blog](http://blog.csdn.net/simple_the_best/article/details/51360778)
 - clang attribute metadata see [how to change clang](https://github.com/llvm-mirror/clang/blob/master/docs/InternalsManual.rst#how-to-change-clang), while for CUDA NVPTX backend info of `kernel` keyword, see NVPTXUage [page](http://llvm.org/docs/NVPTXUsage.html#conventions)
 - [rsync resume after being interrupted](https://unix.stackexchange.com/questions/48298/can-rsync-resume-after-being-interrupted) and [broken pipe](https://askubuntu.com/questions/127369/how-to-prevent-write-failed-broken-pipe-on-ssh-connection)
-- spend some time reading the src of clang & llvm
+- Spend some time reading the src of clang & llvm
+- Clang AST source and how to implement an ASTDumper: <http://clang.llvm.org/docs/IntroductionToTheClangAST.html>
 - Linux remote desktop software, see [here](https://www.nomachine.com/DT07M00078) and its remote desktop environment, checkout this [page](https://www.nomachine.com/AR07K00676)
 - how to generate `ManPage` on linux-like system, checkout this [page](http://www.linuxjournal.com/content/creating-custom-man-pages)
 - [Create a working compiler with the LLVM framework](https://www.ibm.com/developerworks/library/os-createcompilerllvm2/index.html)

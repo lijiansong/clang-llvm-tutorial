@@ -183,6 +183,8 @@
 - DON’T UNROLL ADJOINT: DIFFERENTIATING SSA-FORM PROGRAMS: <https://arxiv.org/pdf/1810.07951.pdf>
 - DLVM: A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS: <https://arxiv.org/pdf/1711.03016.pdf>
 - TVM Relay IR, rfc: <https://github.com/dmlc/tvm/pull/1672> and issue: <https://github.com/dmlc/tvm/issues/1673>
+- TVM Relay: <https://docs.tvm.ai/langref/index.html>
+- TVM Relay C++ front-end plan: <https://github.com/dmlc/tvm/issues/2685>
 - TVM discussion about Google's MLIR: <https://discuss.tvm.ai/t/google-lasted-work-mlir-primer/1721> and the discussion @zhihu: <https://www.zhihu.com/question/319145946/answer/647107250>
 - Choice about IR, SSA or ANF? <https://discuss.tvm.ai/t/choice-about-ir-ssa-or-anf/1757>
 - Automatic Differentiation in Machine Learning: a Survey: <https://arxiv.org/pdf/1502.05767.pdf>
@@ -211,6 +213,10 @@
 - How to Use Performance Monitor Unit(PMU) of 64-bit ARMv8-A in Linux: <http://zhiyisun.github.io/2016/03/02/How-to-Use-Performance-Monitor-Unit-(PMU)-of-64-bit-ARMv8-A-in-Linux.html>
 - A very interesting work for Scenario Specification and Scene Generation @PLDI'19: Scenic: A Language for Scenario Specification and Scene Generation: <https://math.berkeley.edu/~dfremont/papers/PLDI19.pdf> and <https://arxiv.org/pdf/1809.09310.pdf>
 - Nice community: Haifa Linux Users Group: <http://haifux.org>
+- Franco Barbanera, Short Introduction to Functional Programming and Lambda-calculus: <http://www.dmi.unict.it/~barba/FOND-LING-PROG-DISTR/PROGRAMMI-TESTI/READING-MATERIAL/ShortIntroFPprog-lang.htm> and <http://joycse06.github.io/blog/2016/07/intro-to-lambda-calculus-and-its-relation-to-functional-programming/>
+- Lambda calculus: <https://cs242.stanford.edu/f18/lectures/01-2-lambda-calculus.html>
+- Future Directions for Optimizing Compilers: <https://arxiv.org/pdf/1809.02161.pdf>
+- Book reading: `APL` is widely recognized as one of the  first array languages. It is inspired by mathematical notation and relies heavily on collective operations. APL is interpreted, thus it naturally allows for dynamic checkings. See book writen by John Wiley and et al at year 1962, A Programming Language: <http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE>
 
 
 
