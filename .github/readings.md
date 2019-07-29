@@ -217,8 +217,31 @@
 - Lambda calculus: <https://cs242.stanford.edu/f18/lectures/01-2-lambda-calculus.html>
 - Future Directions for Optimizing Compilers: <https://arxiv.org/pdf/1809.02161.pdf>
 - Book reading: `APL` is widely recognized as one of the  first array languages. It is inspired by mathematical notation and relies heavily on collective operations. APL is interpreted, thus it naturally allows for dynamic checkings. See book writen by John Wiley and et al at year 1962, A Programming Language: <http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE>
+- Nice book: Syntax and Semantics of Programming Languages: <http://www.divms.uiowa.edu/~slonnegr/plf/Book/>
+- A Comprehensive Introduction to Different Types of Convolutions in Deep Learning: <https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215> and Tensor Transpose: <https://arxiv.org/abs/1411.1503>
+- TensorFlow add new op: <https://www.tensorflow.org/guide/extend/op> and Ops: <>
+- Imperative programming: <https://en.wikipedia.org/wiki/Imperative_programming> and Declarative programming: <https://en.wikipedia.org/wiki/Declarative_programming>
+- Tensor Contrations Layers for Parsimonious Deep Nets: <https://ibug.doc.ic.ac.uk/media/uploads/documents/tensor_contraction_layers.pdf> and Role of Tensors in Deep Learning: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/anandkumar_anima_tmcv2017.pdf>
 
 
+
+**Fifteen nice and interesting blogs list:**
+
+- Paul Graham Essays: <http://www.paulgraham.com/articles.html>
+- Peter Krumins' blog: <https://catonmat.net>
+- Fluent C++: <http://www.fluentcpp.com>
+- Programming is terrible: <https://programmingisterrible.com>
+- Evan Klitzke: <https://eklitzke.org>
+- Brendan D. Gregg: <http://www.brendangregg.com/index.html>
+- Herb Sutter on software development: <https://herbsutter.com>
+- Eli Bendersky's website: <https://eli.thegreenplace.net>
+- Martin Fowler: <https://martinfowler.com>
+- The Clean Code  Blog: <http://blog.cleancoder.com>
+- Joel On Software: <https://www.joelonsoftware.com>
+- Coding Horror: <https://blog.codinghorror.com>
+- null program: <https://nullprogram.com/index/>
+- Julia Evans: <https://jvns.ca>
+- Hack Noon: <https://hackernoon.com>
 
 
 
