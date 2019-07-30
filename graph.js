@@ -30,7 +30,7 @@ $('#cy').cytoscape({
     .selector('node.faded')
       .css({
         'opacity': 'data(fadedOpacity)'
-        
+
       })
     .selector('edge.unfaded')
       .css({
@@ -44,7 +44,7 @@ $('#cy').cytoscape({
       })
       ,
       elements: elementData,
-  
+
   layout: {
     name: 'preset',
 
@@ -60,7 +60,7 @@ $('#cy').cytoscape({
   }
     ,
   hideLabelsOnViewport: false,
-  
+
   // on graph initial layout done (could be async depending on layout...)
   ready: function(){
     window.cy = this;
@@ -72,7 +72,7 @@ $('#cy').cytoscape({
     cy.elements().unselectify();
     cy.elements().lock();
     cy.on('tap', 'node', function(e){
-      var node = e.cyTarget; 
+      var node = e.cyTarget;
       if(hasBeenClicked)
       {
       		//alert(hasBeenClicked);
@@ -83,7 +83,7 @@ $('#cy').cytoscape({
       else
       {
       var neighborhood = node.neighborhood().add(node);
-      
+
       cy.elements().addClass('faded');
       neighborhood.removeClass('faded');
       neighborhood.addClass('unfaded');
@@ -91,17 +91,14 @@ $('#cy').cytoscape({
       }
     });
     cy.on('tap', function(e){
-      
+
       if( e.cyTarget === cy ){
         cy.elements().removeClass('faded');
         cy.elements().removeClass('unfaded');
       }
     });
-    
+
   }
 });
 
 }); // on dom ready
-
-
-

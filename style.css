@@ -18,7 +18,7 @@ iframe
 }
 .navbar-inner {
 padding: 10px;
-background-color: #575c5f;
+background-color: #4CAF50;
 background-image: -moz-linear-gradient(top,#575c5f,#474b4e);
 background-image: -webkit-gradient(linear,0 0,0 100%,from(#575c5f),to(#474b4e));
 background-image: -webkit-linear-gradient(top,#575c5f,#474b4e);
@@ -34,14 +34,21 @@ border-radius: 4px;
 -moz-box-shadow: 0 2px 6px rgba(0,0,0,.125);
 box-shadow: 0 2px 6px rgba(0,0,0,.125);
 }
-
+.footer_outer {
+position: absolute;
+z-index: -1;
+bottom: 2px;
+margin-bottom: 2px;
+width: 99%;
+text-align: center;
+}
 .directions{
 color: #fff;
 font-weight: bold;
 letter-spacing: 1px;
 text-decoration: none;
 text-shadow: 0 -1px 0 #484c4f;
-text-transform: uppercase;
+/*text-transform: uppercase;*/
 }
 body { 
   font-family: Arial, Helvetica, sans-serif;
