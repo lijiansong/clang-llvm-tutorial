@@ -545,6 +545,7 @@ var elementData = { nodes: [
       { data: { source: 'modula', target: 'lua' } },
       { data: { source: 'clu', target: 'lua' } },
       { data: { source: 'c++', target: 'lua' } },
+      { data: { source: 'awk', target: 'lua' } },
       { data: { source: 's', target: 'r' } },
       { data: { source: 'smalltalk', target: 'self' } },
       { data: { source: 'c', target: 'zpl' } },
