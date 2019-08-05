@@ -213,6 +213,7 @@
 - How to Use Performance Monitor Unit(PMU) of 64-bit ARMv8-A in Linux: <http://zhiyisun.github.io/2016/03/02/How-to-Use-Performance-Monitor-Unit-(PMU)-of-64-bit-ARMv8-A-in-Linux.html>
 - A very interesting work for Scenario Specification and Scene Generation @PLDI'19: Scenic: A Language for Scenario Specification and Scene Generation: <https://math.berkeley.edu/~dfremont/papers/PLDI19.pdf> and <https://arxiv.org/pdf/1809.09310.pdf>
 - Nice community: Haifa Linux Users Group: <http://haifux.org>
+- Meta-programming and reflection: <https://stackoverflow.com/questions/7641881/is-metaprogramming-a-subset-of-reflection>
 - Franco Barbanera, Short Introduction to Functional Programming and Lambda-calculus: <http://www.dmi.unict.it/~barba/FOND-LING-PROG-DISTR/PROGRAMMI-TESTI/READING-MATERIAL/ShortIntroFPprog-lang.htm> and <http://joycse06.github.io/blog/2016/07/intro-to-lambda-calculus-and-its-relation-to-functional-programming/>
 - Lambda calculus: <https://cs242.stanford.edu/f18/lectures/01-2-lambda-calculus.html>
 - Future Directions for Optimizing Compilers: <https://arxiv.org/pdf/1809.02161.pdf>
@@ -221,6 +222,7 @@
 - A Comprehensive Introduction to Different Types of Convolutions in Deep Learning: <https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215> and Tensor Transpose: <https://arxiv.org/abs/1411.1503>
 - TensorFlow add new op: <https://www.tensorflow.org/guide/extend/op> and Ops: <>
 - Imperative programming: <https://en.wikipedia.org/wiki/Imperative_programming> and Declarative programming: <https://en.wikipedia.org/wiki/Declarative_programming>
+- Lua: <https://zh.wikipedia.org/wiki/Lua>
 - Tensor Contrations Layers for Parsimonious Deep Nets: <https://ibug.doc.ic.ac.uk/media/uploads/documents/tensor_contraction_layers.pdf> and Role of Tensors in Deep Learning: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/anandkumar_anima_tmcv2017.pdf>
 
 

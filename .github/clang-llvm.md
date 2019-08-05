@@ -14,6 +14,7 @@
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
 - Stanford CS242: Programming Languages, <https://cs242.stanford.edu/f18/>
 - USTC, Spring 2017, Foundations of Programming Languages, <http://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html>
+- Stanford CS103, Mathematical Foundations of Computing, <http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/>
 - WISC CS704: Principles of Programming Languages, class notes: <http://pages.cs.wisc.edu/~horwitz/CS704-NOTES/> and its git repo: <https://github.com/barghouthi/cs704>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
@@ -27,6 +28,7 @@
 - CMU 15745-s11, pointer analysis, lecture slide: <http://www.cs.cmu.edu/afs/cs/academic/class/15745-s11/public/lectures/L27-Pointer-Analysis.pdf>
 - Harvard, CS252 , pointer analysis, lecture slide: <https://www.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf>
 - Nice flex & bison man page: <http://dinosaur.compilertools.net>
+- A nice tutorial page: <https://www.tutorialspoint.com/>
 - Point to analysis, checkout this page: <https://yanniss.github.io/points-to-tutorial15.pdf>
 - For `linux inside`, you can checkout this [PAGE](https://0xax.gitbooks.io/linux-insides/content/)
 - A very nice website that introduces `The Architecture of Open Source Applications`, for more details checkout this [PAGE](http://www.aosabook.org/en/index.html), LLVM can be found [here](http://www.aosabook.org/en/llvm.html)
