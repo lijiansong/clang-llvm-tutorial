@@ -144,6 +144,8 @@
 - Automatic Optimization of the Computation Graph in the Nengo Neural Network Simulator[.](https://www.frontiersin.org/articles/10.3389/fninf.2017.00033/full)
 - Topological Sort Algorithm: <https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect20.pdf>
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
+- Calculus on Computational Graphs: Backpropagation, <https://colah.github.io/posts/2015-08-Backprop/>
+- Understanding Graphs, Automatic Differentiation and Autograd: <https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/>
 - Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
 - Notes on Programming Standard ML of New Jersey: <http://www.cs.cornell.edu/riccardo/prog-smlnj/notes-011001.pdf> and basic polymorphic typechecking: <https://www.classes.cs.uchicago.edu/archive/2016/fall/22600-1/docs/polymorphism.pdf>
 - Building A C Compiler Type System: <http://blog.robertelder.org/building-a-c-compiler-type-system-the-formidable-declarator/>
@@ -224,6 +226,8 @@
 - Imperative programming: <https://en.wikipedia.org/wiki/Imperative_programming> and Declarative programming: <https://en.wikipedia.org/wiki/Declarative_programming>
 - Lua: <https://zh.wikipedia.org/wiki/Lua>
 - Tensor Contrations Layers for Parsimonious Deep Nets: <https://ibug.doc.ic.ac.uk/media/uploads/documents/tensor_contraction_layers.pdf> and Role of Tensors in Deep Learning: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/anandkumar_anima_tmcv2017.pdf>
+- History of compiler construction: <https://en.wikipedia.org/wiki/History_of_compiler_construction>
+- Lectures on Constructive Functional Programming: <https://www.cs.ox.ac.uk/files/3390/PRG69.pdf>
 
 
 
