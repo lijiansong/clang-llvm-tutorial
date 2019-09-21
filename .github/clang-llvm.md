@@ -2,6 +2,7 @@
 
 - use llvm to develop a new programming language, see this [page](http://llvm-tutorial-cn.readthedocs.io/en/latest/index.html) and the original source [page](http://llvm.org/docs/tutorial/index.html)
 - Filesystem Hierarchy Standard, see this [page](http://www.pathname.com/fhs/pub/fhs-2.3.html)
+- Rochester, CSC 2/454, Programming Language Design and Implementation, by Prof. Michael Scott: <https://www.cs.rochester.edu/u/scott/courses/254/>
 - CSc 453: Compilers and Systems Software, see this [PAGE](https://www2.cs.arizona.edu/classes/cs453/fall15/)
 - CMU, CS745, Optimizing Compiler, see this [repo](http://www.cs.cmu.edu/afs/cs/academic/class/15745-s13/public/) and its course [page](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15745-s13/www/)
 - NYU，Compiler Construction， G22.2130.01，checkout this [PAGE](http://cs.nyu.edu/courses/fall04/G22.2130-001/)

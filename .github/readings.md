@@ -146,6 +146,7 @@
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
 - Calculus on Computational Graphs: Backpropagation, <https://colah.github.io/posts/2015-08-Backprop/>
 - Understanding Graphs, Automatic Differentiation and Autograd: <https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/>
+- Continuation in PL: <https://en.wikipedia.org/wiki/Continuation>
 - Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
 - Notes on Programming Standard ML of New Jersey: <http://www.cs.cornell.edu/riccardo/prog-smlnj/notes-011001.pdf> and basic polymorphic typechecking: <https://www.classes.cs.uchicago.edu/archive/2016/fall/22600-1/docs/polymorphism.pdf>
 - Building A C Compiler Type System: <http://blog.robertelder.org/building-a-c-compiler-type-system-the-formidable-declarator/>
@@ -186,6 +187,7 @@
 - DLVM: A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS: <https://arxiv.org/pdf/1711.03016.pdf>
 - TVM Relay IR, rfc: <https://github.com/dmlc/tvm/pull/1672> and issue: <https://github.com/dmlc/tvm/issues/1673>
 - TVM Relay: <https://docs.tvm.ai/langref/index.html>
+- TVM Relay ANTLR grammar: <https://github.com/dmlc/tvm/blob/master/python/tvm/relay/grammar/Relay.g4>
 - TVM Relay C++ front-end plan: <https://github.com/dmlc/tvm/issues/2685>
 - TVM discussion about Google's MLIR: <https://discuss.tvm.ai/t/google-lasted-work-mlir-primer/1721> and the discussion @zhihu: <https://www.zhihu.com/question/319145946/answer/647107250>
 - Choice about IR, SSA or ANF? <https://discuss.tvm.ai/t/choice-about-ir-ssa-or-anf/1757>
