@@ -193,6 +193,7 @@
 - Choice about IR, SSA or ANF? <https://discuss.tvm.ai/t/choice-about-ir-ssa-or-anf/1757>
 - Automatic Differentiation in Machine Learning: a Survey: <https://arxiv.org/pdf/1502.05767.pdf>
 - Announcing TensorFlow Fold: Deep Learning With `Dynamic Computation Graphs`: <https://ai.googleblog.com/2017/02/announcing-tensorflow-fold-deep.html> and ICLR'17, Deep Learning with Dynamic Computation Graphs: <https://arxiv.org/pdf/1702.02181.pdf>
+- TensorFlow Grappler optimizations: <https://web.stanford.edu/class/cs245/slides/TFGraphOptimizationsStanford.pdf>
 - A Survey on Compiler Autotuning using Machine Learning: <https://arxiv.org/pdf/1801.04405.pdf>
 - Zheng Wang, Machine Learning in Compiler Optimisation: <https://arxiv.org/pdf/1805.03441.pdf>
 - Jeff Dean, Machine Learning for Systems and Systems for Machine Learning: <http://learningsys.org/nips17/assets/slides/dean-nips17.pdf>
@@ -224,12 +225,16 @@
 - Book reading: `APL` is widely recognized as one of the  first array languages. It is inspired by mathematical notation and relies heavily on collective operations. APL is interpreted, thus it naturally allows for dynamic checkings. See book writen by John Wiley and et al at year 1962, A Programming Language: <http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE>
 - Nice book: Syntax and Semantics of Programming Languages: <http://www.divms.uiowa.edu/~slonnegr/plf/Book/>
 - A Comprehensive Introduction to Different Types of Convolutions in Deep Learning: <https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215> and Tensor Transpose: <https://arxiv.org/abs/1411.1503>
-- TensorFlow add new op: <https://www.tensorflow.org/guide/extend/op> and Ops: <>
+- TensorFlow add new op: <https://www.tensorflow.org/guide/extend/op>
+- C++ move semantics: <https://bulldogjob.com/articles/885-c-frequently-failed-interview-question> and 10 Proven C++ Programming Questions to Ask on Interview: <https://tests4geeks.com/cpp-interview-questions/>
+- Automatic Checking of the Usage of the C++11 Move Semantics: <https://pdfs.semanticscholar.org/226f/bce5dcd6d8ced30c253204342bbbfa246092.pdf>
 - Imperative programming: <https://en.wikipedia.org/wiki/Imperative_programming> and Declarative programming: <https://en.wikipedia.org/wiki/Declarative_programming>
 - Lua: <https://zh.wikipedia.org/wiki/Lua>
 - Tensor Contrations Layers for Parsimonious Deep Nets: <https://ibug.doc.ic.ac.uk/media/uploads/documents/tensor_contraction_layers.pdf> and Role of Tensors in Deep Learning: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/anandkumar_anima_tmcv2017.pdf>
 - History of compiler construction: <https://en.wikipedia.org/wiki/History_of_compiler_construction>
 - Lectures on Constructive Functional Programming: <https://www.cs.ox.ac.uk/files/3390/PRG69.pdf>
+- Effects of depth and width in DNN models: <https://stats.stackexchange.com/questions/214360/what-are-the-effects-of-depth-and-width-in-deep-neural-networks> and conclusion: wider residual networks allow many multiplications to be computed in parallel, whilst deeper residual networks use more sequential computations (since the computation depend on the previous layer).
+
 
 
 
