@@ -234,6 +234,7 @@
 - History of compiler construction: <https://en.wikipedia.org/wiki/History_of_compiler_construction>
 - Lectures on Constructive Functional Programming: <https://www.cs.ox.ac.uk/files/3390/PRG69.pdf>
 - Effects of depth and width in DNN models: <https://stats.stackexchange.com/questions/214360/what-are-the-effects-of-depth-and-width-in-deep-neural-networks> and conclusion: wider residual networks allow many multiplications to be computed in parallel, whilst deeper residual networks use more sequential computations (since the computation depend on the previous layer).
+- TVM GPU auto TensorCore CodeGen: <https://github.com/dmlc/tvm/issues/4105>
 
 
 
