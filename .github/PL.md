@@ -26,6 +26,10 @@ An interesting idea: 在计算图中引入continuation的概念，是否存在�
 
 ### 2. CPS(Continuation-passing style)
 
+### 3. Type System
+
+A nice example is Google's Dart: <https://dart.dev/guides/language/sound-dart>
+
 
 #### REFs
 

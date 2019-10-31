@@ -5,6 +5,8 @@
 #include <stdlib.h>
 
 std::map<unsigned, unsigned> instr_map;
+// branch_count[0]: branch taken number
+// branch_count[1]: total branches number
 int branch_count[2];
 
 // REF: https://github.com/llvm-mirror/llvm/blob/master/lib/IR/Instruction.cpp#L290-L371
