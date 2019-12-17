@@ -1,5 +1,7 @@
 # Clang and LLVM Tutorial
 
+[![License: WTFPL](https://camo.githubusercontent.com/e611a050b726fe279c2e4ca11b8186efd400b8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d575446504c2d627269676874677265656e2e737667)](http://www.wtfpl.net/about/)
+
 This archieve is mainly about some interesting examples of clang and llvm... Some of them  are the homework of my postgraduate course, some of them are others, most of them are `toy code` : )
 
 ## Contents
