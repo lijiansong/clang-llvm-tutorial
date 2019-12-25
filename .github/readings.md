@@ -235,6 +235,9 @@
 - Lectures on Constructive Functional Programming: <https://www.cs.ox.ac.uk/files/3390/PRG69.pdf>
 - Effects of depth and width in DNN models: <https://stats.stackexchange.com/questions/214360/what-are-the-effects-of-depth-and-width-in-deep-neural-networks> and conclusion: wider residual networks allow many multiplications to be computed in parallel, whilst deeper residual networks use more sequential computations (since the computation depend on the previous layer).
 - TVM GPU auto TensorCore CodeGen: <https://github.com/dmlc/tvm/issues/4105>
+- Jetson AGX Xavier: Deep Learning Inference Benchmarks: <https://developer.nvidia.com/embedded/jetson-agx-xavier-dl-inference-benchmarks>
+- NVIDIA Jetson AGX Xavier Delivers 32 TeraOps for New Era of AI in Robotics: <https://devblogs.nvidia.com/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/>
+- How we built a Super Nintendo out of a wireless keyboard @Sifteo #Sifteo: <https://blog.adafruit.com/2012/12/05/how-we-built-a-super-nintendo-out-of-a-wireless-keyboard-sifteo-sifteo/>
 
 
 
