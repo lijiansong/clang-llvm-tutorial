@@ -238,6 +238,7 @@
 - Jetson AGX Xavier: Deep Learning Inference Benchmarks: <https://developer.nvidia.com/embedded/jetson-agx-xavier-dl-inference-benchmarks>
 - NVIDIA Jetson AGX Xavier Delivers 32 TeraOps for New Era of AI in Robotics: <https://devblogs.nvidia.com/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/>
 - How we built a Super Nintendo out of a wireless keyboard @Sifteo #Sifteo: <https://blog.adafruit.com/2012/12/05/how-we-built-a-super-nintendo-out-of-a-wireless-keyboard-sifteo-sifteo/>
+- How fast is my model?<https://machinethink.net/blog/how-fast-is-my-model/>
 
 
 
