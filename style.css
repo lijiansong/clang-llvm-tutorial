@@ -34,14 +34,6 @@ border-radius: 4px;
 -moz-box-shadow: 0 2px 6px rgba(0,0,0,.125);
 box-shadow: 0 2px 6px rgba(0,0,0,.125);
 }
-.footer_outer {
-position: absolute;
-z-index: -1;
-bottom: 2px;
-margin-bottom: 2px;
-width: 99%;
-text-align: center;
-}
 .directions{
 color: #fff;
 font-weight: bold;
@@ -69,6 +61,7 @@ body {
 
 }
 
+
 #info {
   color: #c88;
   font-size: 12em;
@@ -87,4 +80,11 @@ body {
     padding-top: 75%; /* 4:3 aspect ratio */
 }
 #element {
+}
+.footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   padding: 1rem;
+   text-align: center;
 }
