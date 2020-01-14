@@ -239,6 +239,7 @@
 - NVIDIA Jetson AGX Xavier Delivers 32 TeraOps for New Era of AI in Robotics: <https://devblogs.nvidia.com/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/>
 - How we built a Super Nintendo out of a wireless keyboard @Sifteo #Sifteo: <https://blog.adafruit.com/2012/12/05/how-we-built-a-super-nintendo-out-of-a-wireless-keyboard-sifteo-sifteo/>
 - How fast is my model?<https://machinethink.net/blog/how-fast-is-my-model/> & Memory usage and computational considerations: <http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D2L1-memory.pdf>
+- A Gentle Introduction to Probabilistic Programming Languages: <https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce>
 
 
 
