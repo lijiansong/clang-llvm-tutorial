@@ -231,6 +231,7 @@
 - Imperative programming: <https://en.wikipedia.org/wiki/Imperative_programming> and Declarative programming: <https://en.wikipedia.org/wiki/Declarative_programming>
 - Lua: <https://zh.wikipedia.org/wiki/Lua>
 - Tensor Contrations Layers for Parsimonious Deep Nets: <https://ibug.doc.ic.ac.uk/media/uploads/documents/tensor_contraction_layers.pdf> and Role of Tensors in Deep Learning: <http://users.cecs.anu.edu.au/~koniusz/tensors-cvpr17/present/anandkumar_anima_tmcv2017.pdf>
+- Inner product and outer product: <http://www.inf.ed.ac.uk/teaching/courses/cfcs1/lectures/cfcs_l10.pdf>
 - History of compiler construction: <https://en.wikipedia.org/wiki/History_of_compiler_construction>
 - Lectures on Constructive Functional Programming: <https://www.cs.ox.ac.uk/files/3390/PRG69.pdf>
 - Effects of depth and width in DNN models: <https://stats.stackexchange.com/questions/214360/what-are-the-effects-of-depth-and-width-in-deep-neural-networks> and conclusion: wider residual networks allow many multiplications to be computed in parallel, whilst deeper residual networks use more sequential computations (since the computation depend on the previous layer).
@@ -238,7 +239,7 @@
 - Jetson AGX Xavier: Deep Learning Inference Benchmarks: <https://developer.nvidia.com/embedded/jetson-agx-xavier-dl-inference-benchmarks>
 - NVIDIA Jetson AGX Xavier Delivers 32 TeraOps for New Era of AI in Robotics: <https://devblogs.nvidia.com/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/>
 - How we built a Super Nintendo out of a wireless keyboard @Sifteo #Sifteo: <https://blog.adafruit.com/2012/12/05/how-we-built-a-super-nintendo-out-of-a-wireless-keyboard-sifteo-sifteo/>
-- How fast is my model?<https://machinethink.net/blog/how-fast-is-my-model/> & Memory usage and computational considerations: <http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D2L1-memory.pdf>
+- How fast is my model?<https://machinethink.net/blog/how-fast-is-my-model/> & Memory usage and computational considerations: <http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D2L1-memory.pdf> and CS231n lecture 9: CNN architectures, <http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture09.pdf>
 - A Gentle Introduction to Probabilistic Programming Languages: <https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce>
 
 
