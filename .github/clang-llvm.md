@@ -212,6 +212,7 @@
 - Type system: <http://web.cs.iastate.edu/~weile/cs440.540/5.SemanticAnalysis.types.pdf>
 - Coq, a formal proof management system: <https://coq.inria.fr/>
 - Remove Deprecated Use of the register Keyword: <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4340>
+- Python llvmlite example: <https://ian-bertolacci.github.io/llvm/llvmlite/python/compilers/programming/2016/03/06/LLVMLite_fibonacci.html>
 
 
 

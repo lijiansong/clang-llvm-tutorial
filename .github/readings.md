@@ -241,6 +241,10 @@
 - How we built a Super Nintendo out of a wireless keyboard @Sifteo #Sifteo: <https://blog.adafruit.com/2012/12/05/how-we-built-a-super-nintendo-out-of-a-wireless-keyboard-sifteo-sifteo/>
 - How fast is my model?<https://machinethink.net/blog/how-fast-is-my-model/> & Memory usage and computational considerations: <http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D2L1-memory.pdf> and CS231n lecture 9: CNN architectures, <http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture09.pdf>
 - A Gentle Introduction to Probabilistic Programming Languages: <https://towardsdatascience.com/a-gentle-introduction-to-probabilistic-programming-languages-ba9105d9cbce>
+- ASPLOS'20: Interstellar: Using Halides Scheduling Language to Analyze DNN Accelerators, <https://asplos-conference.org/wp-content/uploads/2020/abstracts/paper_4_0.html>
+- ASPLOS'20: AutoTM: Automatic Tensor Movement in Heterogeneous Memory Systems using Integer Linear Programming, <https://arch.cs.ucdavis.edu/papers/2019-12-15-autotm>
+- ASPLOS'20: FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, <https://asplos-conference.org/wp-content/uploads/2020/abstracts/paper_9_0.html>
+- ASPLOS'20: Learning-based Memory Allocation for C++ Server Workloads, <http://www.cs.utexas.edu/users/mckinley/papers/llama-asplos-2020.pdf>
 
 
 
