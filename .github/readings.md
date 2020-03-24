@@ -200,6 +200,7 @@
 - NIPS'16, deep learning jit opt, Knet: beginning deep learning with 100 lines of Julia, <http://www2.denizyuret.com/bib/yuret/yuret2016knet/knet-beginning-deep%20(3).pdf>
 - EuroLLVM'19, by Chris Lattner, MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure: <https://www.youtube.com/watch?v=qzljG6DKgic>
 - EuroLLVM'19, Tutorial: Building a Compiler with MLIR: <http://www.llvm.org/devmtg/2019-04/slides/Tutorial-AminiVasilacheZinenko-MLIR.pdf> 
+- MLIR arXiv publication: <https://arxiv.org/pdf/2002.11054.pdf>
 - EuroLLVM'19, by Thomas Joerg, Automated GPU Kernel Fusion with XLA: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Joerg-Automated_GPU_Kernel_Fusion_with_XLA.pdf>
 - EuroLLVM'19, Just compile it: High-level programming on the GPU with Julia: <http://www.llvm.org/devmtg/2019-04/slides/TechTalk-Besard-Just_compile_it_high_level_programming_on_the_GPU_with_Julia.pdf>
 - EuroLLVM'19, Building an LLVM-based tool: lessons learned: <http://www.llvm.org/devmtg/2019-04/slides/Tutorial-Denisov-Building_an_LLVM_based_tool.pdf>
@@ -245,6 +246,7 @@
 - ASPLOS'20: AutoTM: Automatic Tensor Movement in Heterogeneous Memory Systems using Integer Linear Programming, <https://arch.cs.ucdavis.edu/papers/2019-12-15-autotm>
 - ASPLOS'20: FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, <https://asplos-conference.org/wp-content/uploads/2020/abstracts/paper_9_0.html>
 - ASPLOS'20: Learning-based Memory Allocation for C++ Server Workloads, <http://www.cs.utexas.edu/users/mckinley/papers/llama-asplos-2020.pdf>
+- depthwise convolution implementation details: <https://eli.thegreenplace.net/2018/depthwise-separable-convolutions-for-machine-learning/>
 
 
 
