@@ -1,6 +1,6 @@
 # MLIR Toys
 
-<https://github.com/tensorflow/mlir/tree/master/examples/toy>
+<https://github.com/llvm/llvm-project/tree/master/mlir/examples/toy>
 
 ## REF
 
