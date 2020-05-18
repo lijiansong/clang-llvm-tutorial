@@ -247,6 +247,8 @@
 - ASPLOS'20: FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, <https://asplos-conference.org/wp-content/uploads/2020/abstracts/paper_9_0.html>
 - ASPLOS'20: Learning-based Memory Allocation for C++ Server Workloads, <http://www.cs.utexas.edu/users/mckinley/papers/llama-asplos-2020.pdf>
 - depthwise convolution implementation details: <https://eli.thegreenplace.net/2018/depthwise-separable-convolutions-for-machine-learning/>
+- Batch Inference vs Online Inference in Production: <https://mlinproduction.com/batch-inference-vs-online-inference/>
+- Lift project successor with MLIR support: <https://github.com/rise-lang>
 
 
 
