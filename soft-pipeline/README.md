@@ -26,3 +26,4 @@ If all the instructions can be scheduled in the specified order, then the algori
 - PACT'1996: Swing module scheduling: a lifetime-sensitive approach
 - LLVM Implementation: <https://github.com/llvm/llvm-project/blob/master/llvm/lib/CodeGen/MachinePipeliner.cpp>
 - An implementation of Swing Modulo Scheduling: <https://reviews.llvm.org/D16829>
+- Loop Pipelining and Loop Unrolling: <https://www.xilinx.com/support/documentation/sw_manuals/xilinx2015_2/sdsoc_doc/topics/calling-coding-guidelines/concept_pipelining_loop_unrolling.html>

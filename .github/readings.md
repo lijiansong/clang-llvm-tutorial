@@ -249,6 +249,8 @@
 - depthwise convolution implementation details: <https://eli.thegreenplace.net/2018/depthwise-separable-convolutions-for-machine-learning/>
 - Batch Inference vs Online Inference in Production: <https://mlinproduction.com/batch-inference-vs-online-inference/>
 - Lift project successor with MLIR support: <https://github.com/rise-lang>
+- Symbolic Execution: <https://www.cs.umd.edu/~mwh/se-tutorial/symbolic-exec.pdf> 
+- A Survey of Symbolic Execution Techniques: <https://arxiv.org/pdf/1610.00502.pdf>
 
 
 
