@@ -251,6 +251,8 @@
 - Lift project successor with MLIR support: <https://github.com/rise-lang>
 - Symbolic Execution: <https://www.cs.umd.edu/~mwh/se-tutorial/symbolic-exec.pdf> 
 - A Survey of Symbolic Execution Techniques: <https://arxiv.org/pdf/1610.00502.pdf>
+- Circuit IR Compilers and Tools based on LLVM and MLIR: <https://github.com/llvm/circt> and <https://github.com/llvm/circt/blob/master/docs/Charter.md>
+- GCC Porting to New Hardware or Operating Systems: <https://gcc.gnu.org/onlinedocs/libstdc++/manual/internals.html>
 
 
 
