@@ -253,6 +253,7 @@
 - A Survey of Symbolic Execution Techniques: <https://arxiv.org/pdf/1610.00502.pdf>
 - Circuit IR Compilers and Tools based on LLVM and MLIR: <https://github.com/llvm/circt> and <https://github.com/llvm/circt/blob/master/docs/Charter.md>
 - GCC Porting to New Hardware or Operating Systems: <https://gcc.gnu.org/onlinedocs/libstdc++/manual/internals.html>
+- OSDI'20, Ansor: Generating High-Performance Tensor Programs for Deep Learning. RFC see: <https://discuss.tvm.apache.org/t/rfc-ansor-an-auto-scheduler-for-tvm-autotvm-v2-0/7005> and corresponding pull request: <https://github.com/apache/incubator-tvm/pull/5883> and <https://github.com/apache/incubator-tvm/pull/5962>
 
 
 
