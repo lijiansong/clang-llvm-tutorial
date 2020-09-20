@@ -23,6 +23,7 @@
   - SIMD Programming: <https://www.moreno.marzolla.name/teaching/high-performance-computing/2017-2018/L08-SIMD.pdf>
   - PPoPP 2018, WPMVP 2018 Workshop on Programming Models for SIMD/Vector Processing, <https://ppopp18.sigplan.org/track/WPMVP2018>
   - A Data Layout Transformation for Vectorizing Compilers: <https://graphics.cg.uni-saarland.de/papers/perard-2018-wpmvp.pdf>
+  - Intel MKL Library, Understanding Memory Formats, data layout: <https://oneapi-src.github.io/oneDNN/understanding_memory_formats.html>
   - A Compiler Approach for Exploiting Partial SIMD Parallelism, <https://dl.acm.org/citation.cfm?id=2886101>
   - Optimizations of the Whole Function Vectorization Based on SIMD Characteristics: <https://www.researchgate.net/publication/320230290_Optimizations_of_the_Whole_Function_Vectorization_Based_on_SIMD_Characteristics>
   - Look-ahead SLP: auto-vectorization in the presence of commutative operations: <https://www.researchgate.net/publication/323507137_Look-ahead_SLP_auto-vectorization_in_the_presence_of_commutative_operations> and its slide: <http://llvm.org/devmtg/2018-04/slides/Rocha-Look-Ahead%20SLP.pdf>
@@ -254,6 +255,8 @@
 - Circuit IR Compilers and Tools based on LLVM and MLIR: <https://github.com/llvm/circt> and <https://github.com/llvm/circt/blob/master/docs/Charter.md>
 - GCC Porting to New Hardware or Operating Systems: <https://gcc.gnu.org/onlinedocs/libstdc++/manual/internals.html>
 - OSDI'20, Ansor: Generating High-Performance Tensor Programs for Deep Learning. RFC see: <https://discuss.tvm.apache.org/t/rfc-ansor-an-auto-scheduler-for-tvm-autotvm-v2-0/7005> and corresponding pull request: <https://github.com/apache/incubator-tvm/pull/5883> and <https://github.com/apache/incubator-tvm/pull/5962>
+- Hints and Principles for Computer System Design: <https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/>, 2020 version see [here](https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf) and 1993 ACM Turing Award lecture slides: <https://dl.acm.org/doi/pdf/10.1145/1283920.2159562>, Hints for computer system design <https://dl.acm.org/doi/10.1145/773379.806614>.
+- Paper Review of "Hints On Computer System Design": <https://lethain.com/paper-review-of-hints-on-computer-system-design/>
 
 
 
