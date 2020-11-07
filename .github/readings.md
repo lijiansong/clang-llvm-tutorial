@@ -147,6 +147,7 @@
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
 - Calculus on Computational Graphs: Backpropagation, <https://colah.github.io/posts/2015-08-Backprop/>
 - Understanding Graphs, Automatic Differentiation and Autograd: <https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/>
+- PyTorch AUTOGRAD MECHANICS: <https://pytorch.org/docs/stable/notes/autograd.html> and Apache Singa autograd: <http://singa.apache.org/docs/autograd>
 - Continuation in PL: <https://en.wikipedia.org/wiki/Continuation>
 - Stanford CS217: Hardware Accelerators for Machine Learning <https://cs217.stanford.edu>
 - Notes on Programming Standard ML of New Jersey: <http://www.cs.cornell.edu/riccardo/prog-smlnj/notes-011001.pdf> and basic polymorphic typechecking: <https://www.classes.cs.uchicago.edu/archive/2016/fall/22600-1/docs/polymorphism.pdf>
@@ -257,6 +258,7 @@
 - OSDI'20, Ansor: Generating High-Performance Tensor Programs for Deep Learning. RFC see: <https://discuss.tvm.apache.org/t/rfc-ansor-an-auto-scheduler-for-tvm-autotvm-v2-0/7005> and corresponding pull request: <https://github.com/apache/incubator-tvm/pull/5883> and <https://github.com/apache/incubator-tvm/pull/5962>
 - Hints and Principles for Computer System Design: <https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/>, 2020 version see [here](https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf) and 1993 ACM Turing Award lecture slides: <https://dl.acm.org/doi/pdf/10.1145/1283920.2159562>, Hints for computer system design <https://dl.acm.org/doi/10.1145/773379.806614>.
 - Paper Review of "Hints On Computer System Design": <https://lethain.com/paper-review-of-hints-on-computer-system-design/>
+- Unit Testing Each Operator(Kernel) in TensorFlow-Lite: <https://www.programmersought.com/article/6765234355/>
 
 
 

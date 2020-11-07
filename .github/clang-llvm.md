@@ -15,6 +15,7 @@
 - Stanford CS243: Program Analysis and Optimization, <https://suif.stanford.edu/~courses/cs243/>
 - Stanford CS242: Programming Languages, <https://cs242.stanford.edu/f18/>
 - USTC, Spring 2017, Foundations of Programming Languages, <http://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html>
+- SJTU SE315 2020, OS: Operating Systems, <https://ipads.se.sjtu.edu.cn/courses/os/schedule.shtml>
 - Stanford CS103, Mathematical Foundations of Computing, <http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/>
 - WISC CS704: Principles of Programming Languages, class notes: <http://pages.cs.wisc.edu/~horwitz/CS704-NOTES/> and its git repo: <https://github.com/barghouthi/cs704>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
@@ -213,6 +214,7 @@
 - Coq, a formal proof management system: <https://coq.inria.fr/>
 - Remove Deprecated Use of the register Keyword: <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4340>
 - Python llvmlite example: <https://ian-bertolacci.github.io/llvm/llvmlite/python/compilers/programming/2016/03/06/LLVMLite_fibonacci.html>
+- LL and LR Parsing Demystified: <https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html>
 
 
 
