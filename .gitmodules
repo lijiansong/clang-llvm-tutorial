@@ -1,3 +1,6 @@
 [submodule "source-to-source/meta-reflect"]
 	path = source-to-source/meta-reflect
 	url = https://github.com/Leandros/metareflect.git
+[submodule "mapping-high-level-constructs-to-llvm-ir"]
+	path = mapping-high-level-constructs-to-llvm-ir
+	url = https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir

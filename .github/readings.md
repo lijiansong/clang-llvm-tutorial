@@ -142,6 +142,7 @@
 - Distributed Deep learning training: <https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/>
 - LINM (Loop Invariant Node Motion) optimization pass in Graph Optimization for Tensorflow, commited by Alibaba PAI-Blade team, checkout here: <https://github.com/tensorflow/tensorflow/pull/16306> and Bringing TVM into TensorFlow for Optimizing Neural Machine Translation on GPU, checkout TVM blog: <https://tvm.ai/2018/03/23/nmt-transformer-optimize.html>
 - Add a new backend to TVM: <https://discuss.tvm.ai/t/nnvm-is-there-any-guide-to-add-a-new-backend/459/4>
+- How CUDA kernel is launched in TVM stack: <https://discuss.tvm.apache.org/t/how-cuda-kernel-is-launched-in-tvm-stack/6167/3>
 - Automatic Optimization of the Computation Graph in the Nengo Neural Network Simulator[.](https://www.frontiersin.org/articles/10.3389/fninf.2017.00033/full)
 - Topological Sort Algorithm: <https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect20.pdf>
 - Computation graph auto-diff: <http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf>
@@ -258,6 +259,7 @@
 - OSDI'20, Ansor: Generating High-Performance Tensor Programs for Deep Learning. RFC see: <https://discuss.tvm.apache.org/t/rfc-ansor-an-auto-scheduler-for-tvm-autotvm-v2-0/7005> and corresponding pull request: <https://github.com/apache/incubator-tvm/pull/5883> and <https://github.com/apache/incubator-tvm/pull/5962>
 - Hints and Principles for Computer System Design: <https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/>, 2020 version see [here](https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf) and 1993 ACM Turing Award lecture slides: <https://dl.acm.org/doi/pdf/10.1145/1283920.2159562>, Hints for computer system design <https://dl.acm.org/doi/10.1145/773379.806614>.
 - Paper Review of "Hints On Computer System Design": <https://lethain.com/paper-review-of-hints-on-computer-system-design/>
+- Great Principles of Computing: <http://greatprinciples.org>
 - Unit Testing Each Operator(Kernel) in TensorFlow-Lite: <https://www.programmersought.com/article/6765234355/>
 
 
