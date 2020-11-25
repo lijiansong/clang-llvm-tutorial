@@ -261,6 +261,7 @@
 - Paper Review of "Hints On Computer System Design": <https://lethain.com/paper-review-of-hints-on-computer-system-design/>
 - Great Principles of Computing: <http://greatprinciples.org>
 - Unit Testing Each Operator(Kernel) in TensorFlow-Lite: <https://www.programmersought.com/article/6765234355/>
+- PLDI'20, Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs: <https://dl.acm.org/doi/abs/10.1145/3385412.3386036>
 
 
 
