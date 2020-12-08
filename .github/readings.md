@@ -262,6 +262,9 @@
 - Great Principles of Computing: <http://greatprinciples.org>
 - Unit Testing Each Operator(Kernel) in TensorFlow-Lite: <https://www.programmersought.com/article/6765234355/>
 - PLDI'20, Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs: <https://dl.acm.org/doi/abs/10.1145/3385412.3386036>
+- Talks by Albert Cohen @PLISS'2019: Polyhedral Compilation as a Design Pattern for Compiler Construction, <https://pliss2019.github.io/albert_cohen_slides.pdf>
+- Improving Compilation Time of C/C++ Projects: <https://interrupt.memfault.com/blog/improving-compilation-times-c-cpp-projects>
+- HOW (AND HOW NOT) TO WRITE A GOOD SYSTEMS PAPER: <https://www.usenix.org/conferences/author-resources/how-and-how-not-write-good-systems-paper> & <https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html> & Course summary from Prof. Jianfeng Zhan: <http://prof.ict.ac.cn/DComputing/uploads/2013/DC_1_2_how_to_write_a_good_system_paper.pdf>
 
 
 
