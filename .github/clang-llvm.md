@@ -215,6 +215,7 @@
 - Remove Deprecated Use of the register Keyword: <http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4340>
 - Python llvmlite example: <https://ian-bertolacci.github.io/llvm/llvmlite/python/compilers/programming/2016/03/06/LLVMLite_fibonacci.html>
 - LL and LR Parsing Demystified: <https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html>
+- Anders Møller and Michael I. Schwartzbach@Department of Computer Science, Aarhus University, lecture notes on static program analysis: <https://cs.au.dk/~amoeller/spa/>
 
 
 
