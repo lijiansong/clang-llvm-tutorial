@@ -257,6 +257,7 @@
 - Circuit IR Compilers and Tools based on LLVM and MLIR: <https://github.com/llvm/circt> and <https://github.com/llvm/circt/blob/master/docs/Charter.md>
 - GCC Porting to New Hardware or Operating Systems: <https://gcc.gnu.org/onlinedocs/libstdc++/manual/internals.html>
 - OSDI'20, Ansor: Generating High-Performance Tensor Programs for Deep Learning. RFC see: <https://discuss.tvm.apache.org/t/rfc-ansor-an-auto-scheduler-for-tvm-autotvm-v2-0/7005> and corresponding pull request: <https://github.com/apache/incubator-tvm/pull/5883> and <https://github.com/apache/incubator-tvm/pull/5962>
+- [RFC] TensorIR: A schedulable IR for TVM: <https://discuss.tvm.apache.org/t/rfc-tensorir-a-schedulable-ir-for-tvm/7872>
 - Hints and Principles for Computer System Design: <https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/>, 2020 version see [here](https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf) and 1993 ACM Turing Award lecture slides: <https://dl.acm.org/doi/pdf/10.1145/1283920.2159562>, Hints for computer system design <https://dl.acm.org/doi/10.1145/773379.806614>.
 - Paper Review of "Hints On Computer System Design": <https://lethain.com/paper-review-of-hints-on-computer-system-design/>
 - Great Principles of Computing: <http://greatprinciples.org>
@@ -265,6 +266,7 @@
 - Talks by Albert Cohen @PLISS'2019: Polyhedral Compilation as a Design Pattern for Compiler Construction, <https://pliss2019.github.io/albert_cohen_slides.pdf>
 - Improving Compilation Time of C/C++ Projects: <https://interrupt.memfault.com/blog/improving-compilation-times-c-cpp-projects>
 - HOW (AND HOW NOT) TO WRITE A GOOD SYSTEMS PAPER: <https://www.usenix.org/conferences/author-resources/how-and-how-not-write-good-systems-paper> & <https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html> & Course summary from Prof. Jianfeng Zhan: <http://prof.ict.ac.cn/DComputing/uploads/2013/DC_1_2_how_to_write_a_good_system_paper.pdf>
+- The Art of the MetaObject Protocol: <https://ldbeth.sdf.org/The_Art_of_the_Metaobject_Protocol.pdf>
 
 
 
