@@ -267,6 +267,7 @@
 - Improving Compilation Time of C/C++ Projects: <https://interrupt.memfault.com/blog/improving-compilation-times-c-cpp-projects>
 - HOW (AND HOW NOT) TO WRITE A GOOD SYSTEMS PAPER: <https://www.usenix.org/conferences/author-resources/how-and-how-not-write-good-systems-paper> & <https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html> & Course summary from Prof. Jianfeng Zhan: <http://prof.ict.ac.cn/DComputing/uploads/2013/DC_1_2_how_to_write_a_good_system_paper.pdf>
 - The Art of the MetaObject Protocol: <https://ldbeth.sdf.org/The_Art_of_the_Metaobject_Protocol.pdf>
+- StarPU: A Unified Runtime System for Heterogeneous Multicore Architectures: <https://starpu.gitlabpages.inria.fr/>
 
 
 
