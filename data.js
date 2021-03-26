@@ -80,6 +80,7 @@ var elementData = { nodes: [
       { data: { id: '2019', name: '2019', year: '2019' , numberInYear: '230', backgroundColor:'white', fadedOpacity:'1', color:'black', fontWeight:'normal'}, position: {x: 230, y:100950}, },
       { data: { id: '2020', name: '2020', year: '2020' , numberInYear: '230', backgroundColor:'white', fadedOpacity:'1', color:'black', fontWeight:'normal'}, position: {x: 230, y:101000}, },
       { data: { id: '2021', name: '2021', year: '2021' , numberInYear: '230', backgroundColor:'white', fadedOpacity:'1', color:'black', fontWeight:'normal'}, position: {x: 230, y:101050}, },
+      { data: { id: '2022', name: '2022', year: '2022' , numberInYear: '230', backgroundColor:'white', fadedOpacity:'1', color:'black', fontWeight:'normal'}, position: {x: 230, y:101100}, },
       { data: { id: 'plankalkul', name: 'plankalkul', year: '1943' , numberInYear: '460', backgroundColor:'#e5e5e5', fadedOpacity:'0', color:'#DB2127', fontWeight:'normal'}, position: {x: 460, y:97150}, },
       { data: { id: 'arcassembly', name: 'arcassembly', year: '1947' , numberInYear: '460', backgroundColor:'#e5e5e5', fadedOpacity:'0', color:'#DB2127', fontWeight:'normal'}, position: {x: 460, y:97350}, },
       { data: { id: 'plankalkul', name: 'plankalkul', year: '1948' , numberInYear: '460', backgroundColor:'#e5e5e5', fadedOpacity:'0', color:'#DB2127', fontWeight:'normal'}, position: {x: 460, y:97400}, },
