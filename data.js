@@ -369,6 +369,7 @@ var elementData = { nodes: [
       { data: { id: 'ballerina', name: 'ballerina', year: '2017' , numberInYear: '460', backgroundColor:'#e5e5e5', fadedOpacity:'0', color:'#DB2127', fontWeight:'normal'}, position: {x: 460, y:100850}, },
       { data: { id: 'v', name: 'v', year: '2019' , numberInYear: '460', backgroundColor:'#e5e5e5', fadedOpacity:'0', color:'#DB2127', fontWeight:'normal'}, position: {x: 460, y:100950}, },
       { data: { id: 'bosque', name: 'bosque', year: '2019' , numberInYear: '690', backgroundColor:'#e5e5e5', fadedOpacity:'0', color:'#DB2127', fontWeight:'normal'}, position: {x: 690, y:100950}, },
+      { data: { id: 'power-fx', name: 'power-fx', year: '2021' , numberInYear: '460', backgroundColor:'#e5e5e5', fadedOpacity:'0', color:'#DB2127', fontWeight:'normal'}, position: {x: 460, y:101050}, },
 ], edges: [
       { data: { source: 'plankalkul', target: 'superplan' } },
       { data: { source: 'shortcode', target: 'a-0' } },
