@@ -268,6 +268,8 @@
 - HOW (AND HOW NOT) TO WRITE A GOOD SYSTEMS PAPER: <https://www.usenix.org/conferences/author-resources/how-and-how-not-write-good-systems-paper> & <https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html> & Course summary from Prof. Jianfeng Zhan: <http://prof.ict.ac.cn/DComputing/uploads/2013/DC_1_2_how_to_write_a_good_system_paper.pdf>
 - The Art of the MetaObject Protocol: <https://ldbeth.sdf.org/The_Art_of_the_Metaobject_Protocol.pdf>
 - StarPU: A Unified Runtime System for Heterogeneous Multicore Architectures: <https://starpu.gitlabpages.inria.fr/>
+- AVX-512 Vector Neural Network Instructions (VNNI) - x86: <https://en.wikichip.org/wiki/x86/avx512_vnni>
+- ISPASS'21 best paper nominee: Characterizing Massively Parallel Polymorphism, <https://drive.google.com/file/d/1suEa8mrMqCP1X2DcE1Ck9DK1qrPbbQ3v/view>; ASPLOS'21: Judging a Type by its Pointer: Optimizing GPU Virtual Function Calls; Runtime polymorphism has been supported in CUDA 11.2: <https://nvidia.github.io/libcudacxx/>
 
 
 
