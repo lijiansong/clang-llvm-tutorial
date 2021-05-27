@@ -30,6 +30,7 @@
 - U.C. Berkeley CS267, Applications of Parallel Computers[.](https://people.eecs.berkeley.edu/~demmel/cs267_Spr12/)
 - CMU 15745-s11, pointer analysis, lecture slide: <http://www.cs.cmu.edu/afs/cs/academic/class/15745-s11/public/lectures/L27-Pointer-Analysis.pdf>
 - Harvard, CS252 , pointer analysis, lecture slide: <https://www.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf>
+- Berkeley EECS 151, Introduction to Digital Design and Integrated Circuits, lecture page: <https://inst.eecs.berkeley.edu//~eecs151/fa20/>
 - Nice flex & bison man page: <http://dinosaur.compilertools.net>
 - A nice tutorial page: <https://www.tutorialspoint.com/>
 - Point to analysis, checkout this page: <https://yanniss.github.io/points-to-tutorial15.pdf>

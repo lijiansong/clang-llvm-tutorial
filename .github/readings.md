@@ -270,6 +270,12 @@
 - StarPU: A Unified Runtime System for Heterogeneous Multicore Architectures: <https://starpu.gitlabpages.inria.fr/>
 - AVX-512 Vector Neural Network Instructions (VNNI) - x86: <https://en.wikichip.org/wiki/x86/avx512_vnni>
 - ISPASS'21 best paper nominee: Characterizing Massively Parallel Polymorphism, <https://drive.google.com/file/d/1suEa8mrMqCP1X2DcE1Ck9DK1qrPbbQ3v/view>; ASPLOS'21: Judging a Type by its Pointer: Optimizing GPU Virtual Function Calls; Runtime polymorphism has been supported in CUDA 11.2: <https://nvidia.github.io/libcudacxx/>
+- EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs: <https://editorconfig.org/>
+- How the Boeing 737 Max Disaster Looks to a Software Developer: <https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer>
+- On the Expressive Power of Programming Languages: <https://homepage.cs.uiowa.edu/~jgmorrs/eecs762f19/papers/felleisen.pdf>
+- EuroMLSys'21, DISC: A Dynamic Shape Compiler for Machine Learning Workloads: <https://dl.acm.org/doi/10.1145/3437984.3458838> & [RFC] Dynamic shape for XLA with MLIR: <https://groups.google.com/a/tensorflow.org/g/mlir/c/_X48poNcbDI/m/jCC8BWIICQAJ>
+- A Survey of Deep **Active Learning**: <https://arxiv.org/abs/2009.00236>
+- DATE'21, Deep Neural Network Hardware Deployment Optimization via Advanced Active Learning: <http://www.cse.cuhk.edu.hk/~byu/papers/C113-DATE2021-TVM-AL.pdf>
 
 
 
