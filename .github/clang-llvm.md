@@ -19,6 +19,7 @@
 - Stanford CS103, Mathematical Foundations of Computing, <http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/>
 - WISC CS704: Principles of Programming Languages, class notes: <http://pages.cs.wisc.edu/~horwitz/CS704-NOTES/> and its git repo: <https://github.com/barghouthi/cs704>
 - INF 102 Concept of Programming Languages II, by Prof. Cristina Lopes, <https://www.ics.uci.edu/~jajones/INF102-S18/> and lecture slides: <https://www.ics.uci.edu/~jajones/INF102-S18/lectures/>
+- MPRI course 2-4, Functional Programming and Type Systems, <https://xavierleroy.org/mpri/2-4/>, online repo: <https://github.com/MPRI/M2-4-2>
 - 263-2800-00L: Design of Parallel and High-Performance Computing, <https://spcl.inf.ethz.ch/Teaching/2016-dphpc/>
 - UDEL CPEG 421/621 Compiler Design: <http://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=schedule>
 - utexas, CS 380C: Advanced Topics in Compilers: <http://www.cs.utexas.edu/~pingali/CS380C/2016-fall/>

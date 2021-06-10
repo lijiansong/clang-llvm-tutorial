@@ -276,6 +276,9 @@
 - EuroMLSys'21, DISC: A Dynamic Shape Compiler for Machine Learning Workloads: <https://dl.acm.org/doi/10.1145/3437984.3458838> & [RFC] Dynamic shape for XLA with MLIR: <https://groups.google.com/a/tensorflow.org/g/mlir/c/_X48poNcbDI/m/jCC8BWIICQAJ>
 - A Survey of Deep **Active Learning**: <https://arxiv.org/abs/2009.00236>
 - DATE'21, Deep Neural Network Hardware Deployment Optimization via Advanced Active Learning: <http://www.cse.cuhk.edu.hk/~byu/papers/C113-DATE2021-TVM-AL.pdf>
+- Gradual Type System: <https://blog.sigplan.org/2019/07/12/gradual-typing-theory-practice/>
+- Null-References: the Billion Dollar Mistake, by Tony Hoare: <https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/>
+- CPU Memory Model, tiny blog: <https://dl.acm.org/doi/10.1145/1353522.1353528>
 
 
 
