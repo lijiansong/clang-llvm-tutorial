@@ -42,7 +42,8 @@
 - Intel Xeon Phi(MIC) and GPU: <https://www.lrz.de/services/compute/courses/x_lecturenotes/MIC_GPU_Workshop/MIC-AND-GPU-2015.pdf>
 - Introduction to Parallel Algorithms and Parallel Program Design, checkout this slide: <http://ipcc.cs.uoregon.edu/lectures/lecture-12-algorithms.pdf>
 - OpenARC: Open Accelerator Research Compiler, <https://ft.ornl.gov/research/openarc> and related publications: <https://ft.ornl.gov/publications>
-- Source Cetus: Source-to-source Compiler source Compiler Infrastructure for Multicores, checkout this slide: <https://engineering.purdue.edu/Cetus/Documentation/tutorials/ppopp09.pdf>
+- Source Cetus: Source-to-source Compiler source Compiler Infrastructure for Multicores, checkout this slide: <https://engineering.purdue.edu/Cetus/Documentation/tutorials/ppopp09.pdf> and <https://engineering.purdue.edu/Cetus/>
+- ROSE compiler: source to source program transformation and analysis tools by Lawrence Livermore National Laboratory: <http://rosecompiler.org/> & <https://github.com/rose-compiler/rose/wiki/Publications>
 - Clacc: OpenACC Support for Clang/LLVM, <http://llvm.org/devmtg/2018-04/slides/Vetter-Clacc.pdf>
 - OpenMP in clang, <https://clang-omp.github.io/> and its github repo: <https://github.com/llvm-project/openmp> and tutorial: <https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf>
 - Introduction to GCC Inline Asm: <http://asm.sourceforge.net/articles/rmiyagi-inline-asm.txt>
