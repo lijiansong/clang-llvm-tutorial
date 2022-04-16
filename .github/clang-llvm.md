@@ -219,6 +219,7 @@
 - Python llvmlite example: <https://ian-bertolacci.github.io/llvm/llvmlite/python/compilers/programming/2016/03/06/LLVMLite_fibonacci.html>
 - LL and LR Parsing Demystified: <https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html>
 - Anders Møller and Michael I. Schwartzbach@Department of Computer Science, Aarhus University, lecture notes on static program analysis: <https://cs.au.dk/~amoeller/spa/>
+- Category Theory for Scientists: <https://arxiv.org/pdf/1302.6946.pdf> & <https://math.mit.edu/~dspivak/CT4S.pdf>
 - LLVM Escape Analysis: <https://reviews.llvm.org/D26685> & <https://jonasdevlieghere.com/escape-analysis-capture-tracking-in-llvm/>
 
 
